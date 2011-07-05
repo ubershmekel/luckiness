@@ -10,12 +10,12 @@ import league
 
 
 BASE = 'http://www.teamliquid.net'
-#PLAYERS_URL = BASE + '/tlpd/korean/players'
-#LEAGUE = 'sc1'
-PLAYERS_URL = BASE + '/tlpd/sc2-international/players'
-LEAGUE = 'sc2'
+PLAYERS_URL = BASE + '/tlpd/korean/players'
+LEAGUE = 'sc1'
+#PLAYERS_URL = BASE + '/tlpd/sc2-international/players'
+#LEAGUE = 'sc2'
 
-@filecache(60 * 60)
+@filecache(24 * 60 * 60)
 def get(url):
     return urlopen(url).read()
 
@@ -124,6 +124,7 @@ def merge_results(league_name):
             raw_results = league.csv_parse(fname)
         except Exception, e:
             print('error: %s' % e)
+            continue
         #,Date&nbsp;,League,Map,Opponent,Result,
         #p1, p2, result, date = match
         for match in raw_results:
@@ -142,5 +143,5 @@ def merge_results(league_name):
     
 
 d = get_players()
-#get_records(d)
+get_records(d)
 merge_results(LEAGUE)

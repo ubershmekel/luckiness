@@ -12,7 +12,7 @@ from pylab import colorbar
 
 import league
 
-ONLY_TOP = 45
+ONLY_TOP = 16
 MIN_DATE = datetime.datetime(year=2011, month=1, day=1)
 MIN_MATCHES_COUNT = 5
 
@@ -93,12 +93,13 @@ def analyze(league_name):
     players_list = target_league.get_players()
     players_list = players_list[:ONLY_TOP]
 
+    players_count = len(players_list)
     skill_level = {}
 
     players_list.sort(key=rating_key)
     
     for i, player in enumerate(players_list):
-        skill_level[player.pid] = 1.0 - (1.0 * i) / (len(players_list) - 1)
+        skill_level[player.pid] = 1.0 - (1.0 * i) / (players_count - 1)
 
     players_dict = dict(zip([p.pid for p in players_list], players_list))
 
@@ -145,16 +146,20 @@ def analyze(league_name):
     
     # calculate P from known s1 v s2 records. P1 = (1win + 1win + 0(loss) + ... ) / total_matches
     prob_p1_wins = []
+    matches_count_log = []
     for (s1, s2), rec in records.items():
-        if len(rec) < MIN_MATCHES_COUNT:
+        matches_count = len(rec)
+        if matches_count < MIN_MATCHES_COUNT:
             continue
+        
+        matches_count_log.append(matches_count)
         prob = average(rec)
         # account for s1, s2, probability of winning and the amount of data points
         prob_p1_wins.append((s1, s2, prob, len(rec)))
 
     
     luckiness = calculate_luckiness(prob_p1_wins)
-    print('L for "%s" is: %g' % (league_name, luckiness))
+    print('L for "%s" is %g   Info: top%d, avg matches#%g' % (league_name, luckiness, players_count, average(matches_count_log)))
     # x, y, z = vectors
     
     # limit the skill level shown
@@ -165,8 +170,8 @@ def analyze(league_name):
     #import pdb;pdb.set_trace()
     plot(*vectors)
 
-#analyze('coinflip')
-#analyze('sc1')
+analyze('coinflip')
+analyze('sc1')
 analyze('sc2')
 
 
