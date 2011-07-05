@@ -7,8 +7,8 @@ import datetime
 import league
 
 LEAGUE_DIR = 'coinflip'
-NUM_OF_PLAYERS = 50
-NUM_OF_GAMES = 10
+NUM_OF_PLAYERS = 64
+NUM_OF_GAMES = 20
 
 
 def generate_name():
