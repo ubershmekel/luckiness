@@ -1,0 +1,25 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+L. Kubot,T. Bellucci,1,2,ATP,Clay,http://tennis.wettpoint.com/en/games/926308.html
+G. Dulko,L. Pous-Tio,2,1,WTA,Clay,http://tennis.wettpoint.com/en/games/926342.html
+J. Del Potro,T. Gabashvili,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/926097.html
+K. Anderson,F. Serra,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/926096.html
+S. Wawrinka,A. Dolgopolov,0,2,ATP,Clay,http://tennis.wettpoint.com/en/games/926306.html
+A. Medina Garrigues,C. Suarez Navarro,1,0,WTA,Clay,http://tennis.wettpoint.com/en/games/926341.html
+D. Ferrer,J. Monaco,2,1,ATP,Clay,http://tennis.wettpoint.com/en/games/926305.html
+T. Berdych,N. Djokovic,0,1,ATP,Hard,http://tennis.wettpoint.com/en/games/926260.html
+J. Pospisil,E. Donskoy,1,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/925938.html
+F. Skugor,A. Di Mauro,1,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/925939.html
+I. Bozoljac,M. Bachinger,2,0,Challenger Tour ATP,Carpet,http://tennis.wettpoint.com/en/games/925972.html
+S. Rieschick,R. Bemelmans,0,2,Challenger Tour ATP,Carpet,http://tennis.wettpoint.com/en/games/925970.html
+D. Kindlmann,D. Meffert,0,2,Challenger Tour ATP,Carpet,http://tennis.wettpoint.com/en/games/925971.html
+R. Federer,R. Gasquet,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/926259.html
+C. Wozniacki,M. Bartoli,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/926011.html
+J. Jankovic,V. Zvonareva,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/926012.html
+U. Ignatik,S. Seifert,0,2,Challenger Tour ATP,Carpet,http://tennis.wettpoint.com/en/games/925969.html
+R. Sweeting,K. Nishikori,1,2,ATP,Hard,http://tennis.wettpoint.com/en/games/926102.html
+I. Dodig,J. Tipsarevic,0,2,ATP,Hard,http://tennis.wettpoint.com/en/games/926101.html
+J. Larsson,A. Parra Santonja,0,2,WTA,Clay,http://tennis.wettpoint.com/en/games/926347.html
+N. Almagro,T. Bellucci,2,0,ATP,Clay,http://tennis.wettpoint.com/en/games/926311.html
+A. Falla,M. Fish,0,2,ATP,Hard,http://tennis.wettpoint.com/en/games/926104.html
+A. Medina Garrigues,G. Dulko,0,2,WTA,Clay,http://tennis.wettpoint.com/en/games/926346.html
+K. Anderson,J. Del Potro,0,2,ATP,Hard,http://tennis.wettpoint.com/en/games/926103.html

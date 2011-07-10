@@ -1,0 +1,11 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+A. Martin,B. Klein,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/934799.html
+F. Skugor,C. Zampieri,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/934766.html
+P. Galdon,R. Camilo,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/934767.html
+D. Junqueira,D. Schwartzman,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/934770.html
+J. Acasuso,G. Lapentti,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/934772.html
+J. Silva,S. Travaglia,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/934771.html
+J. Saez,R. Ghedin,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/934768.html
+S. Stadler,G. Naso,2,0,Challenger Tour ATP,Carpet,http://tennis.wettpoint.com/en/games/934730.html
+T. Matsui,Y. Uchiyama,0,2,Challenger Tour ATP,Carpet,http://tennis.wettpoint.com/en/games/934736.html
+P. Oswald,S. Rieschick,0,2,Challenger Tour ATP,Carpet,http://tennis.wettpoint.com/en/games/934725.html

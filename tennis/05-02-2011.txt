@@ -1,0 +1,21 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+T. Robredo,M. Gonzalez,2,0,ATP,Clay,http://tennis.wettpoint.com/en/games/919002.html
+J. Groth,F. Schiavone,2,1,International,Clay,http://tennis.wettpoint.com/en/games/920433.html
+S. Stosur,F. Pennetta,1,2,International,Clay,http://tennis.wettpoint.com/en/games/920434.html
+A. Beck,E. Kirillov,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/918932.html
+D. Meffert,M. Copil,1,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/918931.html
+S. Kuznetsova,A. Cornet,1,2,International,Clay,http://tennis.wettpoint.com/en/games/920461.html
+Y. Wickmayer,B. Mattek-Sands,2,0,International,Clay,http://tennis.wettpoint.com/en/games/920466.html
+D. Hantuchova,L. Safarova,0,2,International,Clay,http://tennis.wettpoint.com/en/games/920456.html
+S. Dev Varman,I. Van der Merwe,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/918689.html
+K. Clijsters,M. Oudin,2,0,International,Clay,http://tennis.wettpoint.com/en/games/920467.html
+M. Bachinger,N. Mahut,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/918967.html
+D. Cibulkova,P. Kvitova,0,2,International,Clay,http://tennis.wettpoint.com/en/games/920457.html
+M. Sharapova,V. Razzano,0,2,International,Clay,http://tennis.wettpoint.com/en/games/920462.html
+G. Muller,J. Janowicz,2,1,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/918968.html
+A. Mannarino,K. Anderson,1,2,ATP,Hard,http://tennis.wettpoint.com/en/games/918688.html
+G. Garcia-Lopez,I. Dodig,1,2,ATP,Carpet,http://tennis.wettpoint.com/en/games/918726.html
+P. Starace,S. Giraldo,1,2,ATP,Clay,http://tennis.wettpoint.com/en/games/919004.html
+F. Mayer,M. Berrer,0,2,ATP,Carpet,http://tennis.wettpoint.com/en/games/918725.html
+F. Fognini,T. Robredo,1,2,ATP,Clay,http://tennis.wettpoint.com/en/games/919005.html
+S. Stosur,F. Schiavone,1,2,International,Clay,http://tennis.wettpoint.com/en/games/920435.html

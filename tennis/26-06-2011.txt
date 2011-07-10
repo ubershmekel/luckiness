@@ -1,0 +1,3 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+J. Hajek,B. Phau,1,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/978997.html
+P. Duclos,P. Capdeville,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/979154.html

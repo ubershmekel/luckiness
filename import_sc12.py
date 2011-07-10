@@ -10,22 +10,22 @@ import league
 
 
 BASE = 'http://www.teamliquid.net'
-PLAYERS_URL = BASE + '/tlpd/korean/players'
-LEAGUE = 'sc1'
-#PLAYERS_URL = BASE + '/tlpd/sc2-international/players'
-#LEAGUE = 'sc2'
+#PLAYERS_URL = BASE + '/tlpd/korean/players'
+#LEAGUE = 'sc1'
+PLAYERS_URL = BASE + '/tlpd/sc2-international/players'
+LEAGUE = 'sc2'
 
-@filecache(24 * 60 * 60)
+#@filecache(24 * 60 * 60)
 def get(url):
     return urlopen(url).read()
 
-@filecache(60 * 60)
+#@filecache(24 * 60 * 60)
 def get_record(nickname, url):
     print(nickname)
     csv_list = []
     for i in itertools.count():
         print(i)
-        html = get(url + '?tabulator_page=%d' % (i + 1))
+        html = get(url + '?tabulator_page=%d' % (i + 1)).decode('utf-8')
         soup = BeautifulSoup(html)
         table = soup.find(id='tblt_table')
 
@@ -58,6 +58,7 @@ def get_players():
     csv_list = []
     player_data = []
     for i in itertools.count():
+        print('players %d' % i)
         html = get(PLAYERS_URL + '?tabulator_page=%d' % (i + 1)).decode('utf-8')
         
         #tree = etree.fromstring(html)
@@ -107,11 +108,14 @@ def get_players():
     
     return player_data
     
-def get_records(player_data):
+def get_all_records(player_data):
     for data in player_data:
         nickname = data[0]
         href = data[-1]
-        record = get_record(nickname, BASE + href + '/games')
+        try:
+            record = get_record(nickname, BASE + href + '/games')
+        except Exception as e:
+            print('----Error: %s' % e)
             
 
 def merge_results(league_name):
@@ -122,7 +126,7 @@ def merge_results(league_name):
         try:
             fname = LEAGUE + '/%s.txt' % player.pid
             raw_results = league.csv_parse(fname)
-        except Exception, e:
+        except Exception as e:
             print('error: %s' % e)
             continue
         #,Date&nbsp;,League,Map,Opponent,Result,
@@ -142,6 +146,6 @@ def merge_results(league_name):
     sc.flush_matches()
     
 
-d = get_players()
-get_records(d)
+#d = get_players()
+#get_all_records(d)
 merge_results(LEAGUE)

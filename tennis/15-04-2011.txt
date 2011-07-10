@@ -1,0 +1,25 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+D. Brown,M. Ebden,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/949288.html
+G. Jones,G. Muller,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/949291.html
+R. De Voest,M. Przysiezny,1,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/949290.html
+I. Van der Merwe,A. Martin,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/949289.html
+V. Troicki,D. Ferrer,0,2,ATP,Clay,http://tennis.wettpoint.com/en/games/949360.html
+C. Stebe,T. Schoorel,1,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/949245.html
+J. Melzer,R. Federer,2,0,ATP,Clay,http://tennis.wettpoint.com/en/games/949361.html
+M. Ilhan,I. Minar,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/949243.html
+A. Kudryavtsev,D. Sela,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/949396.html
+D. Brown,I. Van der Merwe,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/949293.html
+R. De Voest,G. Jones,2,1,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/949294.html
+R. Nadal,I. Ljubicic,2,0,ATP,Clay,http://tennis.wettpoint.com/en/games/949358.html
+M. Bachinger,G. Alcaide,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/949395.html
+B. Becker,S. Bohli,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/949394.html
+A. Haider-Maurer,M. Klizan,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/949242.html
+E. Korolev,D. Tursunov,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/949397.html
+A. Murray,F. Gil,2,0,ATP,Clay,http://tennis.wettpoint.com/en/games/949359.html
+E. Prodon,D. Junqueira,1,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/949531.html
+W. Odesnik,B. Reynolds,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/949436.html
+A. Bedene,J. Marti,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/949533.html
+J. Acasuso,L. Mayer,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/949530.html
+M. Demoliner,F. Bagnis,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/949532.html
+D. Young,J. Blake,2,1,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/949435.html
+J. Groth,O. Savchuk,2,0,International,Clay,http://tennis.wettpoint.com/en/games/951035.html

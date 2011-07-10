@@ -1,0 +1,77 @@
+---------------
+05/07/2011
+L for "coinflip" is: 0.986667
+L for "sc1" is: 1.05306
+L for "sc2" is: 0.852922
+>>> ================================ RESTART ================================
+>>> 
+L for "coinflip" is: 0.977823
+L for "sc1" is: 0.836054
+L for "sc2" is: 0.872128
+>>> ================================ RESTART ================================
+>>> 
+L for "coinflip" is: 0.968245
+L for "sc1" is: 0.816931
+L for "sc2" is: 0.960171
+*******Fixed a bug which really screwed sc2 stats*******
+L for "coinflip" is: 0.972323
+L for "sc1" is: 0.747429
+L for "sc2" is: 0.87243
+
+L for "coinflip" top32, avg matches#40 is: 0.971774
+L for "sc1" top32, avg matches#8 is: 0.755388
+L for "sc2" top32, avg matches#12 is: 0.903641
+
+L for "coinflip" is 0.985417   Info: top16, avg matches#40
+L for "sc1" is 0.785238   Info: top16, avg matches#7.9
+L for "sc2" is 0.888879   Info: top16, avg matches#11.697
+----------------
+L for "coinflip" is 0.985417   Info: top16, avg matches#40
+L for "sc1" is 0.811338   Info: top16, avg matches#7.80952
+L for "sc2" is 0.870697   Info: top16, avg matches#11.8788
+-------------------------
+L for "coinflip" is 0.981473   Info: top64, avg matches#40, num of points: 4032
+L for "sc1" is 0.876557   Info: top64, avg matches#7.58974, num of points: 156
+L for "sc2" is 0.865757   Info: top64, avg matches#12.5366, num of points: 656
+---------------------------
+min matches count: 3, min date: 2011-01-01 00:00:00
+L for "coinflip" is 0.981473   Info: top64, avg matches#40, num of points: 4032
+L for "sc1" is 0.804169   Info: top64, avg matches#5.20172, num of points: 466
+L for "sc2" is 0.790679   Info: top64, avg matches#10.1674, num of points: 908
+------------------
+min matches count: 5, min date: 2011-01-01 00:00:00
+L for "coinflip" is 0.971774   Info: top32, avg matches#40, num of points: 992
+L for "tennis" is 0.552381   Info: top32, avg matches#6.09524, num of points: 42
+L for "sc1" is 0.770208   Info: top32, avg matches#8.15385, num of points: 78
+L for "sc2" is 0.873658   Info: top32, avg matches#13.1702, num of points: 188
+-------------------
+L for "coinflip" is 0.981473   Info: top64, avg matches#40, num of points: 4032
+L for "tennis" is 0.95254   Info: top64, avg matches#6.69014, num of points: 142
+L for "sc1" is 0.876557   Info: top64, avg matches#7.58974, num of points: 156
+L for "sc2" is 0.871709   Info: top64, avg matches#12.6822, num of points: 686
+----------------
+min matches count: 5, min date: 2011-01-01 00:00:00
+L for "coinflip" is 0.985417   Info: top16, avg matches#40, num of points: 240
+L for "tennis" is 0.466667   Info: top16, avg matches#6.57143, num of points: 14
+L for "sc1" is 0.811338   Info: top16, avg matches#7.80952, num of points: 42
+L for "sc2" is 0.870697   Info: top16, avg matches#11.8788, num of points: 66
+================
+got new ranking for tennis (today vs 30/12/2010)
+
+min matches count: 5, min date: 2011-01-01 00:00:00
+L for "coinflip" is 0.985417   Info: top16, avg matches#40, num of points: 240
+L for "tennis" is 0.612843   Info: top16, avg matches#6.83333, num of points: 24
+L for "sc1" is 0.811338   Info: top16, avg matches#7.80952, num of points: 42
+L for "sc2" is 0.870697   Info: top16, avg matches#11.8788, num of points: 66
+
+min matches count: 5, min date: 2011-01-01 00:00:00
+L for "coinflip" is 0.971774   Info: top32, avg matches#40, num of points: 992
+L for "tennis" is 0.752464   Info: top32, avg matches#6.92308, num of points: 78
+L for "sc1" is 0.770208   Info: top32, avg matches#8.15385, num of points: 78
+L for "sc2" is 0.873658   Info: top32, avg matches#13.1702, num of points: 188
+
+min matches count: 5, min date: 2011-01-01 00:00:00
+L for "coinflip" is 0.981473   Info: top64, avg matches#40, num of points: 4032
+L for "tennis" is 0.91912   Info: top64, avg matches#6.88235, num of points: 170
+L for "sc1" is 0.876557   Info: top64, avg matches#7.58974, num of points: 156
+L for "sc2" is 0.871709   Info: top64, avg matches#12.6822, num of points: 686

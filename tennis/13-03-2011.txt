@@ -1,0 +1,42 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+A. Chakvetadze,M. Kirilenko,0,1,WTA,Hard,http://tennis.wettpoint.com/en/games/935328.html
+T. Smyczek,P. Kohlschreiber,1,2,ATP,Hard,http://tennis.wettpoint.com/en/games/935633.html
+G. Simon,R. Schuettler,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/935630.html
+C. Wozniacki,S. Stephens,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/935323.html
+J. Tipsarevic,S. Querrey,0,2,ATP,Hard,http://tennis.wettpoint.com/en/games/935637.html
+S. Peng,N. Li,2,1,WTA,Hard,http://tennis.wettpoint.com/en/games/935338.html
+S. Arvidsson,N. Petrova,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/935336.html
+R. Nadal,R. De Voest,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/935624.html
+N. Almagro,M. Russell,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/935628.html
+X. Malisse,J. Tsonga,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/935627.html
+R. Sweeting,J. Monaco,2,1,ATP,Hard,http://tennis.wettpoint.com/en/games/935625.html
+A. Medina Garrigues,M. Sharapova,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/935334.html
+S. Kuznetsova,C. McHale,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/935335.html
+C. Stebe,D. Meffert,1,2,Challenger Tour ATP,Carpet,http://tennis.wettpoint.com/en/games/934756.html
+R. Söderling,M. Berrer,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/935632.html
+E. Prodon,M. Gonzalez,1,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/934792.html
+R. Mello,J. Isner,0,2,ATP,Hard,http://tennis.wettpoint.com/en/games/935641.html
+R. Gasquet,P. Cuevas,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/935642.html
+F. Schiavone,A. Cornet,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/935364.html
+S. Giraldo,M. Llodra,0,2,ATP,Hard,http://tennis.wettpoint.com/en/games/935645.html
+V. Troicki,B. Tomic,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/935644.html
+M. Bartoli,A. Petkovic,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/935370.html
+A. Ivanovic,B. Zahlavova Strycova,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/935369.html
+A. Roddick,J. Blake,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/935640.html
+N. Davydenko,S. Wawrinka,1,2,ATP,Hard,http://tennis.wettpoint.com/en/games/935651.html
+J. Chela,P. Petzschner,2,1,ATP,Hard,http://tennis.wettpoint.com/en/games/935654.html
+T. Berdych,L. Kubot,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/935648.html
+B. Becker,T. Bellucci,0,2,ATP,Hard,http://tennis.wettpoint.com/en/games/935649.html
+S. Errani,K. Clijsters,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/935371.html
+M. Cilic,F. Serra,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/935650.html
+R. Harrison,G. Garcia-Lopez,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/935653.html
+J. Benneteau,J. Melzer,1,2,ATP,Hard,http://tennis.wettpoint.com/en/games/935643.html
+I. Andreev,R. Federer,0,2,ATP,Hard,http://tennis.wettpoint.com/en/games/935655.html
+E. Gulbis,Y. Lu,2,1,ATP,Hard,http://tennis.wettpoint.com/en/games/935646.html
+K. Kanepi,Y. Wickmayer,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/935366.html
+J. Jankovic,J. Goerges,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/935368.html
+A. Pavlyuchenkova,S. Peer,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/935365.html
+A. Veic,I. Sergeyev,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/937410.html
+D. Wu,N. Mektic,1,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/937414.html
+A. Golubev,N. Djokovic,0,2,ATP,Hard,http://tennis.wettpoint.com/en/games/935647.html
+M. Fish,M. Raonic,0,2,ATP,Hard,http://tennis.wettpoint.com/en/games/935652.html

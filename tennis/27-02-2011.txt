@@ -1,0 +1,6 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+G. Dulko,A. Parra Santonja,2,0,WTA,Clay,http://tennis.wettpoint.com/en/games/926349.html
+J. Del Potro,M. Fish,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/926107.html
+D. Ferrer,N. Almagro,2,1,ATP,Clay,http://tennis.wettpoint.com/en/games/926313.html
+R. Bemelmans,D. Meffert,2,1,Challenger Tour ATP,Carpet,http://tennis.wettpoint.com/en/games/925977.html
+J. Tipsarevic,J. Del Potro,0,2,ATP,Hard,http://tennis.wettpoint.com/en/games/926109.html

@@ -1,0 +1,13 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+I. Kunitsyn,R. Kendrick,2,1,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/937361.html
+M. Bachinger,A. Kudryavtsev,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/937435.html
+U. Ignatik,C. Stebe,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/937436.html
+C. Wozniacki,M. Sharapova,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/935387.html
+A. Kudryavtsev,U. Ignatik,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/937438.html
+P. Luczak,I. Minar,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/937402.html
+V. Pospisil,F. Wolmarans,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/937472.html
+B. Reynolds,F. Nielsen,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/937471.html
+R. Nadal,J. Del Potro,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/935688.html
+N. Djokovic,R. Federer,2,1,ATP,Hard,http://tennis.wettpoint.com/en/games/935689.html
+V. Estrella,I. Kunitsyn,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/937364.html
+F. Skugor,G. Lapentti,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/937363.html

@@ -1,0 +1,10 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+R. Machado,S. Vagnozzi,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/968582.html
+Y. Schukin,F. Cipolla,2,1,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/968511.html
+P. Lorenzi,G. Zemlja,1,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/968581.html
+J. Struff,D. Gremelmayr,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/968618.html
+T. Ito,M. Bachinger,0,2,Challenger Tour ATP,Grass,http://tennis.wettpoint.com/en/games/968653.html
+J. Sousa,N. Ciric,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/968617.html
+F. Schiavone,N. Li,0,2,WTA,Clay,http://tennis.wettpoint.com/en/games/964915.html
+G. Muller,B. Tomic,2,0,Challenger Tour ATP,Grass,http://tennis.wettpoint.com/en/games/968654.html
+J.Cabal/E.Schwank,M.Mirnyi/D.Nestor,1,2,ATP Double,Clay,http://tennis.wettpoint.com/en/games/965730.html

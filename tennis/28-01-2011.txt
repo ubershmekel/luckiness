@@ -1,0 +1,23 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+V. Pospisil,T. Smyczek,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916697.html
+A. Falla,G. Lapentti,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/916916.html
+F. Serra,D. Giorgini,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916621.html
+S. Robert,M. Slanar,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916623.html
+M. Sibilla,A. Sadecky,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916624.html
+D. Ferrer,A. Murray,1,3,ATP,Hard,http://tennis.wettpoint.com/en/games/912801.html
+S. Dev Varman,A. Martin,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916668.html
+F. Cipolla,D. Tursunov,1,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916669.html
+L. Rosol,M. Yani,2,1,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916670.html
+T. Ito,G. Soeda,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916671.html
+M. Bachinger,J. Huta Galung,1,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916594.html
+I. Bozoljac,C. Niland,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916593.html
+B. Knittel,D. Meffert,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916592.html
+D. Brands,M. Berrer,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916595.html
+A. Molteni,R. El Amrani,1,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/916928.html
+E. Prodon,J. Souza,2,1,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/916927.html
+G. Lapentti,F. Romboli,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/916925.html
+M. Russell,V. Pospisil,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916705.html
+R. Sweeting,R. Harrison,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916706.html
+B. Reynolds,A. Kuznetsov,1,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916707.html
+J. Witten,R. Kendrick,2,1,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916708.html
+J. Acasuso,G. Elias,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/916926.html

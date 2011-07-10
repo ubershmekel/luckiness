@@ -8,7 +8,7 @@ import league
 
 LEAGUE_DIR = 'coinflip'
 NUM_OF_PLAYERS = 64
-NUM_OF_GAMES = 20
+NUM_OF_GAMES = 5
 
 
 def generate_name():

@@ -1,0 +1,25 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+V. Azarenka,D. Cibulkova,2,1,WTA,Hard,http://tennis.wettpoint.com/en/games/941024.html
+J. Blake,N. Djokovic,0,2,ATP,Hard,http://tennis.wettpoint.com/en/games/941164.html
+T. Schoorel,D. Gremelmayr,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/942453.html
+M. Trevisan,J. Huta Galung,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/942451.html
+A. Bedene,I. Sijsling,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/942463.html
+M. Rodrigues,K. De Schepper,1,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/942382.html
+S. Bubka,R. Jouan,2,1,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/942379.html
+F. Volandri,M. Crugnola,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/942454.html
+J. Janowicz,N. Ciric,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/942381.html
+S. Stosur,M. Sharapova,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/941031.html
+S. Peng,A. Dulgheru,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/941032.html
+C. Berlocq,T. Berdych,0,2,ATP,Hard,http://tennis.wettpoint.com/en/games/941152.html
+C. Wozniacki,A. Petkovic,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/941029.html
+P. Petzschner,J. Tipsarevic,0,2,ATP,Hard,http://tennis.wettpoint.com/en/games/941155.html
+L. Walter,B. Paire,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/942380.html
+O. Rochus,M. Youzhny,2,1,ATP,Hard,http://tennis.wettpoint.com/en/games/941154.html
+N. Almagro,F. Mayer,1,2,ATP,Hard,http://tennis.wettpoint.com/en/games/941151.html
+R. Federer,J. Monaco,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/941153.html
+A. Medina Garrigues,J. Jankovic,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/941030.html
+M. Bartoli,V. Zvonareva,1,3,WTA,Hard,http://tennis.wettpoint.com/en/games/941034.html
+R. Nadal,F. Lopez,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/941149.html
+F. Schiavone,A. Radwanska,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/941033.html
+V. Azarenka,A. Pavlyuchenkova,2,1,WTA,Hard,http://tennis.wettpoint.com/en/games/941035.html
+G. Simon,P. Cuevas,2,1,ATP,Hard,http://tennis.wettpoint.com/en/games/941156.html

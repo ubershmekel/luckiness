@@ -1,0 +1,24 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+S. Errani,A. Molik,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/909820.html
+A. Mannarino,N. Almagro,1,2,ATP,Hard,http://tennis.wettpoint.com/en/games/909902.html
+A. Dolgopolov,G. Simon,0,2,ATP,Hard,http://tennis.wettpoint.com/en/games/909862.html
+E. Gulbis,S. Stakhovsky,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/909863.html
+O. Govortsova,S. Peng,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/909821.html
+N. Li,B. Jovanovski,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/909794.html
+A. Brianti,K. Zakopalova,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/909817.html
+D. Nalbandian,J. Isner,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/909901.html
+A. Morita,B. Mattek-Sands,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/909823.html
+R. Vinci,E. Baltacha,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/909818.html
+A. Kerber,A. Kudryavtseva,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/909822.html
+A. Kleybanova,K. Clijsters,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/909793.html
+M. Bartoli,E. Vesnina,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/909816.html
+S. Errani,S. Peng,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/909827.html
+S. Giraldo,T. Bellucci,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/909900.html
+R. Vinci,J. Groth,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/909826.html
+A. Kerber,B. Mattek-Sands,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/909828.html
+M. Bartoli,K. Zakopalova,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/909825.html
+R. Gasquet,V. Troicki,0,2,ATP,Hard,http://tennis.wettpoint.com/en/games/909864.html
+F. Mayer,P. Starace,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/909865.html
+D. Nalbandian,N. Almagro,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/909905.html
+D. Ferrer,S. Giraldo,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/909904.html
+S. Peng,B. Mattek-Sands,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/909831.html

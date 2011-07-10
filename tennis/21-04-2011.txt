@@ -1,0 +1,24 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+K. Pervak,A. Brianti,0,2,WTA,Clay,http://tennis.wettpoint.com/en/games/951980.html
+M. Trevisan,A. Haider-Maurer,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/951716.html
+R. Gasquet,G. Monfils,0,2,ATP,Clay,http://tennis.wettpoint.com/en/games/951664.html
+V. Hanescu,D. Ferrer,0,2,ATP,Clay,http://tennis.wettpoint.com/en/games/951668.html
+I. Sijsling,F. Volandri,0,1,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/951717.html
+T. Schoorel,S. Darcis,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/951714.html
+S. Stosur,V. Zvonareva,2,1,WTA,Indoor,http://tennis.wettpoint.com/en/games/951894.html
+A. Cornet,D. Safina,0,2,WTA,Clay,http://tennis.wettpoint.com/en/games/951982.html
+J. Melzer,A. Montanes,2,1,ATP,Clay,http://tennis.wettpoint.com/en/games/951667.html
+R. Nadal,S. Giraldo,2,0,ATP,Clay,http://tennis.wettpoint.com/en/games/951663.html
+F. Gil,I. Minar,1,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/951715.html
+A. Pivovarova,Y. Shvedova,2,0,WTA,Clay,http://tennis.wettpoint.com/en/games/951983.html
+A. Bedene,I. Miranda,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/951812.html
+N. Almagro,N. Davydenko,2,0,ATP,Clay,http://tennis.wettpoint.com/en/games/951669.html
+S. Vagnozzi,J. Ferrero,1,2,ATP,Clay,http://tennis.wettpoint.com/en/games/951670.html
+S. Lisicki,J. Goerges,0,2,WTA,Indoor,http://tennis.wettpoint.com/en/games/951893.html
+D. Junqueira,M. Jaziri,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/951811.html
+F. Lopez,K. Nishikori,2,0,ATP,Clay,http://tennis.wettpoint.com/en/games/951666.html
+C. Wozniacki,A. Petkovic,2,0,WTA,Indoor,http://tennis.wettpoint.com/en/games/951891.html
+Y. Sugita,T. Ito,1,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/951810.html
+I. Dodig,M. Raonic,2,1,ATP,Clay,http://tennis.wettpoint.com/en/games/951665.html
+A. Radwanska,K. Barrois,2,0,WTA,Indoor,http://tennis.wettpoint.com/en/games/951892.html
+J. Brzezicki,J. Marti,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/951809.html

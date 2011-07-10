@@ -1,20 +1,42 @@
+'''
+
+
+
+'''
+
+
 import csv
 import os
 
 PLAYERS_LIST_FNAME = 'players.txt'
 RESULTS_LIST_FNAME = 'results.txt'
 
+def format_date(datet):
+    return datet.strftime('%y-%m-%d')
 
 def csv_parse(fname):
     reader = csv.reader(open(fname, 'rb'))
     data = []
     header = next(reader)
+    header = [item.strip() for item in header]
     for row in reader:
         pairs = zip(header, row)
         element_dict = dict(pairs)
         data.append(element_dict)
 
     return data
+
+def csv_save(fname, sequence):
+    if len(sequence) == 0:
+        return
+    
+    header = sequence[0].keys()
+    writer = csv.writer(open(fname, 'wb'))
+    writer.writerow(header)
+    for obj in sequence[1:]:
+        row = [obj[item] for item in header]
+        writer.writerow(row)
+
 
 class Player:
     def __init__(self, pid, rating):
@@ -77,8 +99,15 @@ class League:
 
     def flush_matches(self):
         results_text = 'p1,p2,result,date\n'
-        results_text += '\n'.join([','.join(result) for result in self.results])
-        open(os.path.join(self.name, RESULTS_LIST_FNAME), 'wb').write(results_text.encode('utf-8'))
+        str_lines = [','.join(result) for result in self.results]
+        results_text += '\n'.join(str_lines)
+        # python 3 vs python 2
+        try:
+            results_bin = results_text.encode('utf-8')
+        except UnicodeDecodeError:
+            results_bin = results_text
+            
+        open(os.path.join(self.name, RESULTS_LIST_FNAME), 'wb').write(results_bin)
     
     def flush(self):
         if not os.path.isdir(self.name):

@@ -1,0 +1,18 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+A. Roddick,L. Hewitt,2,1,ATP,Indoor,http://tennis.wettpoint.com/en/games/923463.html
+R. Russell,J. Del Potro,0,2,ATP,Indoor,http://tennis.wettpoint.com/en/games/923464.html
+C. Wozniacki,J. Jankovic,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/923775.html
+M. Youzhny,M. Cilic,1,2,ATP,Indoor,http://tennis.wettpoint.com/en/games/923432.html
+G. Olaso,J. Pospisil,1,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/923672.html
+S. Kuznetsova,F. Pennetta,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/923776.html
+R. Söderling,D. Tursunov,2,0,ATP,Indoor,http://tennis.wettpoint.com/en/games/923431.html
+D. Nalbandian,T. Robredo,0,2,ATP,Clay,http://tennis.wettpoint.com/en/games/923574.html
+N. Almagro,J. Acasuso,2,0,ATP,Clay,http://tennis.wettpoint.com/en/games/923573.html
+J. Monaco,S. Wawrinka,0,2,ATP,Clay,http://tennis.wettpoint.com/en/games/923576.html
+M. Fish,M. Raonic,1,2,ATP,Indoor,http://tennis.wettpoint.com/en/games/923469.html
+C. Suarez Navarro,M. Johansson,1,2,WTA,Clay,http://tennis.wettpoint.com/en/games/923705.html
+J. Chela,A. Montanes,2,1,ATP,Clay,http://tennis.wettpoint.com/en/games/924664.html
+A. Roddick,J. Del Potro,2,0,ATP,Indoor,http://tennis.wettpoint.com/en/games/923468.html
+N. Almagro,T. Robredo,2,0,ATP,Clay,http://tennis.wettpoint.com/en/games/923578.html
+J. Chela,S. Wawrinka,2,0,ATP,Clay,http://tennis.wettpoint.com/en/games/923579.html
+M. Rybarikova,R. Marino,1,0,WTA,Indoor,http://tennis.wettpoint.com/en/games/923508.html

@@ -1,0 +1,6 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+G. Dimitrov,A. Beck,2,0,ATP,Clay,http://tennis.wettpoint.com/en/games/954543.html
+C. Wozniacki,J. Goerges,0,2,WTA,Indoor,http://tennis.wettpoint.com/en/games/951899.html
+J. Souza,D. Junqueira,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/951822.html
+R. Nadal,D. Ferrer,2,0,ATP,Clay,http://tennis.wettpoint.com/en/games/951680.html
+S. Halep,A. Brianti,0,2,WTA,Clay,http://tennis.wettpoint.com/en/games/951993.html

@@ -1,0 +1,21 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+G. Lapentti,C. Salamanca,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/937351.html
+N. Massu,F. Skugor,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/937350.html
+R. Nadal,I. Karlovic,2,1,ATP,Hard,http://tennis.wettpoint.com/en/games/935683.html
+P. Luczak,M. Jaziri,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/937399.html
+I. Minar,M. Klizan,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/937400.html
+B. Reynolds,A. Weintraub,2,1,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/937466.html
+V. Pospisil,M. Viola,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/937468.html
+F. Nielsen,G. Ouellette,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/937467.html
+R. Gasquet,N. Djokovic,0,2,ATP,Hard,http://tennis.wettpoint.com/en/games/935685.html
+G. Lapentti,L. Sorensen,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/937359.html
+Y. Wickmayer,M. Bartoli,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/935388.html
+J. Nieminen,S. Robert,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/937327.html
+T. Gabashvili,F. Skugor,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/937358.html
+V. Estrella,J. Cabal,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/937360.html
+F. Wolmarans,K. Kim,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/937469.html
+O. Rochus,G. Elias,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/937328.html
+S. Wawrinka,R. Federer,0,2,ATP,Hard,http://tennis.wettpoint.com/en/games/935686.html
+I. Kunitsyn,R. Kendrick,2,1,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/937361.html
+M. Bachinger,A. Kudryavtsev,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/937435.html
+U. Ignatik,C. Stebe,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/937436.html

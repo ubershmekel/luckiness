@@ -1,0 +1,22 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+G. Dulko,K. Pervak,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/932957.html
+J. Jankovic,A. Sevastova,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/932955.html
+R. Schuettler,M. Matosevic,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/931703.html
+G. Arn,A. Pavlyuchenkova,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/932958.html
+J. Dokic,M. Krajicek,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/931570.html
+J. Groth,L. Safarova,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/931571.html
+T.Berdych/L.Dlouhy,E.Korolev/Y.Schukin,3,0,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/934607.html
+O.Marach/J.Melzer,J.Benneteau/M.Llodra,3,1,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/934617.html
+K. Beck,N. Mahut,1,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/931611.html
+S.Darcis/O.Rochus,F.Lopez/F.Verdasco,0,3,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/934612.html
+J.Chela/E.Schwank,V.Hanescu/H.Tecau,3,0,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/933974.html
+I.Bozoljac/N.Zimonjic,R.Bopanna/S.Dev Varman,3,1,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/933969.html
+S.Aspelin/R.Lindstedt,I.Kunitsyn/D.Tursunov,3,1,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/933961.html
+I.Dodig/I.Karlovic,C.Kas/P.Petzschner,2,3,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/933951.html
+G. Dimitrov,S. Robert,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/931610.html
+J.Aguilar/N.Massu,B.Bryan/M.Bryan,0,3,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/933981.html
+J. Jankovic,P. Hercog,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/932960.html
+M. Ebden,A. Bogomolov Jr,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/931708.html
+G. Dulko,A. Pavlyuchenkova,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/932961.html
+A. Kuznetsov,R. Schuettler,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/931707.html
+A. Molteni,H. Zeballos,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/931748.html

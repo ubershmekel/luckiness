@@ -12,7 +12,7 @@ from pylab import colorbar
 
 import league
 
-ONLY_TOP = 16
+ONLY_TOP = 64
 MIN_DATE = datetime.datetime(year=2011, month=1, day=1)
 MIN_MATCHES_COUNT = 5
 
@@ -159,7 +159,7 @@ def analyze(league_name):
 
     
     luckiness = calculate_luckiness(prob_p1_wins)
-    print('L for "%s" is %g   Info: top%d, avg matches#%g' % (league_name, luckiness, players_count, average(matches_count_log)))
+    print('L for "%s" is %g   Info: top%d, avg matches#%g, num of points: %d' % (league_name, luckiness, players_count, average(matches_count_log), len(prob_p1_wins)))
     # x, y, z = vectors
     
     # limit the skill level shown
@@ -170,7 +170,9 @@ def analyze(league_name):
     #import pdb;pdb.set_trace()
     plot(*vectors)
 
+print('min matches count: %d, min date: %s' % (MIN_MATCHES_COUNT, MIN_DATE))
 analyze('coinflip')
+analyze('tennis')
 analyze('sc1')
 analyze('sc2')
 

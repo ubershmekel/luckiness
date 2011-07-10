@@ -1,0 +1,27 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+D. Ferrer,T. Kamke,2,1,ATP,Hard,http://tennis.wettpoint.com/en/games/909890.html
+G. Simon,Y. Lu,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/909839.html
+A. Dolgopolov,B. Tomic,2,1,ATP,Hard,http://tennis.wettpoint.com/en/games/909837.html
+S. Stakhovsky,G. Garcia-Lopez,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/909856.html
+J. Chela,V. Troicki,0,2,ATP,Hard,http://tennis.wettpoint.com/en/games/909858.html
+E. Gulbis,I. Andreev,2,1,ATP,Hard,http://tennis.wettpoint.com/en/games/909855.html
+M. Granollers,P. Kohlschreiber,1,2,ATP,Hard,http://tennis.wettpoint.com/en/games/909891.html
+N. Li,S. Kuznetsova,2,1,WTA,Hard,http://tennis.wettpoint.com/en/games/909790.html
+A. Montanes,S. Giraldo,1,2,ATP,Hard,http://tennis.wettpoint.com/en/games/909892.html
+P. Starace,L. Kubot,2,1,ATP,Hard,http://tennis.wettpoint.com/en/games/911061.html
+D. Nalbandian,P. Petzschner,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/909894.html
+F. Gil,G. Simon,0,2,ATP,Hard,http://tennis.wettpoint.com/en/games/909854.html
+R. Gasquet,A. Seppi,2,1,ATP,Hard,http://tennis.wettpoint.com/en/games/909857.html
+J. Del Potro,F. Mayer,0,2,ATP,Hard,http://tennis.wettpoint.com/en/games/909859.html
+A. Mannarino,A. Clement,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/909896.html
+B. Jovanovski,F. Pennetta,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/909791.html
+S. Querrey,A. Dolgopolov,0,2,ATP,Hard,http://tennis.wettpoint.com/en/games/909853.html
+R. Haase,J. Isner,1,2,ATP,Hard,http://tennis.wettpoint.com/en/games/909895.html
+K. Clijsters,V. Azarenka,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/909789.html
+D. Cibulkova,A. Kleybanova,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/909788.html
+D. Ferrer,P. Kohlschreiber,2,1,ATP,Hard,http://tennis.wettpoint.com/en/games/909899.html
+S. Errani,A. Molik,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/909820.html
+A. Mannarino,N. Almagro,1,2,ATP,Hard,http://tennis.wettpoint.com/en/games/909902.html
+A. Dolgopolov,G. Simon,0,2,ATP,Hard,http://tennis.wettpoint.com/en/games/909862.html
+E. Gulbis,S. Stakhovsky,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/909863.html
+O. Govortsova,S. Peng,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/909821.html

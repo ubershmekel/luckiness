@@ -1,0 +1,25 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+D. Gremelmayr,M. Baghdatis,0,2,ATP,Grass,http://tennis.wettpoint.com/en/games/971313.html
+M. Gicquel,E. Roger-Vasselin,1,3,ATP,Grass,http://tennis.wettpoint.com/en/games/971810.html
+J. Zopp,A. Beck,2,3,ATP,Grass,http://tennis.wettpoint.com/en/games/971803.html
+J. Janowicz,M. Fischer,2,3,ATP,Grass,http://tennis.wettpoint.com/en/games/971806.html
+L. Kubot,A. Gensse,3,1,ATP,Grass,http://tennis.wettpoint.com/en/games/971800.html
+F. Cipolla,R. Bautista-Agut,3,1,ATP,Grass,http://tennis.wettpoint.com/en/games/971807.html
+S. Giraldo,D. Tursunov,1,2,ATP,Grass,http://tennis.wettpoint.com/en/games/971310.html
+X. Malisse,A. Bogomolov Jr,2,0,ATP,Grass,http://tennis.wettpoint.com/en/games/971311.html
+D. Cibulkova,S. Kuznetsova,2,1,WTA,Grass,http://tennis.wettpoint.com/en/games/971387.html
+J.Huta Galung/R.Wassen,R.Lindstedt/H.Tecau,1,2,WTA Double,Grass,http://tennis.wettpoint.com/en/games/971500.html
+F. Dancevic,M. Crugnola,3,0,ATP,Grass,http://tennis.wettpoint.com/en/games/971808.html
+Z. Kucova,K. Chang,0,2,WTA,Grass,http://tennis.wettpoint.com/en/games/972326.html
+C. Niland,N. Mektic,3,0,ATP,Grass,http://tennis.wettpoint.com/en/games/971809.html
+R. Oprandi,J. Dokic,0,1,WTA,Grass,http://tennis.wettpoint.com/en/games/971389.html
+F.Polasek/I.Zelenay,D.Gimeno-Traver/S.Giraldo,2,0,WTA Double,Grass,http://tennis.wettpoint.com/en/games/971494.html
+B. Dabul,J. Dasnieres De Veigy,2,1,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/971569.html
+B. Balleret,E. Korolev,1,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/971570.html
+R. Vinci,D. Cibulkova,2,0,WTA,Grass,http://tennis.wettpoint.com/en/games/971390.html
+D. Tursunov,X. Malisse,2,0,ATP,Grass,http://tennis.wettpoint.com/en/games/971315.html
+I. Dodig,M. Baghdatis,2,0,ATP,Grass,http://tennis.wettpoint.com/en/games/971316.html
+S. Galvani,H. Zeballos,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/971567.html
+B.Zahlavova Strycova/K.Zakopalova,D.Cibulkova/F.Pennetta,2,1,WTA Double,Grass,http://tennis.wettpoint.com/en/games/971456.html
+F.Polasek/I.Zelenay,D.Bracciali/F.Cermak,0,2,WTA Double,Grass,http://tennis.wettpoint.com/en/games/971499.html
+A. Ramos,A. Brizzi,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/971568.html

@@ -1,0 +1,8 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+J. Chela,S. Wawrinka,2,0,ATP,Clay,http://tennis.wettpoint.com/en/games/923579.html
+M. Rybarikova,R. Marino,1,0,WTA,Indoor,http://tennis.wettpoint.com/en/games/923508.html
+R. Söderling,M. Cilic,2,1,ATP,Indoor,http://tennis.wettpoint.com/en/games/923434.html
+C. Wozniacki,S. Kuznetsova,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/923778.html
+M. Johansson,L. Dominguez Lino,1,2,WTA,Clay,http://tennis.wettpoint.com/en/games/923708.html
+N. Almagro,J. Chela,2,1,ATP,Clay,http://tennis.wettpoint.com/en/games/923581.html
+A. Roddick,M. Raonic,2,1,ATP,Indoor,http://tennis.wettpoint.com/en/games/923471.html

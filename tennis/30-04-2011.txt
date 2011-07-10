@@ -1,0 +1,27 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+R. Borvanov,J. Baker,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/954787.html
+S. Robert,B. Paire,2,1,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/954756.html
+P. Petzschner,F. Mayer,0,2,ATP,Clay,http://tennis.wettpoint.com/en/games/954569.html
+K. Anderson,F. Verdasco,1,2,ATP,Clay,http://tennis.wettpoint.com/en/games/954646.html
+D. Guez,A. Kellner,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/954757.html
+M. Raonic,G. Simon,2,1,ATP,Clay,http://tennis.wettpoint.com/en/games/954645.html
+P. Kvitova,A. Dulgheru,2,0,WTA,Clay,http://tennis.wettpoint.com/en/games/957280.html
+R. Vinci,L. Hradecka,2,1,WTA,Clay,http://tennis.wettpoint.com/en/games/954860.html
+K. Barrois,A. Medina Garrigues,0,2,WTA,Clay,http://tennis.wettpoint.com/en/games/954532.html
+P. Schnyder,V. Zvonareva,1,2,WTA,Clay,http://tennis.wettpoint.com/en/games/957283.html
+N. Davydenko,R. Stepanek,1,0,ATP,Clay,http://tennis.wettpoint.com/en/games/954570.html
+F. Lopez,F. Volandri,2,0,ATP,Clay,http://tennis.wettpoint.com/en/games/954685.html
+A. Radwanska,Y. Shvedova,2,1,WTA,Clay,http://tennis.wettpoint.com/en/games/957264.html
+V. Azarenka,V. Dushevina,2,0,WTA,Clay,http://tennis.wettpoint.com/en/games/957260.html
+J. Del Potro,P. Cuevas,2,0,ATP,Clay,http://tennis.wettpoint.com/en/games/954648.html
+M. Kirilenko,J. Gajdosova,1,2,WTA,Clay,http://tennis.wettpoint.com/en/games/957265.html
+G. Dulko,S. Stosur,1,2,WTA,Clay,http://tennis.wettpoint.com/en/games/957259.html
+F. Dancevic,A. Bogomolov Jr,1,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/954721.html
+M. Raonic,F. Verdasco,0,1,ATP,Clay,http://tennis.wettpoint.com/en/games/954649.html
+A. Pavlyuchenkova,J. Zheng,2,0,WTA,Clay,http://tennis.wettpoint.com/en/games/957257.html
+L. Dominguez Lino,A. Petkovic,0,2,WTA,Clay,http://tennis.wettpoint.com/en/games/957263.html
+R. Sweeting,J. Blake,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/954720.html
+A. Szavay,T. Pironkova,2,1,WTA,Clay,http://tennis.wettpoint.com/en/games/957278.html
+D. Cibulkova,S. Kuznetsova,2,0,WTA,Clay,http://tennis.wettpoint.com/en/games/957279.html
+R. Borvanov,A. Begemann,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/954792.html
+B. Reynolds,V. Pospisil,2,1,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/954793.html

@@ -1,0 +1,34 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+A. Kudryavtseva,S. Halep,0,2,WTA,Clay,http://tennis.wettpoint.com/en/games/964797.html
+I. Benesova,S. Stosur,0,2,WTA,Clay,http://tennis.wettpoint.com/en/games/964798.html
+G. Dulko,I. Falconi,2,0,WTA,Clay,http://tennis.wettpoint.com/en/games/964796.html
+T. Pironkova,C. Dellacqua,2,0,WTA,Clay,http://tennis.wettpoint.com/en/games/964795.html
+R. Voracova,A. Cornet,0,2,WTA,Clay,http://tennis.wettpoint.com/en/games/964804.html
+K. Nishikori,Y. Lu,3,0,ATP,Clay,http://tennis.wettpoint.com/en/games/964958.html
+M. Cilic,R. Ramirez Hidalgo,0,3,ATP,Clay,http://tennis.wettpoint.com/en/games/964976.html
+D. Guez,S. Stakhovsky,1,3,ATP,Clay,http://tennis.wettpoint.com/en/games/964959.html
+R. Marino,K. Bondarenko,2,0,WTA,Clay,http://tennis.wettpoint.com/en/games/964788.html
+D. Ferrer,J. Nieminen,3,0,ATP,Clay,http://tennis.wettpoint.com/en/games/964956.html
+V. Millot,M. Teixeira,2,3,ATP,Clay,http://tennis.wettpoint.com/en/games/964970.html
+R. Kendrick,G. Garcia-Lopez,1,3,ATP,Clay,http://tennis.wettpoint.com/en/games/964975.html
+M. Gicquel,A. Montanes,0,3,ATP,Clay,http://tennis.wettpoint.com/en/games/965536.html
+I. Dodig,P. Riba,1,3,ATP,Clay,http://tennis.wettpoint.com/en/games/964969.html
+S. Peer,M. Martinez Sanchez,0,2,WTA,Clay,http://tennis.wettpoint.com/en/games/964787.html
+E. Gulbis,B. Kavcic,0,3,ATP,Clay,http://tennis.wettpoint.com/en/games/964985.html
+J. Hajek,J. Tsonga,0,3,ATP,Clay,http://tennis.wettpoint.com/en/games/964967.html
+S. Wawrinka,A. Gensse,3,1,ATP,Clay,http://tennis.wettpoint.com/en/games/964964.html
+J. Jankovic,A. Bondarenko,2,0,WTA,Clay,http://tennis.wettpoint.com/en/games/964807.html
+K. Flipkens,L. Safarova,0,2,WTA,Clay,http://tennis.wettpoint.com/en/games/964793.html
+J. Dokic,V. Dushevina,1,2,WTA,Clay,http://tennis.wettpoint.com/en/games/964808.html
+I. Kunitsyn,R. Schuettler,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/963167.html
+J. Benneteau,R. Machado,3,1,ATP,Clay,http://tennis.wettpoint.com/en/games/964957.html
+O. Sanchez,P. Hercog,0,2,WTA,Clay,http://tennis.wettpoint.com/en/games/964812.html
+M. Johansson,J. Goerges,0,2,WTA,Clay,http://tennis.wettpoint.com/en/games/964794.html
+F. Fognini,D. Istomin,3,0,ATP,Clay,http://tennis.wettpoint.com/en/games/964973.html
+T. Gabashvili,A. Seppi,0,3,ATP,Clay,http://tennis.wettpoint.com/en/games/964982.html
+M. Rybarikova,S. Kuznetsova,0,2,WTA,Clay,http://tennis.wettpoint.com/en/games/964790.html
+Y. Shvedova,A. Pavlyuchenkova,0,2,WTA,Clay,http://tennis.wettpoint.com/en/games/964806.html
+A. Parra Santonja,B. Mattek-Sands,1,2,WTA,Clay,http://tennis.wettpoint.com/en/games/964809.html
+A. Mannarino,G. Rufin,0,3,ATP,Clay,http://tennis.wettpoint.com/en/games/964962.html
+V. Lepchenko,F. Pennetta,2,1,WTA,Clay,http://tennis.wettpoint.com/en/games/964810.html
+S. Bammer,M. Barthel,0,2,WTA,Clay,http://tennis.wettpoint.com/en/games/964805.html

@@ -1,0 +1,14 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+J. Goerges,V. Azarenka,0,2,WTA,Clay,http://tennis.wettpoint.com/en/games/957316.html
+F. Gonzalez,L. Rosol,0,1,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/957506.html
+I. Minar,A. Bogomolov Jr,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/957507.html
+N. Li,P. Kvitova,0,2,WTA,Clay,http://tennis.wettpoint.com/en/games/957317.html
+E. Schwank,S. Bolelli,1,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/957581.html
+A. Delic,W. Odesnik,0,1,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/957537.html
+R. Harrison,B. Reynolds,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/957538.html
+R. Nadal,R. Federer,2,1,ATP,Clay,http://tennis.wettpoint.com/en/games/957434.html
+M. Yani,D. Young,0,1,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/957539.html
+J. Blake,M. Russell,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/957540.html
+W. Odesnik,R. Harrison,2,1,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/957542.html
+T. Bellucci,N. Djokovic,1,2,ATP,Clay,http://tennis.wettpoint.com/en/games/957435.html
+D. Young,M. Russell,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/957543.html

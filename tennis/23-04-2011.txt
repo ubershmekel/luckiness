@@ -1,0 +1,10 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+T. Schoorel,F. Volandri,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/951722.html
+D. Ferrer,N. Almagro,2,0,ATP,Clay,http://tennis.wettpoint.com/en/games/951678.html
+A. Brianti,D. Safina,1,0,WTA,Clay,http://tennis.wettpoint.com/en/games/951991.html
+J. Goerges,S. Stosur,2,1,WTA,Indoor,http://tennis.wettpoint.com/en/games/951897.html
+K. Flipkens,S. Halep,0,2,WTA,Clay,http://tennis.wettpoint.com/en/games/951990.html
+J. Brzezicki,D. Junqueira,0,1,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/951820.html
+R. Mello,J. Souza,1,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/951819.html
+R. Nadal,I. Dodig,2,0,ATP,Clay,http://tennis.wettpoint.com/en/games/951677.html
+C. Wozniacki,A. Radwanska,2,0,WTA,Indoor,http://tennis.wettpoint.com/en/games/951896.html

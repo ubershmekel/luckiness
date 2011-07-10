@@ -1,0 +1,5 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+G. Zemlja,R. Machado,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/968584.html
+M. Bachinger,G. Muller,0,2,Challenger Tour ATP,Grass,http://tennis.wettpoint.com/en/games/968656.html
+J. Sousa,J. Struff,2,1,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/968620.html
+R. Nadal,R. Federer,3,1,ATP,Clay,http://tennis.wettpoint.com/en/games/965056.html

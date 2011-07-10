@@ -1,0 +1,47 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+A. Petkovic,N. Li,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912931.html
+S. Wawrinka,R. Federer,0,3,ATP,Hard,http://tennis.wettpoint.com/en/games/912799.html
+C. Wozniacki,F. Schiavone,2,1,WTA,Hard,http://tennis.wettpoint.com/en/games/912930.html
+Y. Takahashi,C. Maas,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916618.html
+M. Middelkoop,M. Rodrigues,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916613.html
+A. Kudryavtsev,F. Cipolla,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916646.html
+D. Tursunov,I. Minar,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916649.html
+M. Viola,J. Ward,2,1,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916644.html
+D. Lojda,M. Crugnola,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916647.html
+D. Guez,O. Duberville,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916612.html
+P. Vadel,M. Sibilla,1,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916610.html
+T. Berdych,N. Djokovic,0,3,ATP,Hard,http://tennis.wettpoint.com/en/games/912798.html
+I. Sijsling,J. Janowicz,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916580.html
+A. Balazs,M. Klizan,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916572.html
+J. Millman,S. Bubka,2,1,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916643.html
+S. Dev Varman,P. Siriluethaiwattana,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916642.html
+S. Vagnozzi,A. Martin,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916645.html
+B. Klein,K. Rastogi,1,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916648.html
+S. Greul,J. Huta Galung,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916576.html
+R. Bemelmans,D. Kindlmann,2,1,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916568.html
+D. Brands,G. Burquier,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916578.html
+E. Korolev,A. Bogomolov Jr,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916575.html
+C. Niland,M. Chiudinelli,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916573.html
+A. Sadecky,V. Millot,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916611.html
+M. Ryderstedt,R. Schuettler,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916577.html
+R. Farah,F. Del Bonis,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/916906.html
+E. Prodon,C. Zampieri,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/916907.html
+J. Aguilar,V. Estrella,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/916909.html
+A. Golubev,B. Knittel,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916566.html
+I. Bozoljac,S. Bohli,2,1,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916571.html
+S. Decoud,J. Souza,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/916910.html
+G. Elias,J. Cabal,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/916905.html
+A. Beck,K. Kravchuk,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916567.html
+A. Krajicek,M. Venus,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916688.html
+V. Pospisil,G. Ouellette,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916681.html
+P. Martin-Adalia,D. Lajola,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916692.html
+P. Bester,G. Zemlja,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916690.html
+A. Kuznetsov,M. McClune,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916689.html
+K. Kim,N. Monroe,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916680.html
+L. Gregorc,T. Smyczek,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916682.html
+H. Kondo,R. Kendrick,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916694.html
+R. De Heart,J. Tweedt,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916685.html
+A. Ramos-Vinolas,J. Acasuso,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/916903.html
+I. Navarro,H. Zeballos,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/916914.html
+P. Kvitova,V. Zvonareva,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912933.html
+A. Radwanska,K. Clijsters,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912932.html

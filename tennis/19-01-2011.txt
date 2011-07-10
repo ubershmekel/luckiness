@@ -1,0 +1,49 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+C. Wozniacki,V. King,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/912871.html
+J. Henin,E. Baltacha,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/912875.html
+A. Rus,S. Kuznetsova,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912876.html
+S. Stakhovsky,L. Kubot,3,0,ATP,Hard,http://tennis.wettpoint.com/en/games/912766.html
+F. Mayer,K. Nishikori,1,3,ATP,Hard,http://tennis.wettpoint.com/en/games/912755.html
+M. Fish,T. Robredo,1,3,ATP,Hard,http://tennis.wettpoint.com/en/games/912765.html
+T. Berdych,P. Kohlschreiber,3,1,ATP,Hard,http://tennis.wettpoint.com/en/games/912753.html
+R. Kulikova,C. Scheepers,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912885.html
+A. Roddick,I. Kunitsyn,3,0,ATP,Hard,http://tennis.wettpoint.com/en/games/912761.html
+J. Tipsarevic,F. Verdasco,2,3,ATP,Hard,http://tennis.wettpoint.com/en/games/912756.html
+B. Paire,I. Ljubicic,1,3,ATP,Hard,http://tennis.wettpoint.com/en/games/912758.html
+A. Mannarino,R. Gasquet,0,3,ATP,Hard,http://tennis.wettpoint.com/en/games/912754.html
+R. Haase,J. Monaco,3,1,ATP,Hard,http://tennis.wettpoint.com/en/games/912762.html
+N. Almagro,I. Andreev,3,2,ATP,Hard,http://tennis.wettpoint.com/en/games/912757.html
+A. Hlavackova,V. Azarenka,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912886.html
+A. Brianti,D. Cibulkova,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912872.html
+V. Williams,S. Zahlavova,2,1,WTA,Hard,http://tennis.wettpoint.com/en/games/912879.html
+A. Montanes,X. Malisse,0,3,ATP,Hard,http://tennis.wettpoint.com/en/games/912767.html
+K. Kanepi,J. Goerges,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912881.html
+V. Manasieva,M. Bartoli,2,1,WTA,Hard,http://tennis.wettpoint.com/en/games/912874.html
+R. Marino,F. Schiavone,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912878.html
+V. Razzano,M. Sharapova,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912882.html
+V. Troicki,N. Mahut,3,1,ATP,Hard,http://tennis.wettpoint.com/en/games/912759.html
+T. Pironkova,M. Niculescu,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912877.html
+Y. Wickmayer,A. Sevastova,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912873.html
+S. Wawrinka,G. Dimitrov,3,0,ATP,Hard,http://tennis.wettpoint.com/en/games/912763.html
+N. Li,E. Rodina,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/912883.html
+I. Dodig,N. Djokovic,1,3,ATP,Hard,http://tennis.wettpoint.com/en/games/912760.html
+J. Dokic,B. Zahlavova Strycova,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912884.html
+A. Keothavong,A. Petkovic,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912880.html
+F. Gil,G. Monfils,1,3,ATP,Hard,http://tennis.wettpoint.com/en/games/912764.html
+G. Simon,R. Federer,2,3,ATP,Hard,http://tennis.wettpoint.com/en/games/912768.html
+C. Suarez Navarro,K. Clijsters,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912894.html
+F. Pennetta,L. Dominguez Lino,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/912897.html
+C. Garcia,A. Morita,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912888.html
+S. Cirstea,S. Peer,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912898.html
+J. Jankovic,S. Peng,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912887.html
+A. Kleybanova,S. Halep,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912889.html
+B. Becker,A. Dolgopolov,1,3,ATP,Hard,http://tennis.wettpoint.com/en/games/912747.html
+M. Raonic,M. Llodra,3,0,ATP,Hard,http://tennis.wettpoint.com/en/games/912742.html
+R. Nadal,R. Sweeting,3,0,ATP,Hard,http://tennis.wettpoint.com/en/games/912737.html
+A. Chakvetadze,P. Kvitova,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912896.html
+P. Martic,A. Radwanska,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912890.html
+M. Youzhny,B. Kavcic,3,2,ATP,Hard,http://tennis.wettpoint.com/en/games/912741.html
+I. Benesova,M. Kirilenko,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/912900.html
+B. Tomic,F. Lopez,3,0,ATP,Hard,http://tennis.wettpoint.com/en/games/912738.html
+G. Garcia-Lopez,E. Schwank,3,0,ATP,Hard,http://tennis.wettpoint.com/en/games/912751.html
+M. Martinez Sanchez,A. Cornet,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912893.html

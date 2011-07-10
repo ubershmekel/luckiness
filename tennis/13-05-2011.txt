@@ -1,0 +1,24 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+T. Ito,A. Weintraub,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/960908.html
+Y. Sugita,D. Sela,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/960909.html
+V. Pospisil,G. Soeda,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/960910.html
+Y. Lu,G. Jones,2,1,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/960907.html
+B.Bryan/M.Bryan,M.Fish/A.Roddick,1,2,ATP Double,Clay,http://tennis.wettpoint.com/en/games/964200.html
+L.Kubot/O.Marach,J.Isner/S.Querrey,1,2,ATP Double,Clay,http://tennis.wettpoint.com/en/games/964202.html
+R.Lindstedt/H.Tecau,S.Bolelli/F.Fognini,0,2,ATP Double,Clay,http://tennis.wettpoint.com/en/games/964203.html
+H. Zeballos,N. Mahut,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/961088.html
+J. Souza,D. Meffert,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/961125.html
+G. Arn,N. Li,0,2,WTA,Clay,http://tennis.wettpoint.com/en/games/960870.html
+F. Mayer,A. Murray,1,2,ATP,Clay,http://tennis.wettpoint.com/en/games/961014.html
+F. Serra,S. Robert,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/961089.html
+J. Benneteau,P. Capdeville,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/961087.html
+R. Nadal,M. Cilic,2,0,ATP,Clay,http://tennis.wettpoint.com/en/games/961012.html
+C. Wozniacki,J. Jankovic,2,1,WTA,Clay,http://tennis.wettpoint.com/en/games/960868.html
+K. Mesaros,A. Arnaboldi,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/961124.html
+S. Stosur,F. Schiavone,2,0,WTA,Clay,http://tennis.wettpoint.com/en/games/960871.html
+N. Mektic,D. Junqueira,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/961123.html
+R. Gasquet,T. Berdych,2,1,ATP,Clay,http://tennis.wettpoint.com/en/games/961013.html
+J. Chardy,M. Gicquel,1,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/961086.html
+I. Dodig,M. Klizan,1,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/961122.html
+V. Azarenka,M. Sharapova,0,1,WTA,Clay,http://tennis.wettpoint.com/en/games/960869.html
+R. Söderling,N. Djokovic,0,2,ATP,Clay,http://tennis.wettpoint.com/en/games/961015.html

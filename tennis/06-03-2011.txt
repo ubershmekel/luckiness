@@ -1,0 +1,25 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+M. Ebden,A. Bogomolov Jr,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/931708.html
+G. Dulko,A. Pavlyuchenkova,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/932961.html
+A. Kuznetsov,R. Schuettler,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/931707.html
+A. Molteni,H. Zeballos,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/931748.html
+M. Cilic,P. Kohlschreiber,3,0,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/933952.html
+S. Aspelin,D. Tursunov,0,2,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/934892.html
+V. Troicki,S. Dev Varman,3,0,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/933970.html
+T. Berdych,A. Golubev,1,3,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/933947.html
+J. Dokic,L. Safarova,2,1,WTA,Hard,http://tennis.wettpoint.com/en/games/931573.html
+J. Melzer,G. Simon,3,2,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/933986.html
+I. Karlovic,P. Petzschner,0,3,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/934943.html
+G. Dimitrov,N. Mahut,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/931613.html
+O. Rochus,R. Nadal,0,2,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/934934.html
+J. Johansson,I. Andreev,0,2,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/933963.html
+E. Schwank,V. Crivoi,2,0,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/934942.html
+P. Capdeville,A. Roddick,1,3,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/933982.html
+J. Tipsarevic,K. Rastogi,2,0,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/934956.html
+S. Darcis,F. Lopez,2,1,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/934946.html
+J. Monaco,A. Ungur,1,2,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/933976.html
+J. Hajek,M. Kukushkin,1,3,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/933948.html
+M. Fischer,J. Chardy,1,3,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/934990.html
+G. Rivera-Aranguiz,J. Isner,1,2,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/934997.html
+R. Schuettler,A. Bogomolov Jr,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/931710.html
+J. Jankovic,A. Pavlyuchenkova,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/932963.html
