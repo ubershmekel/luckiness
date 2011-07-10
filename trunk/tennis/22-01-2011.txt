@@ -1,0 +1,20 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+S. Halep,A. Radwanska,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912913.html
+R. Söderling,J. Hernych,3,0,ATP,Hard,http://tennis.wettpoint.com/en/games/912774.html
+L. Safarova,V. Zvonareva,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912919.html
+M. Youzhny,M. Raonic,1,3,ATP,Hard,http://tennis.wettpoint.com/en/games/912772.html
+A. Dolgopolov,J. Tsonga,3,2,ATP,Hard,http://tennis.wettpoint.com/en/games/912775.html
+R. Berankis,D. Ferrer,0,3,ATP,Hard,http://tennis.wettpoint.com/en/games/912773.html
+G. Garcia-Lopez,A. Murray,0,3,ATP,Hard,http://tennis.wettpoint.com/en/games/912777.html
+A. Pavlyuchenkova,I. Benesova,0,3,WTA,Hard,http://tennis.wettpoint.com/en/games/912918.html
+S. Peng,A. Morita,2,1,WTA,Hard,http://tennis.wettpoint.com/en/games/912912.html
+N. Petrova,E. Makarova,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912914.html
+J. Isner,M. Cilic,2,3,ATP,Hard,http://tennis.wettpoint.com/en/games/912771.html
+A. Cornet,K. Clijsters,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912915.html
+F. Pennetta,S. Peer,2,1,WTA,Hard,http://tennis.wettpoint.com/en/games/912917.html
+S. Stosur,P. Kvitova,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912916.html
+J. Melzer,M. Baghdatis,1,0,ATP,Hard,http://tennis.wettpoint.com/en/games/912776.html
+R. Nadal,B. Tomic,3,0,ATP,Hard,http://tennis.wettpoint.com/en/games/912770.html
+C. Wozniacki,A. Sevastova,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/912921.html
+N. Li,V. Azarenka,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/912924.html
+N. Almagro,N. Djokovic,0,3,ATP,Hard,http://tennis.wettpoint.com/en/games/912792.html

@@ -1,0 +1,25 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+D. Nalbandian,H. Zeballos,0,2,ATP,Clay,http://tennis.wettpoint.com/en/games/918990.html
+F. Cipolla,T. Ito,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/918895.html
+B. Tomic,C. Guccione,1,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/918896.html
+E. Kirillov,S. Bubka,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/918929.html
+J. Zopp,A. Beck,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/918928.html
+I. Belyaev,D. Meffert,1,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/918926.html
+I. Van der Merwe,S. Greul,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/918686.html
+R. Gasquet,M. Berrer,0,1,ATP,Carpet,http://tennis.wettpoint.com/en/games/918721.html
+M. Copil,S. Stadler,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/918927.html
+L. Grigelis,M. Bachinger,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/918962.html
+R. De Voest,S. Dev Varman,1,2,ATP,Hard,http://tennis.wettpoint.com/en/games/918685.html
+A. Bogomolov Jr,G. Garcia-Lopez,0,2,ATP,Carpet,http://tennis.wettpoint.com/en/games/918722.html
+N. Mahut,R. Bemelmans,2,1,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/918963.html
+M. Cilic,F. Mayer,0,2,ATP,Carpet,http://tennis.wettpoint.com/en/games/918720.html
+F. Dancevic,A. Mannarino,0,2,ATP,Hard,http://tennis.wettpoint.com/en/games/918683.html
+M. Klizan,G. Muller,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/918964.html
+J. Chela,S. Giraldo,0,2,ATP,Clay,http://tennis.wettpoint.com/en/games/919000.html
+I. Dodig,I. Ljubicic,2,0,ATP,Carpet,http://tennis.wettpoint.com/en/games/918723.html
+J. Janowicz,O. Rochus,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/918965.html
+K. Anderson,K. Beck,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/918684.html
+F. Fognini,T. Bellucci,2,1,ATP,Clay,http://tennis.wettpoint.com/en/games/919001.html
+H. Zeballos,P. Starace,1,2,ATP,Clay,http://tennis.wettpoint.com/en/games/918999.html
+T. Robredo,M. Gonzalez,2,0,ATP,Clay,http://tennis.wettpoint.com/en/games/919002.html
+J. Groth,F. Schiavone,2,1,International,Clay,http://tennis.wettpoint.com/en/games/920433.html

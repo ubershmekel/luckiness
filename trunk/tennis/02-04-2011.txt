@@ -1,0 +1,9 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+R. Nadal,R. Federer,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/941180.html
+A. Haider-Maurer,F. Volandri,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/942481.html
+L. Rosol,A. Bedene,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/942482.html
+B. Paire,M. Przysiezny,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/942401.html
+M. Gonzalez,M. Teixeira,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/942400.html
+M. Sharapova,V. Azarenka,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/941046.html
+F. Cipolla,F. Bagnis,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/942542.html
+D. Junqueira,H. Zeballos,2,1,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/942543.html

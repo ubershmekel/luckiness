@@ -1,0 +1,12 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+R. Ginepri,B. Dabul,2,1,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/987693.html
+P. Riba,J. Huta Galung,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/987722.html
+E. Donskoy,S. Darcis,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/987728.html
+V. Millot,M. Ilhan,1,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/987729.html
+A. Ramos,A. Di Mauro,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/987762.html
+G. Lapentti,C. Berlocq,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/987773.html
+D. Munoz-De La Nava,N. Ciric,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/987764.html
+A. Martin,A. Ungur,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/987772.html
+P. Lorenzi,J. Hajek,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/987736.html
+A. Beck,J. Reister,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/987732.html
+S.Lisicki/S.Stosur,S.Cirstea/A.Morita,2,0,WTA Double,Grass,http://tennis.wettpoint.com/en/games/978871.html

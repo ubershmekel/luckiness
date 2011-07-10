@@ -1,0 +1,51 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+A. Kudryavtseva,K. Clijsters,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/935354.html
+J. Benneteau,F. Lopez,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/935597.html
+I. Andreev,K. Nishikori,2,1,ATP,Hard,http://tennis.wettpoint.com/en/games/935621.html
+R. Bopanna,B. Tomic,1,2,ATP,Hard,http://tennis.wettpoint.com/en/games/935600.html
+M. Kukushkin,L. Kubot,0,2,ATP,Hard,http://tennis.wettpoint.com/en/games/935608.html
+D. Cibulkova,S. Mirza,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/935345.html
+F. Mayer,A. Golubev,0,2,ATP,Hard,http://tennis.wettpoint.com/en/games/935605.html
+B. Mattek-Sands,S. Peer,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/935342.html
+S. Bammer,J. Goerges,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/935348.html
+G. Soeda,C. Stebe,1,2,Challenger Tour ATP,Carpet,http://tennis.wettpoint.com/en/games/934753.html
+S. Stadler,D. Meffert,0,2,Challenger Tour ATP,Carpet,http://tennis.wettpoint.com/en/games/934754.html
+J. Blake,C. Guccione,2,1,ATP,Hard,http://tennis.wettpoint.com/en/games/935592.html
+L. Safarova,A. Petkovic,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/935352.html
+L. Hewitt,Y. Lu,0,2,ATP,Hard,http://tennis.wettpoint.com/en/games/935604.html
+K. Kanepi,G. Dulko,2,1,WTA,Hard,http://tennis.wettpoint.com/en/games/935343.html
+A. Ivanovic,K. Date Krumm,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/935349.html
+N. Davydenko,F. Fognini,2,1,ATP,Hard,http://tennis.wettpoint.com/en/games/935613.html
+K. Beck,M. Basic,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/934825.html
+N. Mahut,A. Delic,1,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/934826.html
+R. Ghedin,M. Gonzalez,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/934790.html
+H. Zeballos,E. Prodon,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/934789.html
+M. Baghdatis,S. Dev Varman,0,2,ATP,Hard,http://tennis.wettpoint.com/en/games/935626.html
+F. Verdasco,R. Berankis,1,0,ATP,Hard,http://tennis.wettpoint.com/en/games/935636.html
+A. Rezai,S. Zhang,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/935333.html
+D. Safina,D. Hantuchova,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/935332.html
+K. Zakopalova,U. Radwanska,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/935329.html
+E. Baltacha,F. Pennetta,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/935326.html
+T. Robredo,M. Zverev,2,1,ATP,Hard,http://tennis.wettpoint.com/en/games/935638.html
+J. Nieminen,A. Montanes,1,2,ATP,Hard,http://tennis.wettpoint.com/en/games/935629.html
+I. Karlovic,D. Ferrer,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/935631.html
+S. Stosur,L. Pous-Tio,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/935331.html
+A. Kleybanova,A. Szavay,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/935325.html
+J. Del Potro,I. Ljubicic,2,1,ATP,Hard,http://tennis.wettpoint.com/en/games/935635.html
+A. Radwanska,I. Benesova,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/935327.html
+A. Dulgheru,L. Hradecka,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/935337.html
+S. Halep,M. Martinez Sanchez,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/935324.html
+D. Young,A. Murray,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/935639.html
+E. Makarova,V. Azarenka,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/935330.html
+A. Dolgopolov,V. Hanescu,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/935634.html
+A. Chakvetadze,M. Kirilenko,0,1,WTA,Hard,http://tennis.wettpoint.com/en/games/935328.html
+T. Smyczek,P. Kohlschreiber,1,2,ATP,Hard,http://tennis.wettpoint.com/en/games/935633.html
+G. Simon,R. Schuettler,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/935630.html
+C. Wozniacki,S. Stephens,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/935323.html
+J. Tipsarevic,S. Querrey,0,2,ATP,Hard,http://tennis.wettpoint.com/en/games/935637.html
+S. Peng,N. Li,2,1,WTA,Hard,http://tennis.wettpoint.com/en/games/935338.html
+S. Arvidsson,N. Petrova,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/935336.html
+R. Nadal,R. De Voest,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/935624.html
+N. Almagro,M. Russell,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/935628.html
+X. Malisse,J. Tsonga,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/935627.html
+R. Sweeting,J. Monaco,2,1,ATP,Hard,http://tennis.wettpoint.com/en/games/935625.html

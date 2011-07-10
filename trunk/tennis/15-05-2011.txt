@@ -1,0 +1,12 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+T. Ito,D. Sela,1,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/960915.html
+J. Monaco,A. Golubev,2,0,World Team Championship,Clay,http://tennis.wettpoint.com/en/games/963214.html
+J. Tipsarevic,P. Kohlschreiber,0,2,World Team Championship,Clay,http://tennis.wettpoint.com/en/games/963209.html
+J. Chela,M. Kukushkin,2,0,World Team Championship,Clay,http://tennis.wettpoint.com/en/games/963215.html
+M. Granollers,M. Youzhny,0,2,World Team Championship,Clay,http://tennis.wettpoint.com/en/games/963210.html
+M. Gicquel,H. Zeballos,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/961094.html
+S. Dev Varman,A. Mannarino,0,2,ATP,Clay,http://tennis.wettpoint.com/en/games/963239.html
+D. Gimeno-Traver,I. Andreev,1,2,World Team Championship,Clay,http://tennis.wettpoint.com/en/games/963211.html
+M. Sharapova,S. Stosur,2,0,WTA,Clay,http://tennis.wettpoint.com/en/games/960876.html
+F. Volandri,A. Dolgopolov,0,2,ATP,Clay,http://tennis.wettpoint.com/en/games/963228.html
+R. Nadal,N. Djokovic,0,2,ATP,Clay,http://tennis.wettpoint.com/en/games/961020.html

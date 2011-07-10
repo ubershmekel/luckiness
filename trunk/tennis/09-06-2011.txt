@@ -1,0 +1,46 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+G. Voskoboeva,S. Zhang,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/970071.html
+B. Tomic,T. Ito,2,1,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/970263.html
+C.Dellacqua/C.Scheepers,N.Grandin/V.Uhlirova,2,1,WTA Double,Grass,http://tennis.wettpoint.com/en/games/970299.html
+G. Zemlja,A. Falla,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/970261.html
+M. Gicquel,I. Van der Merwe,1,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/970260.html
+D. Guez,L. Rosol,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/969970.html
+W. Odesnik,S. Greul,1,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/969969.html
+G. Monfils,I. Dodig,2,0,ATP,Grass,http://tennis.wettpoint.com/en/games/969923.html
+M. Lucic,A. Hlavackova,2,0,WTA,Grass,http://tennis.wettpoint.com/en/games/970200.html
+A. Kudryavtseva,D. Hantuchova,0,2,WTA,Grass,http://tennis.wettpoint.com/en/games/970199.html
+A. Rezai,A. Riske,1,2,WTA,Grass,http://tennis.wettpoint.com/en/games/970198.html
+R. De Voest,F. Nielsen,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/970264.html
+M. Krajicek,L. Safarova,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/970072.html
+P. Kohlschreiber,A. Dolgopolov,2,0,ATP,Grass,http://tennis.wettpoint.com/en/games/969922.html
+R.Haase/M.Raonic,D.Meffert/M.Zverev,2,0,ATP Double,Grass,http://tennis.wettpoint.com/en/games/970136.html
+W.Moodie/D.Norman,F.Polasek/I.Zelenay,1,2,ATP Double,Grass,http://tennis.wettpoint.com/en/games/970108.html
+C.Fleming/R.Hutchins,M.Bhupathi/L.Paes,1,2,ATP Double,Grass,http://tennis.wettpoint.com/en/games/970109.html
+K. Anderson,A. Roddick,0,2,ATP,Grass,http://tennis.wettpoint.com/en/games/970033.html
+F. Verdasco,D. Nalbandian,2,0,ATP,Grass,http://tennis.wettpoint.com/en/games/970032.html
+S. Peng,H. Watson,2,0,WTA,Grass,http://tennis.wettpoint.com/en/games/970196.html
+S. Lisicki,T. Paszek,2,0,WTA,Grass,http://tennis.wettpoint.com/en/games/970195.html
+M. Erakovic,S. Errani,2,1,WTA,Grass,http://tennis.wettpoint.com/en/games/970197.html
+E. Donskoy,A. Arnaboldi,2,1,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/969968.html
+B.Bryan/M.Bryan,A.Fisher/S.Huss,2,0,ATP Double,Grass,http://tennis.wettpoint.com/en/games/970104.html
+L.Huber/L.Raymond,K.Chang/C.Chuang,2,0,WTA Double,Grass,http://tennis.wettpoint.com/en/games/970303.html
+A. Rodionova,M. Rybarikova,1,2,WTA,Grass,http://tennis.wettpoint.com/en/games/970194.html
+X.Malisse/K.Skupski,O.Marach/M.Matkowski,0,2,ATP Double,Grass,http://tennis.wettpoint.com/en/games/970107.html
+R. Marino,A. Ivanovic,0,2,WTA,Grass,http://tennis.wettpoint.com/en/games/970201.html
+A. Mannarino,G. Simon,1,0,ATP,Grass,http://tennis.wettpoint.com/en/games/970018.html
+Y. Lu,F. Mayer,1,2,ATP,Grass,http://tennis.wettpoint.com/en/games/969924.html
+J. Tipsarevic,A. Murray,0,2,ATP,Grass,http://tennis.wettpoint.com/en/games/970035.html
+M. Llodra,J. Tsonga,0,1,ATP,Grass,http://tennis.wettpoint.com/en/games/970029.html
+S.Lipsky/R.Ram,M.Mirnyi/D.Nestor,1,2,ATP Double,Grass,http://tennis.wettpoint.com/en/games/970111.html
+K.Kanepi/M.Rybarikova,S.Cirstea/M.Erakovic,1,2,WTA Double,Grass,http://tennis.wettpoint.com/en/games/970298.html
+J.Rae/H.Watson,O.Govortsova/A.Kudryavtseva,0,2,WTA Double,Grass,http://tennis.wettpoint.com/en/games/970301.html
+B. Mattek-Sands,J. Larsson,2,1,WTA,Hard,http://tennis.wettpoint.com/en/games/970069.html
+C.Kas/P.Kohlschreiber,J.Nieminen/V.Troicki,2,0,ATP Double,Grass,http://tennis.wettpoint.com/en/games/970135.html
+J. Del Potro,A. Mannarino,0,2,ATP,Grass,http://tennis.wettpoint.com/en/games/970031.html
+L.Dekmeijere/S.Zhang,A.Glatch/A.Rolle,0,2,WTA Double,Hard,http://tennis.wettpoint.com/en/games/970228.html
+L. Hewitt,A. Seppi,2,0,ATP,Grass,http://tennis.wettpoint.com/en/games/969921.html
+R. Nadal,R. Stepanek,2,1,ATP,Grass,http://tennis.wettpoint.com/en/games/970028.html
+R.Lindstedt/H.Tecau,M.Lopez/R.Nadal,1,0,ATP Double,Grass,http://tennis.wettpoint.com/en/games/970110.html
+M. Cilic,T. Bellucci,2,1,ATP,Grass,http://tennis.wettpoint.com/en/games/970034.html
+C. Wozniacki,A. Kerber,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/970067.html
+B.Mattek-Sands/M.Oudin,K.Mladenovic/K.Piter,0,1,WTA Double,Hard,http://tennis.wettpoint.com/en/games/970226.html

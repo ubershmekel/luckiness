@@ -1,0 +1,24 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+E. Rodina,O. Rogowska,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/912831.html
+T. Tanasugarn,M. Sharapova,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912829.html
+T. Bacsinszky,M. Niculescu,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912819.html
+S. Stakhovsky,D. Brands,3,0,ATP,Hard,http://tennis.wettpoint.com/en/games/912730.html
+L. Hradecka,A. Brianti,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912808.html
+J. Goerges,E. Gallovits-Hall,2,1,WTA,Hard,http://tennis.wettpoint.com/en/games/912827.html
+A. Parra Santonja,F. Schiavone,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912821.html
+K. Kanepi,M. Rybarikova,2,1,WTA,Hard,http://tennis.wettpoint.com/en/games/912826.html
+A. Kerber,D. Cibulkova,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912809.html
+C. Berlocq,R. Haase,0,3,ATP,Hard,http://tennis.wettpoint.com/en/games/912722.html
+S. Greul,J. Monaco,0,3,ATP,Hard,http://tennis.wettpoint.com/en/games/913525.html
+F. Fognini,K. Nishikori,1,3,ATP,Hard,http://tennis.wettpoint.com/en/games/912709.html
+M. Przysiezny,I. Kunitsyn,1,3,ATP,Hard,http://tennis.wettpoint.com/en/games/912721.html
+T. De Bakker,G. Monfils,2,3,ATP,Hard,http://tennis.wettpoint.com/en/games/912727.html
+F. Gil,P. Cuevas,3,2,ATP,Hard,http://tennis.wettpoint.com/en/games/912726.html
+L. Kubot,S. Querrey,3,2,ATP,Hard,http://tennis.wettpoint.com/en/games/912731.html
+M. Fish,V. Hanescu,3,2,ATP,Hard,http://tennis.wettpoint.com/en/games/912728.html
+C. Wozniacki,G. Dulko,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/912806.html
+N. Davydenko,F. Mayer,1,3,ATP,Hard,http://tennis.wettpoint.com/en/games/912708.html
+R. Harrison,A. Mannarino,0,3,ATP,Hard,http://tennis.wettpoint.com/en/games/912706.html
+K. Sprem,C. Scheepers,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912835.html
+P. Andujar,X. Malisse,0,3,ATP,Hard,http://tennis.wettpoint.com/en/games/912733.html
+D. Hantuchova,R. Kulikova,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912834.html

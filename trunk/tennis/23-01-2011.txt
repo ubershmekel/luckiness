@@ -1,0 +1,12 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+C. Wozniacki,A. Sevastova,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/912921.html
+N. Li,V. Azarenka,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/912924.html
+N. Almagro,N. Djokovic,0,3,ATP,Hard,http://tennis.wettpoint.com/en/games/912792.html
+T. Robredo,R. Federer,1,3,ATP,Hard,http://tennis.wettpoint.com/en/games/912794.html
+T. Berdych,F. Verdasco,3,0,ATP,Hard,http://tennis.wettpoint.com/en/games/912791.html
+S. Kuznetsova,F. Schiavone,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912922.html
+A. Petkovic,M. Sharapova,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/912923.html
+A. Roddick,S. Wawrinka,0,3,ATP,Hard,http://tennis.wettpoint.com/en/games/912793.html
+P. Kvitova,F. Pennetta,2,1,WTA,Hard,http://tennis.wettpoint.com/en/games/912927.html
+R. Söderling,A. Dolgopolov,2,3,ATP,Hard,http://tennis.wettpoint.com/en/games/912789.html
+I. Benesova,V. Zvonareva,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912928.html

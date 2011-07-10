@@ -1,0 +1,18 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+B.Bryan/M.Bryan,T.Gabashvili/M.Kukushkin,2,0,ATP Double,Clay,http://tennis.wettpoint.com/en/games/965713.html
+N. Li,P. Kvitova,2,1,WTA,Clay,http://tennis.wettpoint.com/en/games/964902.html
+A. Falla,J. Chela,2,3,ATP,Clay,http://tennis.wettpoint.com/en/games/965042.html
+A.Hlavackova/L.Hradecka,K.Peschke/K.Srebotnik,2,0,WTA Double,Clay,http://tennis.wettpoint.com/en/games/965644.html
+A.Golubev/D.Istomin,R.Bopanna/A.Qureshi,0,2,ATP Double,Clay,http://tennis.wettpoint.com/en/games/965714.html
+D. Munoz-De La Nava,D. Gimeno-Traver,2,1,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/968488.html
+R. Nadal,I. Ljubicic,3,0,ATP,Clay,http://tennis.wettpoint.com/en/games/965039.html
+D.Bracciali/P.Starace,J.Cabal/E.Schwank,1,2,ATP Double,Clay,http://tennis.wettpoint.com/en/games/965723.html
+G.Dulko/F.Pennetta,S.Mirza/E.Vesnina,0,2,WTA Double,Clay,http://tennis.wettpoint.com/en/games/965641.html
+K. Kravchuk,Y. Schukin,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/968479.html
+M. Russell,J. Hajek,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/968478.html
+D. Ferrer,G. Monfils,2,3,ATP,Clay,http://tennis.wettpoint.com/en/games/965043.html
+M. Youzhny,M. Semjan,2,1,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/968477.html
+G. Simon,R. Söderling,0,3,ATP,Clay,http://tennis.wettpoint.com/en/games/965040.html
+E. Makarova,V. Azarenka,0,2,WTA,Clay,http://tennis.wettpoint.com/en/games/964903.html
+M. Sharapova,A. Radwanska,2,0,WTA,Clay,http://tennis.wettpoint.com/en/games/964904.html
+A. Petkovic,M. Kirilenko,2,1,WTA,Clay,http://tennis.wettpoint.com/en/games/964905.html

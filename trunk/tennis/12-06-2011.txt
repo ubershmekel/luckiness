@@ -1,0 +1,13 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+D. Gimeno-Traver,J. Marti,0,2,ATP,Grass,http://tennis.wettpoint.com/en/games/971292.html
+D. Cibulkova,S. Halep,2,0,WTA,Grass,http://tennis.wettpoint.com/en/games/971370.html
+S.Errani/R.Vinci,O.Govortsova/A.Kudryavtseva,1,2,WTA Double,Grass,http://tennis.wettpoint.com/en/games/970311.html
+P. Kohlschreiber,P. Petzschner,1,0,ATP,Grass,http://tennis.wettpoint.com/en/games/969938.html
+K.Mladenovic/K.Piter,J.Larsson/J.Woehr,0,2,WTA Double,Hard,http://tennis.wettpoint.com/en/games/970234.html
+L. Dominguez Lino,A. Chakvetadze,2,0,WTA,Grass,http://tennis.wettpoint.com/en/games/971360.html
+V. Hanescu,I. Dodig,0,2,ATP,Grass,http://tennis.wettpoint.com/en/games/971295.html
+A. Haider-Maurer,B. Kavcic,2,1,ATP,Grass,http://tennis.wettpoint.com/en/games/971294.html
+M.Kondratieva/S.Sun,A.Amanmuradova/T.Poutchek,2,0,WTA Double,Grass,http://tennis.wettpoint.com/en/games/971443.html
+R.Bopanna/A.Qureshi,R.Haase/M.Raonic,2,1,ATP Double,Grass,http://tennis.wettpoint.com/en/games/970142.html
+C. Wozniacki,L. Safarova,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/970084.html
+K. Flipkens,K. Zakopalova,2,0,WTA,Grass,http://tennis.wettpoint.com/en/games/971365.html

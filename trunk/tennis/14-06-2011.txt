@@ -1,0 +1,137 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+W. Odesnik,A. Arnaboldi,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/971543.html
+A. Ramos,A. Comporto,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/971545.html
+M. Teixeira,B. Balleret,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/971553.html
+F. Krajinovic,J. McGee,1,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/971554.html
+J. Nieminen,M. Gonzalez,2,0,ATP,Grass,http://tennis.wettpoint.com/en/games/971296.html
+R. Marino,J. Larsson,0,2,WTA,Grass,http://tennis.wettpoint.com/en/games/971364.html
+M. Russell,S. Giraldo,0,2,ATP,Grass,http://tennis.wettpoint.com/en/games/971285.html
+J. Huta Galung,J. Reister,2,1,ATP,Grass,http://tennis.wettpoint.com/en/games/971289.html
+A. Bogomolov Jr,J. Chardy,2,1,ATP,Grass,http://tennis.wettpoint.com/en/games/971291.html
+Z. Kucova,J. Cohen,2,0,WTA,Grass,http://tennis.wettpoint.com/en/games/972253.html
+E. Kostova,K. Chang,0,2,WTA,Grass,http://tennis.wettpoint.com/en/games/972255.html
+L. Jurikova,K. Nara,0,2,WTA,Grass,http://tennis.wettpoint.com/en/games/972287.html
+N. Llagostera Vives,T. Malek,2,0,WTA,Grass,http://tennis.wettpoint.com/en/games/972252.html
+Y. Chan,M. Erakovic,0,2,WTA,Grass,http://tennis.wettpoint.com/en/games/972256.html
+E. Cabeza Candela,C. Dentoni,2,0,WTA,Grass,http://tennis.wettpoint.com/en/games/972289.html
+L. Thorpe,K. Pliskova,0,2,WTA,Grass,http://tennis.wettpoint.com/en/games/972285.html
+N. Lertcheewakarn,K. Iijima,2,0,WTA,Grass,http://tennis.wettpoint.com/en/games/972254.html
+M. Trevisan,K. Kim,0,1,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/971547.html
+M. South,L. Ungur,2,0,WTA,Grass,http://tennis.wettpoint.com/en/games/972282.html
+E. Ivanova,X. Han,2,0,WTA,Grass,http://tennis.wettpoint.com/en/games/972281.html
+M. Brengle,M. Doi,1,2,WTA,Grass,http://tennis.wettpoint.com/en/games/972283.html
+I. Bremond,A. Floris,1,2,WTA,Grass,http://tennis.wettpoint.com/en/games/972288.html
+A. Rodionova,S. Karatantcheva,2,1,WTA,Grass,http://tennis.wettpoint.com/en/games/972286.html
+M. Zec Peskiric,S. Ferguson,0,2,WTA,Grass,http://tennis.wettpoint.com/en/games/972257.html
+E. Birnerova,A. Kremer,2,0,WTA,Grass,http://tennis.wettpoint.com/en/games/972284.html
+M.Kondratieva/S.Sun,R.Kops-Jones/A.Spears,2,1,WTA Double,Grass,http://tennis.wettpoint.com/en/games/971450.html
+D. Giorgini,P. Carreno-Busta,2,1,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/971555.html
+E. Donskoy,S. Galvani,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/971542.html
+C. Suarez Navarro,S. Voegele,2,1,WTA,Grass,http://tennis.wettpoint.com/en/games/972280.html
+A. Slabinsky,K. Anderson,0,2,ATP,Grass,http://tennis.wettpoint.com/en/games/971254.html
+D. Young,D. Cox,2,0,ATP,Grass,http://tennis.wettpoint.com/en/games/972353.html
+E. Makarova,M. Lucic,2,1,WTA,Grass,http://tennis.wettpoint.com/en/games/971404.html
+X. Malisse,A. Falla,2,0,ATP,Grass,http://tennis.wettpoint.com/en/games/971288.html
+A. Rezai,E. Baltacha,0,2,WTA,Grass,http://tennis.wettpoint.com/en/games/971400.html
+J. Goerges,A. Ivanovic,0,2,WTA,Grass,http://tennis.wettpoint.com/en/games/971408.html
+R. Vinci,P. Hercog,2,0,WTA,Grass,http://tennis.wettpoint.com/en/games/971366.html
+A. Fitzpatrick,S. Dubois,0,2,WTA,Grass,http://tennis.wettpoint.com/en/games/972279.html
+S. Jones,O. Savchuk,0,2,WTA,Grass,http://tennis.wettpoint.com/en/games/972266.html
+A. Wozniak,U. Radwanska,2,0,WTA,Grass,http://tennis.wettpoint.com/en/games/972299.html
+K. Kucova,J. Namigata,0,2,WTA,Grass,http://tennis.wettpoint.com/en/games/972267.html
+C. Dellacqua,H. El Tabakh,0,2,WTA,Grass,http://tennis.wettpoint.com/en/games/972278.html
+A. Cadantu,M. Barthel,0,2,WTA,Grass,http://tennis.wettpoint.com/en/games/972290.html
+E. Sema,A. Vrljic,2,0,WTA,Grass,http://tennis.wettpoint.com/en/games/972258.html
+A.Hlavackova/L.Hradecka,L.Huber/L.Raymond,0,2,WTA Double,Grass,http://tennis.wettpoint.com/en/games/971675.html
+S. Stephens,J. Windley,2,0,WTA,Grass,http://tennis.wettpoint.com/en/games/972296.html
+Y. Beygelzimer,S. Soler-Espinosa,0,2,WTA,Grass,http://tennis.wettpoint.com/en/games/972259.html
+S. Peers,C. Garcia,0,2,WTA,Grass,http://tennis.wettpoint.com/en/games/972293.html
+N. Piquion,M. Minella,2,1,WTA,Grass,http://tennis.wettpoint.com/en/games/972295.html
+I. Olaru,N. Bratchikova,0,2,WTA,Grass,http://tennis.wettpoint.com/en/games/972297.html
+M. Linette,G. Voskoboeva,0,2,WTA,Grass,http://tennis.wettpoint.com/en/games/972294.html
+R. Voracova,A. Glatch,0,2,WTA,Grass,http://tennis.wettpoint.com/en/games/972292.html
+K. Woerle,M. Irigoyen,2,1,WTA,Grass,http://tennis.wettpoint.com/en/games/972298.html
+E. Korolev,R. Ramirez Hidalgo,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/971556.html
+M. Krajicek,V. Savinykh,0,2,WTA,Grass,http://tennis.wettpoint.com/en/games/972291.html
+A. Brizzi,S. Vagnozzi,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/971548.html
+T. Yang,H. Zeballos,1,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/971544.html
+K. Bertens,S. Errani,0,2,WTA,Grass,http://tennis.wettpoint.com/en/games/971372.html
+L.Dlouhy/M.Kohlmann,J.Brunstrom/S.Shamasdin,2,1,WTA Double,Grass,http://tennis.wettpoint.com/en/games/971491.html
+M.Kirilenko/M.Niculescu,K.Barrois/J.Woehr,0,1,WTA Double,Grass,http://tennis.wettpoint.com/en/games/971439.html
+I. Marchenko,F. Gil,2,0,ATP,Grass,http://tennis.wettpoint.com/en/games/971256.html
+R. Schuettler,S. Stakhovsky,2,0,ATP,Grass,http://tennis.wettpoint.com/en/games/971250.html
+L. Dominguez Lino,K. Date Krumm,0,2,WTA,Grass,http://tennis.wettpoint.com/en/games/971376.html
+J. Dokic,A. Kudryavtseva,2,0,WTA,Grass,http://tennis.wettpoint.com/en/games/971363.html
+K. Kanepi,F. Schiavone,0,2,WTA,Grass,http://tennis.wettpoint.com/en/games/971406.html
+T. Moore,Y. Meusburger,0,2,WTA,Grass,http://tennis.wettpoint.com/en/games/972263.html
+S. Murray,C. Giorgi,0,2,WTA,Grass,http://tennis.wettpoint.com/en/games/972262.html
+M. Camerin,A. Krunic,2,0,WTA,Grass,http://tennis.wettpoint.com/en/games/972276.html
+I. Falconi,A. Groenefeld,2,0,WTA,Grass,http://tennis.wettpoint.com/en/games/972264.html
+F. Stephenson,L. Tsurenko,0,2,WTA,Grass,http://tennis.wettpoint.com/en/games/972275.html
+A. Rus,O. Sanchez,2,0,WTA,Grass,http://tennis.wettpoint.com/en/games/972260.html
+L. Wienerova,T. Luzhanska,0,2,WTA,Grass,http://tennis.wettpoint.com/en/games/972273.html
+E. Gallovits-Hall,F. Molinero,2,0,WTA,Grass,http://tennis.wettpoint.com/en/games/972272.html
+E. Georgatou,S. Foretz Gacon,0,2,WTA,Grass,http://tennis.wettpoint.com/en/games/972271.html
+A. Panova,L. Lee-Waters,0,2,WTA,Grass,http://tennis.wettpoint.com/en/games/972261.html
+V. Diatchenko,J. Glushko,2,0,WTA,Grass,http://tennis.wettpoint.com/en/games/972277.html
+M. Koryttseva,L. Siegemund,2,0,WTA,Grass,http://tennis.wettpoint.com/en/games/974779.html
+E. Bogdan,J. Lu,2,1,WTA,Grass,http://tennis.wettpoint.com/en/games/972265.html
+T. Tanasugarn,C. Buyukakcay,2,0,WTA,Grass,http://tennis.wettpoint.com/en/games/972268.html
+L. Arruabarrena-Vecino,B. Garcia Vidagany,1,2,WTA,Grass,http://tennis.wettpoint.com/en/games/972274.html
+A. Tomljanovic,R. Kulikova,0,1,WTA,Grass,http://tennis.wettpoint.com/en/games/972269.html
+S. Travaglia,M. Volante,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/971546.html
+T. Pironkova,S. Williams,1,2,WTA,Grass,http://tennis.wettpoint.com/en/games/971396.html
+D.Gimeno-Traver/S.Giraldo,A.Falla/D.Tursunov,2,0,WTA Double,Grass,http://tennis.wettpoint.com/en/games/971486.html
+D.Cibulkova/F.Pennetta,S.Errani/R.Vinci,2,1,WTA Double,Grass,http://tennis.wettpoint.com/en/games/971451.html
+K. Nishikori,E. Kirillov,2,0,ATP,Grass,http://tennis.wettpoint.com/en/games/971249.html
+L. Safarova,M. Bartoli,1,2,WTA,Grass,http://tennis.wettpoint.com/en/games/971402.html
+A. Haider-Maurer,I. Dodig,0,2,ATP,Grass,http://tennis.wettpoint.com/en/games/971306.html
+K. Clijsters,R. Oprandi,0,2,WTA,Grass,http://tennis.wettpoint.com/en/games/971375.html
+S. Dev Varman,G. Garcia-Lopez,2,0,ATP,Grass,http://tennis.wettpoint.com/en/games/971258.html
+A. Pavlyuchenkova,B. Jovanovski,0,2,WTA,Grass,http://tennis.wettpoint.com/en/games/971397.html
+J. Marti,T. Gabashvili,0,2,ATP,Grass,http://tennis.wettpoint.com/en/games/971305.html
+G.Dimitrov/A.Seppi,C.Berlocq/F.Ferreiro,2,1,ATP Double,Grass,http://tennis.wettpoint.com/en/games/971581.html
+R. Bautista-Agut,L. Broady,2,0,ATP,Grass,http://tennis.wettpoint.com/en/games/971783.html
+F. Dancevic,D. Udomchoke,2,0,ATP,Grass,http://tennis.wettpoint.com/en/games/971784.html
+C. Stebe,A. Kudryavtsev,2,1,ATP,Grass,http://tennis.wettpoint.com/en/games/971793.html
+G. Soeda,M. Fucsovics,2,0,ATP,Grass,http://tennis.wettpoint.com/en/games/971796.html
+R. Harrison,L. Rochette,2,0,ATP,Grass,http://tennis.wettpoint.com/en/games/971792.html
+S. Bolelli,S. Stadler,2,0,ATP,Grass,http://tennis.wettpoint.com/en/games/971790.html
+C.Black/S.Peer,N.Petrova/A.Rodionova,2,0,WTA Double,Grass,http://tennis.wettpoint.com/en/games/971674.html
+M. Gicquel,B. Knittel,2,0,ATP,Grass,http://tennis.wettpoint.com/en/games/971788.html
+G. Burquier,M. Crugnola,0,2,ATP,Grass,http://tennis.wettpoint.com/en/games/971785.html
+V. Pospisil,E. Roger-Vasselin,0,2,ATP,Grass,http://tennis.wettpoint.com/en/games/971789.html
+K. De Schepper,M. Ebden,2,0,ATP,Grass,http://tennis.wettpoint.com/en/games/971791.html
+F. Wolmarans,L. Lacko,1,2,ATP,Grass,http://tennis.wettpoint.com/en/games/971797.html
+F. Cipolla,D. Munoz-De La Nava,2,1,ATP,Grass,http://tennis.wettpoint.com/en/games/971782.html
+I. Minar,G. Olaso,1,2,ATP,Grass,http://tennis.wettpoint.com/en/games/971794.html
+R. Bemelmans,Y. Sugita,2,1,ATP,Grass,http://tennis.wettpoint.com/en/games/971795.html
+N. Mektic,A. Kuznetsov,2,0,ATP,Grass,http://tennis.wettpoint.com/en/games/971787.html
+G. Jones,C. Niland,1,2,ATP,Grass,http://tennis.wettpoint.com/en/games/971786.html
+V. Zvonareva,H. Watson,2,0,WTA,Grass,http://tennis.wettpoint.com/en/games/971395.html
+J. Tsonga,D. Istomin,2,0,ATP,Grass,http://tennis.wettpoint.com/en/games/971247.html
+R. Haase,M. Zverev,2,0,ATP,Grass,http://tennis.wettpoint.com/en/games/971298.html
+S.Dev Varman/M.Knowles,Y.Lu/O.Marach,0,2,ATP Double,Grass,http://tennis.wettpoint.com/en/games/971584.html
+J. Janowicz,O. Golding,2,0,ATP,Grass,http://tennis.wettpoint.com/en/games/971780.html
+G. Zemlja,J. Silva,2,0,ATP,Grass,http://tennis.wettpoint.com/en/games/971778.html
+A. Delic,R. De Voest,0,2,ATP,Grass,http://tennis.wettpoint.com/en/games/971779.html
+F. Nielsen,K. Beck,0,2,ATP,Grass,http://tennis.wettpoint.com/en/games/971777.html
+G. Rufin,M. Matosevic,0,2,ATP,Grass,http://tennis.wettpoint.com/en/games/971773.html
+I. Navarro,I. Sijsling,1,2,ATP,Grass,http://tennis.wettpoint.com/en/games/971767.html
+S. Darcis,M. Chiudinelli,0,1,ATP,Grass,http://tennis.wettpoint.com/en/games/971776.html
+K.Peschke/K.Srebotnik,A.Pavlyuchenkova/V.Zvonareva,2,1,WTA Double,Grass,http://tennis.wettpoint.com/en/games/971668.html
+J. Lisnard,R. Dutra Da Silva,2,1,ATP,Grass,http://tennis.wettpoint.com/en/games/971771.html
+L. Kubot,K. Mesaros,2,1,ATP,Grass,http://tennis.wettpoint.com/en/games/971768.html
+R. Farah,B. Tomic,0,2,ATP,Grass,http://tennis.wettpoint.com/en/games/971770.html
+T. Schoorel,C. Guccione,0,2,ATP,Grass,http://tennis.wettpoint.com/en/games/971772.html
+J. Baker,A. Beck,0,2,ATP,Grass,http://tennis.wettpoint.com/en/games/971775.html
+A. Kuznetsov,M. Fischer,0,2,ATP,Grass,http://tennis.wettpoint.com/en/games/971781.html
+D. Goffin,U. Ignatik,2,1,ATP,Grass,http://tennis.wettpoint.com/en/games/971766.html
+A. Gensse,C. Brezac,2,1,ATP,Grass,http://tennis.wettpoint.com/en/games/971769.html
+R. Hocevar,J. Zopp,1,2,ATP,Grass,http://tennis.wettpoint.com/en/games/971774.html
+J. Zheng,D. Hantuchova,0,2,WTA,Grass,http://tennis.wettpoint.com/en/games/971409.html
+T. Paszek,N. Li,0,2,WTA,Grass,http://tennis.wettpoint.com/en/games/971410.html
+J.Erlich/A.Ram,M.Fyrstenberg/M.Matkowski,2,0,ATP Double,Grass,http://tennis.wettpoint.com/en/games/971587.html
+J.Murray/S.Stakhovsky,J.Benneteau/J.Tsonga,1,2,ATP Double,Grass,http://tennis.wettpoint.com/en/games/971586.html
+P. Riba,T. Muster,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/971541.html
+L. Hewitt,O. Rochus,0,1,ATP,Grass,http://tennis.wettpoint.com/en/games/971261.html

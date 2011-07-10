@@ -1,0 +1,24 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+A. Ramos-Vinolas,T. Robredo,0,2,ATP,Clay,http://tennis.wettpoint.com/en/games/923567.html
+A. Roddick,J. Tipsarevic,2,0,ATP,Indoor,http://tennis.wettpoint.com/en/games/923454.html
+A. Mannarino,L. Hewitt,1,2,ATP,Indoor,http://tennis.wettpoint.com/en/games/923455.html
+G. Alcaide,B. Knittel,1,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/923665.html
+C. Wozniacki,S. Peer,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/923770.html
+S. Stosur,J. Jankovic,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/923771.html
+G. Olaso,B. Knittel,2,1,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/923669.html
+M. Cilic,T. Berdych,2,0,ATP,Indoor,http://tennis.wettpoint.com/en/games/923429.html
+R. Söderling,M. Llodra,2,0,ATP,Indoor,http://tennis.wettpoint.com/en/games/923426.html
+C. Dentoni,B. Garcia Vidagany,1,2,WTA,Clay,http://tennis.wettpoint.com/en/games/923696.html
+A. Radwanska,S. Kuznetsova,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/923772.html
+L. Pous Tio,P. Martic,0,2,WTA,Clay,http://tennis.wettpoint.com/en/games/923703.html
+L. Dominguez Lino,B. Garcia Vidagany,2,0,WTA,Clay,http://tennis.wettpoint.com/en/games/923702.html
+R. Kendrick,M. Raonic,1,2,ATP,Indoor,http://tennis.wettpoint.com/en/games/923466.html
+F. Pennetta,A. Kleybanova,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/923773.html
+M. Johansson,C. Castano,2,0,WTA,Clay,http://tennis.wettpoint.com/en/games/923701.html
+J. Tsonga,M. Youzhny,1,2,ATP,Indoor,http://tennis.wettpoint.com/en/games/923428.html
+S. Querrey,M. Fish,0,2,ATP,Indoor,http://tennis.wettpoint.com/en/games/923465.html
+X. Han,C. Suarez Navarro,0,2,WTA,Clay,http://tennis.wettpoint.com/en/games/923700.html
+J. Melzer,D. Tursunov,1,2,ATP,Indoor,http://tennis.wettpoint.com/en/games/923427.html
+M. Rybarikova,L. Hradecka,2,1,WTA,Indoor,http://tennis.wettpoint.com/en/games/923505.html
+E. Rodina,R. Marino,1,2,WTA,Indoor,http://tennis.wettpoint.com/en/games/923506.html
+A. Roddick,L. Hewitt,2,1,ATP,Indoor,http://tennis.wettpoint.com/en/games/923463.html

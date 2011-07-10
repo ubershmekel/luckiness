@@ -1,0 +1,25 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+D. Young,J. Blake,2,1,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/949435.html
+J. Groth,O. Savchuk,2,0,International,Clay,http://tennis.wettpoint.com/en/games/951035.html
+A. Rodionova,L. Tsurenko,0,2,International,Clay,http://tennis.wettpoint.com/en/games/951036.html
+M. Klizan,I. Minar,2,1,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/949247.html
+M. Martinez Sanchez,V. Razzano,2,0,International,Clay,http://tennis.wettpoint.com/en/games/951163.html
+A. Beck,T. Schoorel,1,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/949248.html
+V. Zvonareva,S. Errani,2,0,International,Clay,http://tennis.wettpoint.com/en/games/951199.html
+A. Petkovic,C. McHale,2,0,International,Clay,http://tennis.wettpoint.com/en/games/951168.html
+A. Medina Garrigues,A. Rezai,1,2,International,Clay,http://tennis.wettpoint.com/en/games/951164.html
+D. Ferrer,J. Melzer,2,0,ATP,Clay,http://tennis.wettpoint.com/en/games/949364.html
+S. Kuznetsova,R. Vinci,2,1,International,Clay,http://tennis.wettpoint.com/en/games/951201.html
+K. Flipkens,P. Kvitova,0,2,International,Clay,http://tennis.wettpoint.com/en/games/951183.html
+S. Bohli,M. Bachinger,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/949399.html
+D. Cibulkova,B. Jovanovski,2,1,International,Clay,http://tennis.wettpoint.com/en/games/951158.html
+R. Nadal,A. Murray,2,1,ATP,Clay,http://tennis.wettpoint.com/en/games/949363.html
+J. Goerges,M. Oudin,2,0,International,Clay,http://tennis.wettpoint.com/en/games/951169.html
+D. Sela,D. Tursunov,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/949400.html
+Y. Wickmayer,B. Zahlavova Strycova,2,0,International,Clay,http://tennis.wettpoint.com/en/games/951184.html
+J. Acasuso,D. Junqueira,2,1,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/949535.html
+M. Demoliner,A. Bedene,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/949536.html
+D. Hantuchova,A. Ivanovic,0,2,International,Clay,http://tennis.wettpoint.com/en/games/951159.html
+D. Young,W. Odesnik,2,1,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/949438.html
+J. Groth,L. Tsurenko,2,0,International,Clay,http://tennis.wettpoint.com/en/games/951037.html
+A. Rodionova,O. Savchuk,0,2,International,Clay,http://tennis.wettpoint.com/en/games/951038.html

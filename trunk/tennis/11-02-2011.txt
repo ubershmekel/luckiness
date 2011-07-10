@@ -1,0 +1,34 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+C. Ball,G. Zemlja,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/920786.html
+M. Ebden,F. Cipolla,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/920788.html
+B. Tomic,I. Klec,2,1,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/920787.html
+M. Matosevic,D. Udomchoke,1,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/920785.html
+L. Lacko,J. Del Potro,0,2,ATP,Indoor,http://tennis.wettpoint.com/en/games/920653.html
+F. Verdasco,I. Karlovic,2,0,ATP,Indoor,http://tennis.wettpoint.com/en/games/920651.html
+R. Kendrick,G. Monfils,1,2,ATP,Indoor,http://tennis.wettpoint.com/en/games/920658.html
+S. Errani,G. Voskoboeva,2,1,WTA,Hard,http://tennis.wettpoint.com/en/games/920860.html
+V. Zvonareva,S. Peng,2,1,WTA,Hard,http://tennis.wettpoint.com/en/games/920858.html
+R. Vinci,A. Ivanovic,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/920861.html
+S. Robert,G. Muller,1,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/920750.html
+Y. Wickmayer,P. Kvitova,1,2,WTA,Indoor,http://tennis.wettpoint.com/en/games/920912.html
+I. Ljubicic,M. Baghdatis,2,1,ATP,Indoor,http://tennis.wettpoint.com/en/games/920626.html
+D. Hantuchova,A. Amanmuradova,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/920859.html
+L. Rochette,R. Bautista-Agut,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/920822.html
+O. Patience,V. Millot,2,1,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/920823.html
+A. Petkovic,B. Mattek-Sands,1,2,WTA,Indoor,http://tennis.wettpoint.com/en/games/920913.html
+D. Kindlmann,A. Kudryavtsev,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/920749.html
+O. Rochus,J. Zopp,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/920751.html
+D. Guez,M. Gicquel,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/920824.html
+K. De Schepper,M. Rodrigues,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/920821.html
+A. Seppi,U. Ignatik,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/920748.html
+K. Clijsters,J. Dokic,2,0,WTA,Indoor,http://tennis.wettpoint.com/en/games/920910.html
+R. Söderling,M. Youzhny,2,0,ATP,Indoor,http://tennis.wettpoint.com/en/games/920623.html
+K. Kanepi,D. Cibulkova,2,1,WTA,Indoor,http://tennis.wettpoint.com/en/games/920911.html
+V. Troicki,M. Cilic,2,0,ATP,Indoor,http://tennis.wettpoint.com/en/games/920624.html
+R. Berankis,M. Raonic,0,2,ATP,Indoor,http://tennis.wettpoint.com/en/games/920662.html
+N. Almagro,J. Chela,2,1,ATP,Clay,http://tennis.wettpoint.com/en/games/920992.html
+A. Dolgopolov,R. Mello,2,0,ATP,Clay,http://tennis.wettpoint.com/en/games/920993.html
+T. Smyczek,G. Monfils,0,2,ATP,Indoor,http://tennis.wettpoint.com/en/games/920663.html
+D. Udomchoke,G. Zemlja,1,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/920790.html
+J. Del Potro,L. Hewitt,2,0,ATP,Indoor,http://tennis.wettpoint.com/en/games/920661.html
+B. Tomic,M. Ebden,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/920791.html

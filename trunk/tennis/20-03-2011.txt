@@ -1,0 +1,9 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+B. Reynolds,F. Wolmarans,1,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/937474.html
+C. Wozniacki,M. Bartoli,2,1,WTA,Hard,http://tennis.wettpoint.com/en/games/935390.html
+R. Nadal,N. Djokovic,1,2,ATP,Hard,http://tennis.wettpoint.com/en/games/935691.html
+G. Lapentti,I. Kunitsyn,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/937366.html
+S. Rieschick,D. Goffin,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/940489.html
+S. Bubka,L. Lacko,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/940495.html
+Y. Chang,S. Darcis,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/940491.html
+Z. Zhang,H. Heliovaara,0,1,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/940485.html

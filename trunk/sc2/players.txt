@@ -1,0 +1,517 @@
+pid,Name,Race,Team,rating,ELO Peak,href
+HuK,Chris Loranger,P,Liquid`,2380 pts,2380 pts,/tlpd/sc2-international/players/1598_HuK
+MC,Jang Min Chul,P,oGs,2371 pts,2407 pts,/tlpd/sc2-international/players/640_MC
+NaNiwa,Johan Lucchesi,P,Dignitas,2332 pts,2394 pts,/tlpd/sc2-international/players/1614_NaNiwa
+MMA,Moon Sung Won,T,SlayerS,2325 pts,2325 pts,/tlpd/sc2-international/players/665_MMA
+MarineKing,Lee Jung Hoon,T,Prime,2300 pts,2303 pts,/tlpd/sc2-international/players/959_MarineKing
+Moon,Jang Jae Ho,Z,FOX,2297 pts,2318 pts,/tlpd/sc2-international/players/2084_Moon
+Sen,Yang Chia Cheng,Z,FnaticMSI,2287 pts,2332 pts,/tlpd/sc2-international/players/1176_Sen
+Stephano,Ilyes Satouri,Z,Mill.,2283 pts,2311 pts,/tlpd/sc2-international/players/1996_Stephano
+Nerchio,Artur Bloch,Z,Empire,2275 pts,2394 pts,/tlpd/sc2-international/players/1771_Nerchio
+Ace,Jung Woo Seo,P,ST,2274 pts,2346 pts,/tlpd/sc2-international/players/100_Ace
+Bomber,Choi Ji Sung,T,ST,2274 pts,2274 pts,/tlpd/sc2-international/players/561_Bomber
+ThorZaIN,Marcus Eklöf,T,mouz.,2270 pts,2293 pts,/tlpd/sc2-international/players/1795_ThorZaIN
+MorroW,Stefan Andersson,Z,mouz.,2265 pts,2312 pts,/tlpd/sc2-international/players/1212_MorroW
+BRAT_OK,Pavel Kuznetsov,T,RoX.,2262 pts,2311 pts,/tlpd/sc2-international/players/1166_BRAT_OK
+Zenio,Choi Jung Min,Z,oGs,2261 pts,2261 pts,/tlpd/sc2-international/players/1903_Zenio
+IdrA,Greg Fields,Z,EG.,2251 pts,2353 pts,/tlpd/sc2-international/players/600_IdrA
+TheStC,Choi Yun Sik,T,oGs,2245 pts,2284 pts,/tlpd/sc2-international/players/70_TheStC
+oGsJ,Jo Chang Ho,Z,oGs,2240 pts,2240 pts,/tlpd/sc2-international/players/2328_oGsJ
+Tarson,Tomasz Boroń,T,Mill.,2239 pts,2258 pts,/tlpd/sc2-international/players/1137_Tarson
+SuperNoVa,Kim Young Jin,T,oGs,2237 pts,2262 pts,/tlpd/sc2-international/players/26_SuperNoVa
+Kas,Mihaylo Hayda,T,Empire,2236 pts,2374 pts,/tlpd/sc2-international/players/1693_Kas
+Strelok,Eugin Oparyshev,T,imba.FXO,2236 pts,2365 pts,/tlpd/sc2-international/players/1152_Strelok
+Ret,Jos de Kroon,Z,Liquid`,2234 pts,2287 pts,/tlpd/sc2-international/players/980_Ret
+TOP,Kim Jung Hoon,T,oGs,2232 pts,2243 pts,/tlpd/sc2-international/players/1870_TOP
+Happy,Dmitry Kostin,T,Empire,2231 pts,2306 pts,/tlpd/sc2-international/players/2889_Happy
+oGsHero,Song Hyun Deok,P,oGs,2229 pts,2262 pts,/tlpd/sc2-international/players/222_oGsHero
+Squirtle,Park Hyun Woo,P,ST,2225 pts,2246 pts,/tlpd/sc2-international/players/969_Squirtle
+HwangSin,Hwang Seung Hyuk,P,GoSu,2224 pts,2226 pts,/tlpd/sc2-international/players/2335_HwangSin
+July,Park Sung Joon,Z,ST,2224 pts,2269 pts,/tlpd/sc2-international/players/117_July
+dignitas.KiLLeR,Pipe Zuñiga,Z,Dignitas,2221 pts,2256 pts,/tlpd/sc2-international/players/2215_dignitas.KiLLeR
+LosirA,Hwang Kang Ho,Z,IM,2219 pts,2234 pts,/tlpd/sc2-international/players/688_LosirA
+DIMAGA,Dmytro Filipchuk,Z,mTw.MF,2214 pts,-,/tlpd/sc2-international/players/1181_DIMAGA
+Beastyqt,Aleksandar Krstic,T,Empire,2208 pts,2252 pts,/tlpd/sc2-international/players/2131_Beastyqt
+Rossi,David Rossi,T,TA,2201 pts,2201 pts,/tlpd/sc2-international/players/2871_Rossi
+DieStar,Marcin Wieczoerk,T,Mill.,2198 pts,2218 pts,/tlpd/sc2-international/players/1566_DieStar
+Sheth,Shawn Simon,Z,FXO,2198 pts,2330 pts,/tlpd/sc2-international/players/1301_Sheth
+mOOnGLaDe,Andrew Pender,Z,FXO,2198 pts,2284 pts,/tlpd/sc2-international/players/1602_mOOnGLaDe
+MVP,Jeong Jong Hyeon,T,IM,2193 pts,2220 pts,/tlpd/sc2-international/players/590_MVP
+White-Ra,Oleksiy Krupnyk,P,Thermaltak,2192 pts,2305 pts,/tlpd/sc2-international/players/1148_White-Ra
+Socke,Giacomo Thüs,P,aTn.,2192 pts,2325 pts,/tlpd/sc2-international/players/1460_Socke
+HasuObs,Dennis Schneider,P,mouz.,2192 pts,2313 pts,/tlpd/sc2-international/players/1587_HasuObs
+Fenix,Jian Carlo Joan Morayra Alejo,T,FnaticMSI,2190 pts,2274 pts,/tlpd/sc2-international/players/1169_Fenix
+KiWiKaKi,Jonathan Garneau,P,Reign,2190 pts,2320 pts,/tlpd/sc2-international/players/1784_KiWiKaKi
+elfi,Samuli Sihvonen,P,Virus.,2189 pts,2316 pts,/tlpd/sc2-international/players/1836_elfi
+qxc,Kevin Riley,T,FXO,2184 pts,2308 pts,/tlpd/sc2-international/players/1596_qxc
+Slider,Dominik Rogacki,P,(Unknown/Retired),2181 pts,2201 pts,/tlpd/sc2-international/players/1138_Slider
+Genius,Jung Min Soo,P,MVP,2181 pts,2241 pts,/tlpd/sc2-international/players/1894_Genius
+NaDa,Lee Yoon Yeol,T,oGs,2181 pts,2195 pts,/tlpd/sc2-international/players/147_NaDa
+DeathAngel,Andrei Nodea,Z,Ai,2181 pts,2223 pts,/tlpd/sc2-international/players/1818_DeathAngel
+sC,Kim Seung Chul,T,fOu,2178 pts,2204 pts,/tlpd/sc2-international/players/2095_sC
+Hack,Kim Young Il,T,ZeNEX,2177 pts,2193 pts,/tlpd/sc2-international/players/2096_Hack
+LoWeLy,Anton Plebanovich,Z,imba.FXO,2176 pts,2238 pts,/tlpd/sc2-international/players/1225_LoWeLy
+Minigun,Chad Jones,P,coL.,2176 pts,2204 pts,/tlpd/sc2-international/players/2276_Minigun
+SeleCT,Ryoo Kyung Hyun,T,Dignitas,2173 pts,2305 pts,/tlpd/sc2-international/players/1825_SeleCT
+meRz,Tim Olsson,T,Dignitas,2170 pts,2182 pts,/tlpd/sc2-international/players/1275_meRz
+biGs,Han Sang Choi,Z,aAa,2167 pts,2238 pts,/tlpd/sc2-international/players/2485_biGs
+BoxeR,Lim Yo Hwan,T,SlayerS,2159 pts,2159 pts,/tlpd/sc2-international/players/225_BoxeR
+SLush,Paul-David Pagé,Z,Reign,2158 pts,2182 pts,/tlpd/sc2-international/players/1595_SLush
+xiaOt,Sun Li Wei,P,Nv,2158 pts,2225 pts,/tlpd/sc2-international/players/1618_xiaOt
+NGry,Timothy Ng,T,vVv,2156 pts,2179 pts,/tlpd/sc2-international/players/2441_NGry
+Spades,Brian Francis,T,Reign,2156 pts,2181 pts,/tlpd/sc2-international/players/1999_Spades
+SaSe,Kim Hammar,P,MYM,2154 pts,2260 pts,/tlpd/sc2-international/players/2169_SaSe
+GoOdy,Sascha Lupp,T,ESC.,2151 pts,2305 pts,/tlpd/sc2-international/players/1221_GoOdy
+KawaiiRice,Lok-Yin Kwong,T,FnaticMSI,2148 pts,2223 pts,/tlpd/sc2-international/players/1253_KawaiiRice
+DarKFoRcE,Jonathan Belke,Z,aTn.,2148 pts,2194 pts,/tlpd/sc2-international/players/1698_DarKFoRcE
+Adelscott,Benoît Strypsteen,P,Mill.,2147 pts,2230 pts,/tlpd/sc2-international/players/1667_Adelscott
+eNvious,Jere Huumo,T,myR,2146 pts,2216 pts,/tlpd/sc2-international/players/2006_eNvious
+LaLuSh,Faton Rekathati,Z,Mill.,2144 pts,2218 pts,/tlpd/sc2-international/players/1609_LaLuSh
+Tefel,Łukasz Czarnecki,Z,SFTO,2144 pts,2198 pts,/tlpd/sc2-international/players/1676_Tefel
+MaNa,Grzesiek Komincz,P,mouz.,2142 pts,2268 pts,/tlpd/sc2-international/players/1214_MaNa
+Attero,Andrew Golec,P,DREAM,2142 pts,2266 pts,/tlpd/sc2-international/players/1601_Attero
+Ostojiy,Christopher Ostojic,Z,GoSu,2142 pts,2142 pts,/tlpd/sc2-international/players/2784_Ostojiy
+Joe,Johannes Sabroe Witt,P,SK,2141 pts,2216 pts,/tlpd/sc2-international/players/1752_Joe
+Fayth,Josué Sauvageau,P,Reign,2140 pts,2163 pts,/tlpd/sc2-international/players/1372_Fayth
+ToD,Yoan Merlo,P,(Unknown/Retired),2139 pts,2168 pts,/tlpd/sc2-international/players/2171_ToD
+GuMiho,Koh Byung Jae,T,fOu,2138 pts,-,/tlpd/sc2-international/players/2106_GuMiho
+VortiX,Juan Moreno Durán,Z,(Unknown/Retired),2137 pts,2154 pts,/tlpd/sc2-international/players/2634_VortiX
+NightEnD,Silviu Lazar,P,FnaticMSI,2136 pts,2203 pts,/tlpd/sc2-international/players/1588_NightEnD
+iNSoLeNCE,Alexander Hein,P,srs.,2136 pts,2247 pts,/tlpd/sc2-international/players/1753_iNSoLeNCE
+Bubbles,Christopher Guzman,P,GoSu,2135 pts,2249 pts,/tlpd/sc2-international/players/2430_Bubbles
+Super,Zhang Ming Lu,P,(Unknown/Retired),2134 pts,2208 pts,/tlpd/sc2-international/players/1249_Super
+LucifroN,Pedro Moreno Durán,T,(Unknown/Retired),2134 pts,2227 pts,/tlpd/sc2-international/players/1603_LucifroN
+CatZ,Paulo Vizcarra,Z,coL.,2134 pts,2134 pts,/tlpd/sc2-international/players/1636_CatZ
+Seiplo,John Seipel,P,Ai,2133 pts,2174 pts,/tlpd/sc2-international/players/1810_Seiplo
+AureS,Aurélien Sannier,T,wCrea,2133 pts,2152 pts,/tlpd/sc2-international/players/1737_AureS
+MeYera,Mathias Meyer,Z,nevo,2132 pts,2132 pts,/tlpd/sc2-international/players/2007_MeYera
+MarinekngXPn,Sung Bae Mun,T,BLAST,2132 pts,2135 pts,/tlpd/sc2-international/players/2585_MarinekngXPn
+RedArchon,Thanapol Kuachat,T,inFi,2131 pts,2155 pts,/tlpd/sc2-international/players/2011_RedArchon
+Rikytan,Jan Kusák,T,ESC.,2130 pts,2139 pts,/tlpd/sc2-international/players/1904_Rikytan
+NamhciR,Richard Chembars,T,GoSu,2130 pts,2233 pts,/tlpd/sc2-international/players/2653_NamhciR
+legosu,Simon Bienvenue,P,DREAM,2129 pts,-,/tlpd/sc2-international/players/2288_legosu
+DeMusliM,Benjamin Baker,T,EG.,2128 pts,2257 pts,/tlpd/sc2-international/players/1589_DeMusliM
+sixjaxMajOr,Juan Carlos Tena Lopez,T,sixjax.,2128 pts,2279 pts,/tlpd/sc2-international/players/1173_sixjaxMajOr
+JazBas,Thomas Cho,Z,nGen,2127 pts,2139 pts,/tlpd/sc2-international/players/2876_JazBas
+rsvp,Julian Xu,P,coL.,2127 pts,2192 pts,/tlpd/sc2-international/players/2702_rsvp
+dde,Lee Dong Yeon,T,sixjax.,2127 pts,2274 pts,/tlpd/sc2-international/players/2071_dde
+Kalin,Kalin Romanov,P,Unique,2126 pts,2225 pts,/tlpd/sc2-international/players/2043_Kalin
+Ciara,René Krag,Z,(Unknown/Retired),2126 pts,2132 pts,/tlpd/sc2-international/players/1750_Ciara
+Bischu,Jesper Johansson,P,Dignitas,2126 pts,2208 pts,/tlpd/sc2-international/players/1672_Bischu
+Mihai,Mihai Avrigeanu,T,sixjax.,2124 pts,2211 pts,/tlpd/sc2-international/players/2072_Mihai
+EdgE,Cameron Murrin,Z,TA,2124 pts,2185 pts,/tlpd/sc2-international/players/2544_EdgE
+YeN,Kevin Yen,T,inFlow,2123 pts,2136 pts,/tlpd/sc2-international/players/2259_YeN
+ReSpOnSe,Jonathan Layman,P,NrS,2121 pts,2143 pts,/tlpd/sc2-international/players/1723_ReSpOnSe
+ZeeRaX,Georgi Marinov,P,(Unknown/Retired),2121 pts,2189 pts,/tlpd/sc2-international/players/1615_ZeeRaX
+Axslav,Nick Ranish,P,EG.,2121 pts,2180 pts,/tlpd/sc2-international/players/1626_Axslav
+Junwi,Park Gyung Lak,Z,IM,2120 pts,-,/tlpd/sc2-international/players/168_Junwi
+Pomi,Sergey Rodionov,P,RoX.,2120 pts,2166 pts,/tlpd/sc2-international/players/1210_Pomi
+IceCream,Cho Jae Won,T,ZeNEX,2119 pts,-,/tlpd/sc2-international/players/2327_IceCream
+MurDeR,Ben Cardwell,T,vVv,2119 pts,2193 pts,/tlpd/sc2-international/players/1834_MurDeR
+Hotmail,Junfeng Li,P,(Unknown/Retired),2118 pts,2118 pts,/tlpd/sc2-international/players/2766_Hotmail
+Grubby,Manuel Schenkhuizen,P,(Unknown/Retired),2117 pts,2169 pts,/tlpd/sc2-international/players/2159_Grubby
+bLuR,Jordan Cue,T,ONE,2117 pts,2212 pts,/tlpd/sc2-international/players/2137_bLuR
+iceiceice,Daryl Koh Pei Xiang,Z,(Unknown/Retired),2117 pts,2117 pts,/tlpd/sc2-international/players/1637_iceiceice
+Pit,Stephan Biesel,T,(Unknown/Retired),2116 pts,2130 pts,/tlpd/sc2-international/players/2599_Pit
+LoZ,Emilio Maffi,T,(Unknown/Retired),2116 pts,2143 pts,/tlpd/sc2-international/players/2020_LoZ
+SungpA,Seong Min Choi,T,tQ.,2115 pts,2166 pts,/tlpd/sc2-international/players/2524_SungpA
+Refallen,Tan Guan Hao,P,nGen,2115 pts,2115 pts,/tlpd/sc2-international/players/2923_Refallen
+DemonSheep,Wang Chun,R,Spider,2113 pts,2113 pts,/tlpd/sc2-international/players/2540_DemonSheep
+RaNgeD,Austin King,P,NrS,2113 pts,2132 pts,/tlpd/sc2-international/players/2502_RaNgeD
+Pokebunny,Nick Taber,T,GoSu,2112 pts,2130 pts,/tlpd/sc2-international/players/2115_Pokebunny
+xigua,Lei Wang,Z,Nv,2112 pts,-,/tlpd/sc2-international/players/2918_xigua
+owmygroin,Raymond Tan,Z,iS,2112 pts,2168 pts,/tlpd/sc2-international/players/2518_owmygroin
+roof,,Z,(Unknown/Retired),2112 pts,-,/tlpd/sc2-international/players/3263_roof
+Levin,Carlos Leonardo Cruz,P,CNB,2111 pts,2152 pts,/tlpd/sc2-international/players/2639_Levin
+Everize,Hubert Kabak,T,(Unknown/Retired),2110 pts,2110 pts,/tlpd/sc2-international/players/2284_Everize
+sYz,Diogo Barbosa,Z,SFTO,2110 pts,2202 pts,/tlpd/sc2-international/players/2008_sYz
+TheBest,Kim Chan Min,T,fOu,2110 pts,-,/tlpd/sc2-international/players/2097_TheBest
+deth,Daniel Haynes,T,TA,2107 pts,2117 pts,/tlpd/sc2-international/players/2574_deth
+CrunCher,Abdulaziz Abed,P,coL.,2105 pts,2282 pts,/tlpd/sc2-international/players/2254_CrunCher
+asd,Mac Fountain,T,(Unknown/Retired),2104 pts,2137 pts,/tlpd/sc2-international/players/2700_asd
+Ensnare,Kim Sang Cheol,T,oGs,2103 pts,2147 pts,/tlpd/sc2-international/players/1900_Ensnare
+Naama,Santeri Lahtinen,T,Virus.,2102 pts,2272 pts,/tlpd/sc2-international/players/1720_Naama
+TargA,Kristoffer Marthinsen,Z,inFi,2101 pts,2127 pts,/tlpd/sc2-international/players/2940_TargA
+Skew,Alex Brola,T,sixjax.,2099 pts,-,/tlpd/sc2-international/players/1121_Skew
+ClouD,Carlo Giannacco,T,MYM,2099 pts,2315 pts,/tlpd/sc2-international/players/1610_ClouD
+PredY,Tomáš Pospíšil,T,eSuba.,2098 pts,2187 pts,/tlpd/sc2-international/players/1425_PredY
+Mondragon,Christoph Semke,Z,MYM,2096 pts,2124 pts,/tlpd/sc2-international/players/1156_Mondragon
+Satiini,Juha-Matti Bäckström,T,Virus.,2096 pts,2214 pts,/tlpd/sc2-international/players/1774_Satiini
+Jimpo,Jimmy Wölfinger,T,SK,2096 pts,2170 pts,/tlpd/sc2-international/players/1682_Jimpo
+Osho,Dror Evron,Z,Ai,2095 pts,2129 pts,/tlpd/sc2-international/players/2180_Osho
+ViBE,Dan Scherlong,Z,sixjax.,2094 pts,2207 pts,/tlpd/sc2-international/players/1934_ViBE
+Clonze,Travis Miller,T,DREAM,2093 pts,2178 pts,/tlpd/sc2-international/players/2429_Clonze
+Filthy,Phil Edwards,T,(Unknown/Retired),2093 pts,2093 pts,/tlpd/sc2-international/players/1739_Filthy
+TT1,Payam Toghyan,P,FnaticMSI,2093 pts,2203 pts,/tlpd/sc2-international/players/1233_TT1
+xSixShadow,Erik Kim,P,x6.,2093 pts,2181 pts,/tlpd/sc2-international/players/2728_xSixShadow
+Jinro,Jonathan Walsh,T,Liquid`,2092 pts,2191 pts,/tlpd/sc2-international/players/1314_Jinro
+IefNaij,Jianfei Wang,P,FnaticMSI,2091 pts,2130 pts,/tlpd/sc2-international/players/1165_IefNaij
+San,Kang Cho Won,P,NsHS,2091 pts,-,/tlpd/sc2-international/players/1853_San
+monchi,Phillip Simon,P,SFTO,2091 pts,2102 pts,/tlpd/sc2-international/players/2796_monchi
+Flashback,Max Kap,P,vile,2090 pts,2104 pts,/tlpd/sc2-international/players/2436_Flashback
+SeiN,Tuomas Lahtinen,P,Virus.,2090 pts,2123 pts,/tlpd/sc2-international/players/1866_SeiN
+giX,Andrew Benson,Z,VT,2089 pts,2121 pts,/tlpd/sc2-international/players/2249_giX
+SjoW,Jeffrey Brusi,T,Dignitas,2088 pts,2312 pts,/tlpd/sc2-international/players/1777_SjoW
+ServaNt,Thomas Lankreijer,T,srs.,2088 pts,2116 pts,/tlpd/sc2-international/players/2041_ServaNt
+MasterAsia,Ruodu Wang,Z,MnM,2088 pts,2112 pts,/tlpd/sc2-international/players/2116_MasterAsia
+YoonYJ,Yoon Yo Jun,T,aLt,2086 pts,2091 pts,/tlpd/sc2-international/players/2572_YoonYJ
+Unix,Alexandr Solyakov,T,iP.,2086 pts,2110 pts,/tlpd/sc2-international/players/2133_Unix
+OpTiKzErO,Karl Angeles,P,FXO,2086 pts,2216 pts,/tlpd/sc2-international/players/2114_OpTiKzErO
+iNkA,Kelby Williams,P,QxG,2085 pts,2163 pts,/tlpd/sc2-international/players/1269_iNkA
+Check,Lee Hyung Joo,Z,Prime,2084 pts,2126 pts,/tlpd/sc2-international/players/1860_Check
+Vines,Lee Sang Hun,P,oGs,2083 pts,-,/tlpd/sc2-international/players/2105_Vines
+Underdark,Alexandr Golik,P,Virus.,2082 pts,2147 pts,/tlpd/sc2-international/players/1905_Underdark
+Fah,Phufah Suttiprapa,T,(Unknown/Retired),2081 pts,2162 pts,/tlpd/sc2-international/players/2937_Fah
+DarkDreaMs,,Z,(Unknown/Retired),2081 pts,-,/tlpd/sc2-international/players/3039_DarkDreaMs
+MoMaN,Emmanuel Marquez,Z,CN,2080 pts,2196 pts,/tlpd/sc2-international/players/1656_MoMaN
+HowAreYou,Liang Yongshan,P,TtApollo,2080 pts,2129 pts,/tlpd/sc2-international/players/2972_HowAreYou
+Nifi,,P,TYJets,2080 pts,2080 pts,/tlpd/sc2-international/players/2970_Nifi
+Drewbie,Andrew Moysey,T,coL.,2079 pts,2289 pts,/tlpd/sc2-international/players/1625_Drewbie
+BlinG,Samayan Kay,P,Dignitas,2079 pts,2177 pts,/tlpd/sc2-international/players/2837_BlinG
+F91,Sun Yi Feng,Z,DB.,2078 pts,2085 pts,/tlpd/sc2-international/players/1215_F91
+Gatored,Ben Brewer,P,GoSu,2077 pts,2107 pts,/tlpd/sc2-international/players/2517_Gatored
+CocoA,Aaron Deir,T,sixjax.,2077 pts,2109 pts,/tlpd/sc2-international/players/1185_CocoA
+Kowi,Hamish Parker,P,(Unknown/Retired),2076 pts,-,/tlpd/sc2-international/players/2575_Kowi
+MacSed,Xiang Hu,P,Nv,2075 pts,2137 pts,/tlpd/sc2-international/players/2539_MacSed
+Morph,Marvin Gebhart,Z,(Unknown/Retired),2075 pts,2104 pts,/tlpd/sc2-international/players/2529_Morph
+Leenock,Lee Dong Nyung,Z,fOu,2074 pts,-,/tlpd/sc2-international/players/1971_Leenock
+Polt,Choi Sung Hoon,T,Prime,2074 pts,-,/tlpd/sc2-international/players/1856_Polt
+Lotze,Jun Yung Soo,P,Prime,2073 pts,-,/tlpd/sc2-international/players/203_Lotze
+HasHe,Yuri Demenchukov,T,vile,2073 pts,2104 pts,/tlpd/sc2-international/players/2052_HasHe
+Vadar,Muqiao Huang,P,MnM,2072 pts,-,/tlpd/sc2-international/players/2647_Vadar
+Anotherday,,Z,(Unknown/Retired),2071 pts,-,/tlpd/sc2-international/players/2460_Anotherday
+LaCuS,Andy Cullens,Z,(Unknown/Retired),2071 pts,2138 pts,/tlpd/sc2-international/players/2438_LaCuS
+Lastshadow,Nick De Cesare,T,GosuGamers,2071 pts,2160 pts,/tlpd/sc2-international/players/1822_Lastshadow
+RineTS,Christoph Müller,P,mTw.MF,2071 pts,2085 pts,/tlpd/sc2-international/players/1745_RineTS
+Aaron,Aaron Koh,P,aLt,2070 pts,2145 pts,/tlpd/sc2-international/players/2546_Aaron
+Junny,Daniel Jun,Z,(Unknown/Retired),2070 pts,2081 pts,/tlpd/sc2-international/players/2206_Junny
+SarenS,Pierre Guivarch,T,CN,2070 pts,2197 pts,/tlpd/sc2-international/players/1272_SarenS
+FZJ,Fu Zi Jia,T,XpecIM,2070 pts,-,/tlpd/sc2-international/players/2965_FZJ
+Stalife,Sung Min Park,T,coL.,2069 pts,2207 pts,/tlpd/sc2-international/players/1346_Stalife
+wzp,Omar Paredes,Z,(Unknown/Retired),2068 pts,2098 pts,/tlpd/sc2-international/players/2703_wzp
+TriMaster,Joshua Niven,T,coL.,2068 pts,2084 pts,/tlpd/sc2-international/players/2392_TriMaster
+Sirius,Choi Jin Sol,Z,fOu,2068 pts,-,/tlpd/sc2-international/players/1965_Sirius
+Luffy,Ye Hao,Z,(Unknown/Retired),2064 pts,2138 pts,/tlpd/sc2-international/players/2009_Luffy
+mOoNan,Peter Kim,T,FXO,2064 pts,2266 pts,/tlpd/sc2-international/players/2050_mOoNan
+UkraineStar,Igor Kobylyansky,Z,NTO,2064 pts,2109 pts,/tlpd/sc2-international/players/3001_UkraineStar
+Jaden,,P,(Unknown/Retired),2064 pts,-,/tlpd/sc2-international/players/1801_Jaden
+Farmer,Daniel Ciesla,P,SFTO,2064 pts,-,/tlpd/sc2-international/players/2263_Farmer
+Titan,Tristan Johnson,Z,vVv,2063 pts,2079 pts,/tlpd/sc2-international/players/2667_Titan
+Edge,Josh Yang,T,iS,2063 pts,-,/tlpd/sc2-international/players/3293_Edge
+TopClass,Jung Bang Min,T,fOu,2063 pts,-,/tlpd/sc2-international/players/2184_TopClass
+Cytoplasm,Jonas Larsson,Z,(Unknown/Retired),2062 pts,2106 pts,/tlpd/sc2-international/players/2374_Cytoplasm
+State,Ryan Visbeck,P,vile,2062 pts,-,/tlpd/sc2-international/players/2273_State
+iaguz,Ethan Zugai,T,aLt,2061 pts,2153 pts,/tlpd/sc2-international/players/2941_iaguz
+iDrone,Kevin Foster,Z,(Unknown/Retired),2061 pts,-,/tlpd/sc2-international/players/3154_iDrone
+AlexCMoi,Alexandre Michaud,T,DREAM,2059 pts,2153 pts,/tlpd/sc2-international/players/1998_AlexCMoi
+Arcanne,Eric Ma,P,x6.,2059 pts,2078 pts,/tlpd/sc2-international/players/1929_Arcanne
+sLivko,Artem Garavtsov,Z,iP.,2059 pts,2080 pts,/tlpd/sc2-international/players/2579_sLivko
+SoftBall,Zhan Zhenyu,T,TtApollo,2058 pts,2083 pts,/tlpd/sc2-international/players/2010_SoftBall
+Snute,Jens Waller,Z,(Unknown/Retired),2057 pts,2069 pts,/tlpd/sc2-international/players/2834_Snute
+LoveTT,Yin Liu,P,(Unknown/Retired),2056 pts,-,/tlpd/sc2-international/players/1204_LoveTT
+LiveZerg,Andrey Guldiashov,Z,RoX.,2054 pts,2054 pts,/tlpd/sc2-international/players/1806_LiveZerg
+Delphi,Lukas Hilgers,Z,aTn.,2054 pts,2163 pts,/tlpd/sc2-international/players/1577_Delphi
+wbc,Won Tae Lee,P,GoSu,2054 pts,2083 pts,/tlpd/sc2-international/players/2956_wbc
+Warden,Sung Woo Choi,T,4k,2053 pts,-,/tlpd/sc2-international/players/2828_Warden
+BBoongBBoong,Choi Jong Hyuk,Z,Prime,2053 pts,2138 pts,/tlpd/sc2-international/players/2308_BBoongBBoong
+RapDawg,Dmitry Buyankin,Z,(Unknown/Retired),2053 pts,-,/tlpd/sc2-international/players/3178_RapDawg
+Knutzi,Kristian Knudsen,P,(Unknown/Retired),2052 pts,2060 pts,/tlpd/sc2-international/players/1912_Knutzi
+Deezer,Manuel Germain,P,(Unknown/Retired),2052 pts,2099 pts,/tlpd/sc2-international/players/3177_Deezer
+Inkarnate,Ryan Ormsby,T,(Unknown/Retired),2052 pts,-,/tlpd/sc2-international/players/2817_Inkarnate
+Suppy,Conan Liu,Z,VP,2051 pts,-,/tlpd/sc2-international/players/2593_Suppy
+Abver,Alexei Drunin,Z,Virus.,2051 pts,2137 pts,/tlpd/sc2-international/players/1707_Abver
+Tyler,Tyler Wasieleski,P,Liquid`,2050 pts,2154 pts,/tlpd/sc2-international/players/678_Tyler
+HayprO,Hayder Hussein,Z,Liquid`,2050 pts,2174 pts,/tlpd/sc2-international/players/1132_HayprO
+Skinky,,Z,(Unknown/Retired),2049 pts,2110 pts,/tlpd/sc2-international/players/2988_Skinky
+Maka,Kwak Han Eul,T,Prime,2049 pts,2128 pts,/tlpd/sc2-international/players/1842_Maka
+HappyZerG,Svyatoslav Vlasyuk,Z,NaVi,2048 pts,2097 pts,/tlpd/sc2-international/players/1581_HappyZerG
+Muse,Ian Ang,T,inFi,2047 pts,2082 pts,/tlpd/sc2-international/players/2858_Muse
+Azz,Aaron Kilpatrick,P,VT,2047 pts,2140 pts,/tlpd/sc2-international/players/2349_Azz
+h4u.SKy,Sascha Klenk,P,(Unknown/Retired),2047 pts,-,/tlpd/sc2-international/players/1741_h4u.SKy
+StrifeCro,Cong Shu,Z,EG.,2047 pts,2103 pts,/tlpd/sc2-international/players/2075_StrifeCro
+Hawk,Devan Subramaniam,Z,vile,2046 pts,-,/tlpd/sc2-international/players/3094_Hawk
+ActionJesuz,Lars Krøjmand,Z,(Unknown/Retired),2046 pts,2085 pts,/tlpd/sc2-international/players/2120_ActionJesuz
+Taurent,Maxime Bolduc,P,iS,2044 pts,2091 pts,/tlpd/sc2-international/players/1932_Taurent
+Mystik,Kenny Vu,Z,x6.,2043 pts,-,/tlpd/sc2-international/players/3247_Mystik
+EVOMind,,T,(Unknown/Retired),2043 pts,-,/tlpd/sc2-international/players/3127_EVOMind
+Miou,Daniel Holthuis,T,Faculty,2043 pts,2068 pts,/tlpd/sc2-international/players/1690_Miou
+CommItment,Hui Shen,Z,Nv,2043 pts,2082 pts,/tlpd/sc2-international/players/2758_CommItment
+MaFia,Tim He,Z,nGen,2042 pts,2059 pts,/tlpd/sc2-international/players/3341_MaFia
+Malice,Greg Risselada,Z,NrG.,2042 pts,-,/tlpd/sc2-international/players/3184_Malice
+XlorD,Daniel Spenst,Z,MYM,2041 pts,2056 pts,/tlpd/sc2-international/players/1605_XlorD
+Rekatan,Joshua Marston,Z,(Unknown/Retired),2041 pts,-,/tlpd/sc2-international/players/3144_Rekatan
+LuckyFool,Rob Griesemer,T,NrG.,2040 pts,2122 pts,/tlpd/sc2-international/players/2258_LuckyFool
+kAra,Thomas Ciolak,P,ESC.,2039 pts,2039 pts,/tlpd/sc2-international/players/1684_kAra
+RelaX,Dmitri Dudakov,P,fOsc.,2039 pts,-,/tlpd/sc2-international/players/2377_RelaX
+TLO,Dario Wünsch,T,Liquid`,2038 pts,2256 pts,/tlpd/sc2-international/players/1593_TLO
+Slayer,Omar Lopez De Castilla,R,tQ.,2038 pts,-,/tlpd/sc2-international/players/2359_Slayer
+Yekke,,Z,(Unknown/Retired),2037 pts,-,/tlpd/sc2-international/players/3191_Yekke
+Garnath,Michael Kostyukhin,T,NTO,2037 pts,-,/tlpd/sc2-international/players/3028_Garnath
+Aristeo,Anton Vasilyev,Z,Empire,2036 pts,2082 pts,/tlpd/sc2-international/players/1571_Aristeo
+vOddy,Ludvig Barreto,Z,(Unknown/Retired),2036 pts,-,/tlpd/sc2-international/players/2234_vOddy
+Loner,Dai Yi,T,Prime,2035 pts,2262 pts,/tlpd/sc2-international/players/1617_Loner
+cArn,Hanaf Souaïb,T,(Unknown/Retired),2035 pts,-,/tlpd/sc2-international/players/3260_cArn
+JuNe,Simon Hoffmann,T,SFTO,2034 pts,-,/tlpd/sc2-international/players/2664_JuNe
+Lin,,P,TYJets,2034 pts,-,/tlpd/sc2-international/players/2969_Lin
+Agh,Josh Bland,P,QxG,2034 pts,2098 pts,/tlpd/sc2-international/players/1820_Agh
+PhiliBiRD,Phil Baird,T,QxG,2034 pts,-,/tlpd/sc2-international/players/2471_PhiliBiRD
+mkengyn,Brian Nguyen,Z,x6.,2033 pts,2125 pts,/tlpd/sc2-international/players/2252_mkengyn
+DdoRo,Moon Jung Ho,P,vile,2033 pts,2155 pts,/tlpd/sc2-international/players/2224_DdoRo
+DBS,Thorsten Seifert,T,ieS.,2033 pts,2064 pts,/tlpd/sc2-international/players/2793_DBS
+Lots,Yoon Sung Hoon,T,SlayerS,2032 pts,-,/tlpd/sc2-international/players/2099_Lots
+imakki,Ville Hassinen,T,(Unknown/Retired),2032 pts,-,/tlpd/sc2-international/players/2291_imakki
+Sadist,Andrew Nolan,T,tQ.,2031 pts,-,/tlpd/sc2-international/players/3360_Sadist
+Zerker,Marc Schulmeister,Z,GoSu,2031 pts,2053 pts,/tlpd/sc2-international/players/2049_Zerker
+anypro,Lee Jung Hwan,P,Prime,2031 pts,-,/tlpd/sc2-international/players/1848_anypro
+Roz,Freddy Chi,P,inFi,2031 pts,2077 pts,/tlpd/sc2-international/players/2957_Roz
+ESCZeRo,Tobias Otte,T,ESC.,2030 pts,2033 pts,/tlpd/sc2-international/players/2298_ESCZeRo
+Rigid,Coy Brown,Z,vVv,2030 pts,2085 pts,/tlpd/sc2-international/players/1632_Rigid
+Power,Wu Feng Da,T,XpecIM,2030 pts,-,/tlpd/sc2-international/players/2966_Power
+NEOindy,Chanin Tingruttanasuwan,P,inFi,2030 pts,2053 pts,/tlpd/sc2-international/players/2936_NEOindy
+[aLt]nirvAnA,Bryan Choo,P,aLt,2029 pts,-,/tlpd/sc2-international/players/1496_[aLt]nirvAnA
+Maltiso,,Z,(Unknown/Retired),2029 pts,-,/tlpd/sc2-international/players/3201_Maltiso
+FireZerg,Sam Prowse,Z,coL.,2029 pts,2046 pts,/tlpd/sc2-international/players/1933_FireZerg
+UniQ,Anton,Z,REG,2029 pts,-,/tlpd/sc2-international/players/2181_UniQ
+RainBOw,Kim Sung Je,T,ST,2029 pts,-,/tlpd/sc2-international/players/15_RainBOw
+Lost,Jason Brand,Z,4k,2028 pts,-,/tlpd/sc2-international/players/3091_Lost
+LzGaMeR,Jacob Winstead,T,EG.,2028 pts,2099 pts,/tlpd/sc2-international/players/1130_LzGaMeR
+BigBadBeaver,Sonny Jeng,P,(Unknown/Retired),2028 pts,2061 pts,/tlpd/sc2-international/players/2247_BigBadBeaver
+Anbu,,Z,(Unknown/Retired),2027 pts,-,/tlpd/sc2-international/players/3163_Anbu
+Zukapin,Zach Adams,P,(Unknown/Retired),2027 pts,-,/tlpd/sc2-international/players/3141_Zukapin
+inuh,Park Hun,T,SK,2026 pts,2053 pts,/tlpd/sc2-international/players/1695_inuh
+Croly,Lin-yi Zong,P,GAMANIA,2025 pts,2095 pts,/tlpd/sc2-international/players/2975_Croly
+Daut,Darko Dautovic,T,(Unknown/Retired),2025 pts,2036 pts,/tlpd/sc2-international/players/1942_Daut
+iNcontroL,Geoff Robinson,P,EG.,2024 pts,2115 pts,/tlpd/sc2-international/players/1139_iNcontroL
+LoCo,Michael Fuchs,T,(Unknown/Retired),2024 pts,2045 pts,/tlpd/sc2-international/players/2302_LoCo
+Gretorp,Andre Hengchua,T,(Unknown/Retired),2024 pts,2133 pts,/tlpd/sc2-international/players/1245_Gretorp
+Splendour,Lyubomir Kozlovski,P,SFTO,2023 pts,2042 pts,/tlpd/sc2-international/players/2045_Splendour
+Steve,Steve Na,P,NrG.,2023 pts,-,/tlpd/sc2-international/players/2501_Steve
+Revenant,Marcus Tan Sin Yik,Z,inFi,2022 pts,2102 pts,/tlpd/sc2-international/players/2853_Revenant
+DeViL,Ondřej Balušek,Z,eSuba.,2021 pts,2099 pts,/tlpd/sc2-international/players/1674_DeViL
+WuLvEraTe,Andreas Brunner,P,(Unknown/Retired),2021 pts,-,/tlpd/sc2-international/players/2025_WuLvEraTe
+Roll,Sergey Moroz,P,imba.FXO,2021 pts,2119 pts,/tlpd/sc2-international/players/2182_Roll
+Sterling,,T,(Unknown/Retired),2021 pts,-,/tlpd/sc2-international/players/3097_Sterling
+Destiny,Steven Bonnell II,Z,(Unknown/Retired),2019 pts,2096 pts,/tlpd/sc2-international/players/2765_Destiny
+FallY,Simon Kindle,Z,(Unknown/Retired),2019 pts,-,/tlpd/sc2-international/players/2516_FallY
+Amandil,Scott Bailey,Z,(Unknown/Retired),2018 pts,-,/tlpd/sc2-international/players/3006_Amandil
+KroLu,Michał Królewski,P,Empire,2018 pts,2107 pts,/tlpd/sc2-international/players/1722_KroLu
+FinalForm,,P,(Unknown/Retired),2018 pts,-,/tlpd/sc2-international/players/3105_FinalForm
+Kyhol,Kyle Hollett,T,GoSu,2017 pts,2102 pts,/tlpd/sc2-international/players/2214_Kyhol
+KenZy,Wafo-Tapa Bruno,Z,CN,2017 pts,2032 pts,/tlpd/sc2-international/players/1187_KenZy
+Time,Patrick Allen,P,vVv,2016 pts,2042 pts,/tlpd/sc2-international/players/1824_Time
+Future,Rich Almand,P,VT,2016 pts,2097 pts,/tlpd/sc2-international/players/1271_Future
+Perfect,Michael Thompson,P,VT,2016 pts,2122 pts,/tlpd/sc2-international/players/2236_Perfect
+FuRy,Sebastian Pesic,T,(Unknown/Retired),2016 pts,2179 pts,/tlpd/sc2-international/players/2217_FuRy
+Antimage,Victor Poon,P,coL.,2015 pts,2095 pts,/tlpd/sc2-international/players/1621_Antimage
+Bai,Cai Jun Bai,Z,XpecIM,2015 pts,-,/tlpd/sc2-international/players/2967_Bai
+BTS,Tyler Spesick,P,(Unknown/Retired),2014 pts,-,/tlpd/sc2-international/players/2511_BTS
+StarEagle,Maurizio Carioti,T,TRI,2013 pts,2158 pts,/tlpd/sc2-international/players/1829_StarEagle
+GoL,,P,(Unknown/Retired),2013 pts,2089 pts,/tlpd/sc2-international/players/1422_GoL
+Chi,,P,(Unknown/Retired),2013 pts,-,/tlpd/sc2-international/players/3050_Chi
+Ver,Bob Ekkebus,T,x6.,2013 pts,2084 pts,/tlpd/sc2-international/players/2568_Ver
+Capoch,Patricio del Olmo,P,KEYD,2013 pts,2093 pts,/tlpd/sc2-international/players/1751_Capoch
+Revtime,Zhang Lu,Z,(Unknown/Retired),2013 pts,2031 pts,/tlpd/sc2-international/players/2763_Revtime
+Jim,,P,Tyloo,2013 pts,-,/tlpd/sc2-international/players/3030_Jim
+Catechin,Kristoffer Wirch,Z,(Unknown/Retired),2012 pts,2048 pts,/tlpd/sc2-international/players/2500_Catechin
+Zelniq,Jason Choe,Z,(Unknown/Retired),2012 pts,2068 pts,/tlpd/sc2-international/players/1639_Zelniq
+StyGGeN,Erik Christensen,Z,Lions,2012 pts,-,/tlpd/sc2-international/players/1742_StyGGeN
+control,Yaroslav Popov,T,imba.FXO,2012 pts,2110 pts,/tlpd/sc2-international/players/2082_control
+Druzdil,Wojtek Pawłowicz,T,SFTO,2012 pts,2062 pts,/tlpd/sc2-international/players/2197_Druzdil
+ThisIsJimmy,Jimmy Van Sise,T,x6.,2012 pts,2168 pts,/tlpd/sc2-international/players/1649_ThisIsJimmy
+WanT,Jung Ji Hoon,P,(Unknown/Retired),2011 pts,-,/tlpd/sc2-international/players/2504_WanT
+nkulunkulu,Jurgis Bredikis,Z,(Unknown/Retired),2011 pts,-,/tlpd/sc2-international/players/2587_nkulunkulu
+lkjewq,AJ Schang,Z,(Unknown/Retired),2010 pts,-,/tlpd/sc2-international/players/2425_lkjewq
+Pokerface,,Z,(Unknown/Retired),2010 pts,-,/tlpd/sc2-international/players/3204_Pokerface
+Yayba,Jarek Pociecha,P,,2009 pts,-,/tlpd/sc2-international/players/1164_Yayba
+Fargo,Vaidas Radavicius,T,aAa,2009 pts,2130 pts,/tlpd/sc2-international/players/1743_Fargo
+FremAN,Antonin Nosenzo,P,CN,2008 pts,2059 pts,/tlpd/sc2-international/players/1794_FremAN
+Cobo,Soon Hua Tan,P,(Unknown/Retired),2007 pts,-,/tlpd/sc2-international/players/1183_Cobo
+Bosnic,,P,(Unknown/Retired),2007 pts,-,/tlpd/sc2-international/players/3123_Bosnic
+Lizzuma,Philip Johnston,T,(Unknown/Retired),2007 pts,-,/tlpd/sc2-international/players/2696_Lizzuma
+CodeG,,P,(Unknown/Retired),2006 pts,2028 pts,/tlpd/sc2-international/players/2543_CodeG
+Sadistx,Vasily Favoroff,T,(Unknown/Retired),2005 pts,2063 pts,/tlpd/sc2-international/players/2405_Sadistx
+Baz,John Bendis,T,QxG,2005 pts,2127 pts,/tlpd/sc2-international/players/2729_Baz
+Wild,Han Tae Hoon,T,nGen,2004 pts,-,/tlpd/sc2-international/players/2855_Wild
+Pasildan,Daniel Gutierrez,T,KEYD,2004 pts,-,/tlpd/sc2-international/players/2697_Pasildan
+InCa,Song Joon Hyuk,P,oGs,2004 pts,-,/tlpd/sc2-international/players/1855_InCa
+Avenger,Dmitry,T,imba.FXO,2003 pts,-,/tlpd/sc2-international/players/2285_Avenger
+LOUP,,T,(Unknown/Retired),2003 pts,-,/tlpd/sc2-international/players/2541_LOUP
+ChAnCe,Zac Palmer,Z,VP,2002 pts,2044 pts,/tlpd/sc2-international/players/2401_ChAnCe
+Bly,Aleksandr Svusuyk,Z,Virus.,2001 pts,2115 pts,/tlpd/sc2-international/players/2013_Bly
+RunA,Joacim Persson,P,(Unknown/Retired),2001 pts,2005 pts,/tlpd/sc2-international/players/1765_RunA
+jackhightech,,P,(Unknown/Retired),2001 pts,-,/tlpd/sc2-international/players/2798_jackhightech
+TITAN,,P,(Unknown/Retired),2000 pts,-,/tlpd/sc2-international/players/3156_TITAN
+Beethoven,,Z,(Unknown/Retired),2000 pts,-,/tlpd/sc2-international/players/2859_Beethoven
+Chelovek,Maxim Kostenko,T,NTO,2000 pts,-,/tlpd/sc2-international/players/2740_Chelovek
+Machine,Bryce Bates,Z,EG.,1998 pts,2184 pts,/tlpd/sc2-international/players/1131_Machine
+Fuzer,Samuli Romppanen,T,Menace,1998 pts,2050 pts,/tlpd/sc2-international/players/1702_Fuzer
+Mass,Kevin Skerpon,Z,DREAM,1998 pts,-,/tlpd/sc2-international/players/2421_Mass
+Laukyo,Laurent Chung,T,Virus.,1998 pts,2077 pts,/tlpd/sc2-international/players/2054_Laukyo
+Ryze,Brendon Walker,Z,coL.,1997 pts,2079 pts,/tlpd/sc2-international/players/2200_Ryze
+gamfvr,,T,(Unknown/Retired),1997 pts,-,/tlpd/sc2-international/players/3176_gamfvr
+FighT,,T,(Unknown/Retired),1997 pts,-,/tlpd/sc2-international/players/2947_FighT
+Vasilisk,Vasiliy Rudenko,Z,(Unknown/Retired),1996 pts,-,/tlpd/sc2-international/players/2056_Vasilisk
+Maker,Ricardo Flores,T,x6.,1995 pts,2059 pts,/tlpd/sc2-international/players/2290_Maker
+RuFF,Jesse Hall,T,vVv,1995 pts,2027 pts,/tlpd/sc2-international/players/2260_RuFF
+Welmu,Vesa Matti Hovinen,P,(Unknown/Retired),1995 pts,2031 pts,/tlpd/sc2-international/players/2141_Welmu
+Gomas,Marcin Mrugala,T,Infused,1995 pts,2080 pts,/tlpd/sc2-international/players/2173_Gomas
+Slurgi,Scott Penick,P,4k,1994 pts,2017 pts,/tlpd/sc2-international/players/2360_Slurgi
+aAaNbs,Laurynas Kisielius,T,aAa,1994 pts,2043 pts,/tlpd/sc2-international/players/1792_aAaNbs
+Siw,Vladimir Syzranov,P,(Unknown/Retired),1994 pts,2014 pts,/tlpd/sc2-international/players/2477_Siw
+Serashin,,P,(Unknown/Retired),1994 pts,2014 pts,/tlpd/sc2-international/players/2584_Serashin
+phantaxx,,P,(Unknown/Retired),1994 pts,-,/tlpd/sc2-international/players/2274_phantaxx
+Origine,Thomas Aufresne,T,LDLC.com,1994 pts,-,/tlpd/sc2-international/players/2595_Origine
+NesTea,Lim Jae Duk,Z,IM,1993 pts,-,/tlpd/sc2-international/players/29_NesTea
+BBQplox,Joseph Widjaja,P,iS,1993 pts,-,/tlpd/sc2-international/players/2473_BBQplox
+Akki,Arthur Roskos,Z,SFTO,1992 pts,2037 pts,/tlpd/sc2-international/players/2296_Akki
+LzHsAint,,T,(Unknown/Retired),1992 pts,-,/tlpd/sc2-international/players/2801_LzHsAint
+ZeuS,Dan Yoshida,T,REQ,1991 pts,2051 pts,/tlpd/sc2-international/players/1630_ZeuS
+inNirvana,Marat Farid,P,(Unknown/Retired),1990 pts,2124 pts,/tlpd/sc2-international/players/2370_inNirvana
+Flow,Anthony Strianse,P,(Unknown/Retired),1990 pts,-,/tlpd/sc2-international/players/2437_Flow
+Gow,,P,TYJets,1990 pts,2078 pts,/tlpd/sc2-international/players/2971_Gow
+BeNSeN,Benjamin Duclaux,Z,LDLC.com,1989 pts,2066 pts,/tlpd/sc2-international/players/1651_BeNSeN
+HEADHUNTER,,P,(Unknown/Retired),1989 pts,-,/tlpd/sc2-international/players/3343_HEADHUNTER
+EnDerr,Caviar Acampado,Z,eXo,1988 pts,2087 pts,/tlpd/sc2-international/players/2943_EnDerr
+BabyKnight,John Andersen,P,NaVi,1988 pts,-,/tlpd/sc2-international/players/2790_BabyKnight
+Lopata,Jaromir Mika,P,eSuba.,1988 pts,2044 pts,/tlpd/sc2-international/players/2310_Lopata
+Lobber,Nicholas Adolph,P,(Unknown/Retired),1987 pts,-,/tlpd/sc2-international/players/2900_Lobber
+Masq,Andrew Persaud,T,(Unknown/Retired),1987 pts,2006 pts,/tlpd/sc2-international/players/1823_Masq
+Phantomheart,,P,(Unknown/Retired),1987 pts,-,/tlpd/sc2-international/players/2737_Phantomheart
+Binski,Sungbin Lee,T,(Unknown/Retired),1987 pts,-,/tlpd/sc2-international/players/2066_Binski
+ChewbroCColi,Michael Raundall,T,Zy,1986 pts,-,/tlpd/sc2-international/players/1987_ChewbroCColi
+Seala,Erik Ramquist,Z,(Unknown/Retired),1986 pts,-,/tlpd/sc2-international/players/2139_Seala
+NarutO,Silvano Bovo,T,mTw.MF,1986 pts,2070 pts,/tlpd/sc2-international/players/1696_NarutO
+Naugrim,Mattias Ottosson,Z,GosuGamers,1986 pts,2131 pts,/tlpd/sc2-international/players/1262_Naugrim
+Mirhi,Frank Fields,P,VT,1986 pts,-,/tlpd/sc2-international/players/2418_Mirhi
+DarkCell,Nick Murray,Z,QxG,1984 pts,2070 pts,/tlpd/sc2-international/players/2251_DarkCell
+Funkay,Wojciech Komincz,T,(Unknown/Retired),1984 pts,2112 pts,/tlpd/sc2-international/players/1278_Funkay
+Ourk,Liam Streames,T,GosuGamers,1983 pts,2019 pts,/tlpd/sc2-international/players/1913_Ourk
+Way,Zhu Xing Biao,T,DB.,1982 pts,-,/tlpd/sc2-international/players/2542_Way
+Looky,Peter Sem,Z,VT,1982 pts,2080 pts,/tlpd/sc2-international/players/2152_Looky
+nGenMaSteR,Doyoung Kim,Z,nGen,1982 pts,2089 pts,/tlpd/sc2-international/players/2927_nGenMaSteR
+BaFFinO,Simone Martina,P,(Unknown/Retired),1981 pts,-,/tlpd/sc2-international/players/2986_BaFFinO
+Whiplash,Justin Wilson,P,VT,1981 pts,2023 pts,/tlpd/sc2-international/players/1622_Whiplash
+jump,Kasidith Vorakitpokatorn,P,(Unknown/Retired),1980 pts,-,/tlpd/sc2-international/players/2860_jump
+Xog,Baruch Talbott,Z,(Unknown/Retired),1979 pts,-,/tlpd/sc2-international/players/2731_Xog
+GLINE.Joe,Alexander Milanov,P,(Unknown/Retired),1979 pts,-,/tlpd/sc2-international/players/2462_GLINE.Joe
+Spanishiwa,Michael Yabuti,Z,vile,1979 pts,-,/tlpd/sc2-international/players/3066_Spanishiwa
+Bonkarooni,Michael Egolf,P,(Unknown/Retired),1978 pts,2053 pts,/tlpd/sc2-international/players/2993_Bonkarooni
+mover,Emil Lång,T,Epsilon,1978 pts,2051 pts,/tlpd/sc2-international/players/1916_mover
+Lau,Nathan Lau,T,Infused,1978 pts,-,/tlpd/sc2-international/players/2174_Lau
+BoX,Matt Kho,P,(Unknown/Retired),1977 pts,-,/tlpd/sc2-international/players/2148_BoX
+PainUser,Taylor Parsons,T,VP,1977 pts,2125 pts,/tlpd/sc2-international/players/1597_PainUser
+DamnCats,,Z,(Unknown/Retired),1976 pts,-,/tlpd/sc2-international/players/3185_DamnCats
+Rmdx,Dennis Hawelka,T,(Unknown/Retired),1975 pts,2053 pts,/tlpd/sc2-international/players/2551_Rmdx
+PiG,Jared Krensel,Z,aLt,1974 pts,2063 pts,/tlpd/sc2-international/players/2526_PiG
+Linko,Bo Huang,T,GoSu,1974 pts,-,/tlpd/sc2-international/players/2591_Linko
+LuckyFish,Ivan Lapshin,Z,iP.,1974 pts,-,/tlpd/sc2-international/players/2065_LuckyFish
+torecito,Tuomas Törmänen,Z,Menace,1974 pts,-,/tlpd/sc2-international/players/2557_torecito
+CookinRelaxing,,T,(Unknown/Retired),1973 pts,-,/tlpd/sc2-international/players/2570_CookinRelaxing
+Fan,Fan Yang,T,(Unknown/Retired),1973 pts,-,/tlpd/sc2-international/players/2238_Fan
+Wilko,Christoph Wilkowiecki,P,(Unknown/Retired),1973 pts,-,/tlpd/sc2-international/players/2492_Wilko
+Nelfi,Vyachesla Zotine,P,(Unknown/Retired),1973 pts,-,/tlpd/sc2-international/players/2303_Nelfi
+daisuki,Peter Yoo,Z,iS,1973 pts,2090 pts,/tlpd/sc2-international/players/2992_daisuki
+Skutt,David Olsson,Z,(Unknown/Retired),1972 pts,2067 pts,/tlpd/sc2-international/players/1754_Skutt
+Andro,Andrew Lozinski,P,REQ,1971 pts,-,/tlpd/sc2-international/players/1885_Andro
+cHoBo,Mateusz Krawcyk,P,(Unknown/Retired),1969 pts,2152 pts,/tlpd/sc2-international/players/1738_cHoBo
+Fayde,,P,(Unknown/Retired),1968 pts,-,/tlpd/sc2-international/players/2576_Fayde
+KleeneX,Leif Boutin,P,Mill.,1968 pts,-,/tlpd/sc2-international/players/1714_KleeneX
+decemvre,Mircea Itu,Z,h4u,1968 pts,-,/tlpd/sc2-international/players/2338_decemvre
+Eric,Liu Hao,Z,(Unknown/Retired),1966 pts,-,/tlpd/sc2-international/players/1619_Eric
+xEi,Thomas Schwingenschlögl,P,ieS.,1966 pts,-,/tlpd/sc2-international/players/2023_xEi
+Lamp,Bruno Kaneko,T,CNB,1964 pts,2045 pts,/tlpd/sc2-international/players/2640_Lamp
+Mardow,Sebastian Dutsch,Z,aTn.,1963 pts,2082 pts,/tlpd/sc2-international/players/1715_Mardow
+Kiom,Michel Mainville,T,(Unknown/Retired),1963 pts,-,/tlpd/sc2-international/players/2586_Kiom
+AllForOne,,R,(Unknown/Retired),1962 pts,-,/tlpd/sc2-international/players/3197_AllForOne
+SalvatioN,Justin Hartman,T,TA,1962 pts,-,/tlpd/sc2-international/players/2872_SalvatioN
+Apro,Yang Jue Hong,P,TtApollo,1961 pts,-,/tlpd/sc2-international/players/2973_Apro
+Jerry,,Z,(Unknown/Retired),1961 pts,-,/tlpd/sc2-international/players/3269_Jerry
+CuteZerg,Roman Bashirov,P,(Unknown/Retired),1961 pts,-,/tlpd/sc2-international/players/2304_CuteZerg
+Shuffle,Joseph Moloney,Z,QxG,1960 pts,2037 pts,/tlpd/sc2-international/players/2590_Shuffle
+nEAns,Benjamin Wong,T,x6.,1960 pts,-,/tlpd/sc2-international/players/2051_nEAns
+Voices,Mark Macgowan,T,TA,1959 pts,2074 pts,/tlpd/sc2-international/players/2571_Voices
+Blade,Tyler Nicholas,Z,sPs,1959 pts,-,/tlpd/sc2-international/players/2523_Blade
+AcRo,Andreas Kirchner,P,Faculty,1959 pts,2025 pts,/tlpd/sc2-international/players/1791_AcRo
+ApRioRi,Vitaliy Ponomarenko,Z,NTO,1959 pts,-,/tlpd/sc2-international/players/2461_ApRioRi
+JimRiSiNg,,T,(Unknown/Retired),1956 pts,2044 pts,/tlpd/sc2-international/players/2787_JimRiSiNg
+Schaef,,P,(Unknown/Retired),1956 pts,-,/tlpd/sc2-international/players/2903_Schaef
+Breek,,Z,(Unknown/Retired),1956 pts,-,/tlpd/sc2-international/players/3038_Breek
+Heero,Xiao Qin Min,T,GAMANIA,1956 pts,2044 pts,/tlpd/sc2-international/players/2976_Heero
+Ke,,P,(Unknown/Retired),1955 pts,-,/tlpd/sc2-international/players/3282_Ke
+wonkman,,P,(Unknown/Retired),1954 pts,2008 pts,/tlpd/sc2-international/players/2393_wonkman
+MiNiMaTh,Perrus Mathieu,Z,Sypher,1954 pts,-,/tlpd/sc2-international/players/2390_MiNiMaTh
+DakkoN,,Z,(Unknown/Retired),1954 pts,-,/tlpd/sc2-international/players/2910_DakkoN
+Sushi,Lennart Roest,Z,srs.,1953 pts,2024 pts,/tlpd/sc2-international/players/1868_Sushi
+KinGJessE,Jesse Slaton,R,aLt,1952 pts,-,/tlpd/sc2-international/players/2935_KinGJessE
+RyanRushia,Ryan Rushia,P,coL.,1952 pts,-,/tlpd/sc2-international/players/2136_RyanRushia
+Jas,Dong Ke Rang,P,Spider,1950 pts,-,/tlpd/sc2-international/players/2981_Jas
+FooFighter,Vasilije Kekovic,T,(Unknown/Retired),1949 pts,-,/tlpd/sc2-international/players/2196_FooFighter
+Potiguar,Aderson Santos,P,(Unknown/Retired),1949 pts,2080 pts,/tlpd/sc2-international/players/2991_Potiguar
+avilo,David J.C. Blowe,T,VT,1947 pts,2032 pts,/tlpd/sc2-international/players/1644_avilo
+desRow,Marc-Olivier Proulx,P,RAGE`,1947 pts,2118 pts,/tlpd/sc2-international/players/2221_desRow
+Seekers,,Z,(Unknown/Retired),1945 pts,-,/tlpd/sc2-international/players/2764_Seekers
+nGenLight,,P,nGen,1944 pts,-,/tlpd/sc2-international/players/2958_nGenLight
+ParanOid,Rafal Kontowicz,Z,MYM,1943 pts,2027 pts,/tlpd/sc2-international/players/1134_ParanOid
+Couguar,Vitaliy,P,imba.FXO,1941 pts,-,/tlpd/sc2-international/players/1992_Couguar
+Harpner,Tomáš Bruštík,P,nEph.,1940 pts,2008 pts,/tlpd/sc2-international/players/1924_Harpner
+Anathorn,Victor Carrasco,T,VP,1940 pts,-,/tlpd/sc2-international/players/2395_Anathorn
+Fuzzy,,Z,(Unknown/Retired),1940 pts,-,/tlpd/sc2-international/players/3065_Fuzzy
+3D.Hydra,Ruslan Denysyuk,P,(Unknown/Retired),1939 pts,-,/tlpd/sc2-international/players/3017_3D.Hydra
+Gerbil,Adam Venis,Z,4k,1937 pts,-,/tlpd/sc2-international/players/2210_Gerbil
+Magulina,,Z,SFTO,1935 pts,-,/tlpd/sc2-international/players/2064_Magulina
+tgun,Bradley Seymour,Z,FXO,1935 pts,-,/tlpd/sc2-international/players/2835_tgun
+Ikki,Thiago Sato,Z,CNB,1935 pts,-,/tlpd/sc2-international/players/2641_Ikki
+Uhen,,Z,Tyloo,1935 pts,2004 pts,/tlpd/sc2-international/players/2771_Uhen
+Tunico,,Z,KEYD,1934 pts,2119 pts,/tlpd/sc2-international/players/2995_Tunico
+ExO,David Aaron Hart,P,4k,1934 pts,-,/tlpd/sc2-international/players/2068_ExO
+SpiderMax,Chen Xi Yu,Z,Spider,1933 pts,2036 pts,/tlpd/sc2-international/players/2980_SpiderMax
+amnesiac,Matthew Garnham,Z,TA,1933 pts,-,/tlpd/sc2-international/players/2875_amnesiac
+ho8ot,Andrei Mikheev,Z,Empire,1933 pts,2044 pts,/tlpd/sc2-international/players/1898_ho8ot
+rjT,Luca Ambrosini,Z,inF.,1932 pts,-,/tlpd/sc2-international/players/2985_rjT
+SLoG,Andy Ahn,P,FXO,1930 pts,2002 pts,/tlpd/sc2-international/players/1244_SLoG
+Risk_Player,Jeremy Leblanc,T,(Unknown/Retired),1928 pts,-,/tlpd/sc2-international/players/2905_Risk_Player
+Arew,Vytautas Graiciunas,P,(Unknown/Retired),1927 pts,-,/tlpd/sc2-international/players/1203_Arew
+Hui,Yuan Jinhui,P,XpecIM,1927 pts,2105 pts,/tlpd/sc2-international/players/2964_Hui
+Pureball,Marty Rome,T,Dignitas,1926 pts,-,/tlpd/sc2-international/players/1888_Pureball
+Jroy,Justin Roy,P,(Unknown/Retired),1926 pts,-,/tlpd/sc2-international/players/2659_Jroy
+MoreFaSho,Joshua Gutman,Z,(Unknown/Retired),1924 pts,2016 pts,/tlpd/sc2-international/players/2426_MoreFaSho
+nozick,Andrew Johnson,P,(Unknown/Retired),1924 pts,-,/tlpd/sc2-international/players/2698_nozick
+Zazu,Patrick Niemier,Z,(Unknown/Retired),1924 pts,-,/tlpd/sc2-international/players/2989_Zazu
+Honor,Niklas Behrens,P,Ai,1921 pts,2024 pts,/tlpd/sc2-international/players/2609_Honor
+KnowMe,Steffen,P,(Unknown/Retired),1920 pts,-,/tlpd/sc2-international/players/1761_KnowMe
+Shew,Alex Raymond,P,(Unknown/Retired),1919 pts,-,/tlpd/sc2-international/players/2704_Shew
+InHeartBeat,,P,(Unknown/Retired),1919 pts,2019 pts,/tlpd/sc2-international/players/3029_InHeartBeat
+SenDoh,Alejandro,T,osR-,1918 pts,-,/tlpd/sc2-international/players/1424_SenDoh
+Sennin,,P,(Unknown/Retired),1917 pts,-,/tlpd/sc2-international/players/2567_Sennin
+OutSide,Roman Emelyanov,T,(Unknown/Retired),1916 pts,2062 pts,/tlpd/sc2-international/players/2389_OutSide
+dSKe,Eugene,T,imba.FXO,1915 pts,-,/tlpd/sc2-international/players/2081_dSKe
+Drafter,Rasmus Kristensen,T,,1914 pts,-,/tlpd/sc2-international/players/1775_Drafter
+ArminvB,Oscar Witzand,T,(Unknown/Retired),1913 pts,-,/tlpd/sc2-international/players/2266_ArminvB
+ekSi,Keavan Canu,P,(Unknown/Retired),1911 pts,-,/tlpd/sc2-international/players/2193_ekSi
+JaBiTo,Paolo Javier,Z,Mski,1910 pts,2028 pts,/tlpd/sc2-international/players/2722_JaBiTo 
+Skruffy,Vegard Tenold,Z,Lions,1909 pts,2032 pts,/tlpd/sc2-international/players/1908_Skruffy
+File,Filippo Broccolino,Z,TRI,1909 pts,-,/tlpd/sc2-international/players/2983_File
+RoyalFlush,John Lee,Z,(Unknown/Retired),1908 pts,-,/tlpd/sc2-international/players/3173_RoyalFlush
+Turuk,Constantine Arzhavitin,T,iP.,1906 pts,-,/tlpd/sc2-international/players/2752_Turuk
+MyWa,Glen Jul Hansen,P,4k,1905 pts,-,/tlpd/sc2-international/players/1612_MyWa
+luLLabyWISH,,T,(Unknown/Retired),1903 pts,-,/tlpd/sc2-international/players/2237_luLLabyWISH
+JaXx,Alexander Quaiser,P,(Unknown/Retired),1903 pts,-,/tlpd/sc2-international/players/2484_JaXx
+Kakashi,Irakli Budia,T,TMC,1901 pts,-,/tlpd/sc2-international/players/2130_Kakashi
+Hasuu,Colin Hamilton,P,vVv,1899 pts,2026 pts,/tlpd/sc2-international/players/2110_Hasuu
+Arlock,Aaron Abrams,P,VT,1899 pts,-,/tlpd/sc2-international/players/2277_Arlock
+Artosis,Dan Stemkoski,P,sixjax.,1899 pts,-,/tlpd/sc2-international/players/1129_Artosis
+Gruang,Tuomo Krooks,T,(Unknown/Retired),1898 pts,2012 pts,/tlpd/sc2-international/players/1925_Gruang
+MescalineEyes,Lorand Koncz,Z,(Unknown/Retired),1897 pts,-,/tlpd/sc2-international/players/2984_MescalineEyes
+Clavie,,P,(Unknown/Retired),1897 pts,-,/tlpd/sc2-international/players/2549_Clavie
+Pheo,Daniel Prior,Z,(Unknown/Retired),1894 pts,-,/tlpd/sc2-international/players/2810_Pheo
+JediGamer,Alex Power,T,(Unknown/Retired),1892 pts,2046 pts,/tlpd/sc2-international/players/2246_JediGamer
+Forsen,Sebastian Fors,Z,(Unknown/Retired),1887 pts,2026 pts,/tlpd/sc2-international/players/2176_Forsen
+DuFFmAn,Ryan West,T,(Unknown/Retired),1881 pts,-,/tlpd/sc2-international/players/2466_DuFFmAn
+Shield,Caleb Richards,T,GoSu,1878 pts,-,/tlpd/sc2-international/players/2203_Shield
+Rookie,Rob Morris III,T,eMg,1877 pts,2050 pts,/tlpd/sc2-international/players/2522_Rookie
+Rasowy,Dawid Wisniewski,T,ieS.,1877 pts,-,/tlpd/sc2-international/players/2003_Rasowy
+Cast,Janne Toosi,T,(Unknown/Retired),1870 pts,-,/tlpd/sc2-international/players/1917_Cast
+Hocus,,Z,TA,1868 pts,-,/tlpd/sc2-international/players/2548_Hocus
+Lorys,Lorenzo Marzocchi,Z,TRI,1867 pts,-,/tlpd/sc2-international/players/2987_Lorys
+Zeno,Lin Xinyu,T,GAMANIA,1846 pts,-,/tlpd/sc2-international/players/2977_Zeno
+mouzLomo,Patrick van Rossum,T,mouz.,1844 pts,-,/tlpd/sc2-international/players/2668_mouzLomo

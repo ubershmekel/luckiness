@@ -1,0 +1,20 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+B. Tomic,D. Sela,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/970273.html
+D. Hantuchova,A. Ivanovic,2,1,WTA,Grass,http://tennis.wettpoint.com/en/games/970209.html
+B.Bryan/M.Bryan,J.Del Potro/R.Stepanek,2,1,ATP Double,Grass,http://tennis.wettpoint.com/en/games/970113.html
+R.Lindstedt/H.Tecau,M.Mirnyi/D.Nestor,1,2,ATP Double,Grass,http://tennis.wettpoint.com/en/games/970116.html
+S. Greul,V. Crivoi,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/969976.html
+P. Kohlschreiber,G. Monfils,2,0,ATP,Grass,http://tennis.wettpoint.com/en/games/969935.html
+L. Safarova,P. Martic,2,1,WTA,Hard,http://tennis.wettpoint.com/en/games/970082.html
+A. Roddick,A. Murray,0,2,ATP,Grass,http://tennis.wettpoint.com/en/games/970043.html
+J. Chardy,D. Sela,1,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/970275.html
+C.Dellacqua/C.Scheepers,O.Govortsova/A.Kudryavtseva,1,2,WTA Double,Grass,http://tennis.wettpoint.com/en/games/970309.html
+J. Tsonga,J. Ward,2,0,ATP,Grass,http://tennis.wettpoint.com/en/games/970042.html
+L.Huber/L.Raymond,S.Errani/R.Vinci,1,2,WTA Double,Grass,http://tennis.wettpoint.com/en/games/970308.html
+C. Wozniacki,M. Barthel,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/970081.html
+P. Petzschner,T. Berdych,2,1,ATP,Grass,http://tennis.wettpoint.com/en/games/969936.html
+S. Lisicki,S. Peng,2,0,WTA,Grass,http://tennis.wettpoint.com/en/games/970208.html
+B.Bryan/M.Bryan,O.Marach/M.Matkowski,2,0,ATP Double,Grass,http://tennis.wettpoint.com/en/games/970118.html
+K.Mladenovic/K.Piter,J.Moore/Y.Xu,2,0,WTA Double,Hard,http://tennis.wettpoint.com/en/games/970231.html
+R.Bopanna/A.Qureshi,C.Kas/P.Kohlschreiber,2,1,ATP Double,Grass,http://tennis.wettpoint.com/en/games/970139.html
+M.Bhupathi/L.Paes,M.Mirnyi/D.Nestor,2,1,ATP Double,Grass,http://tennis.wettpoint.com/en/games/970119.html

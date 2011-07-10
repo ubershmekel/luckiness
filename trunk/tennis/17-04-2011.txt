@@ -1,0 +1,23 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+J. Groth,L. Tsurenko,2,0,International,Clay,http://tennis.wettpoint.com/en/games/951037.html
+A. Rodionova,O. Savchuk,0,2,International,Clay,http://tennis.wettpoint.com/en/games/951038.html
+J.Groth/A.Rodionova,O.Savchuk/L.Tsurenko,1,2,International,Clay,http://tennis.wettpoint.com/en/games/951848.html
+M. Martinez Sanchez,A. Rezai,2,0,International,Clay,http://tennis.wettpoint.com/en/games/951165.html
+A. Petkovic,M. Oudin,2,0,International,Clay,http://tennis.wettpoint.com/en/games/951170.html
+V. Zvonareva,R. Vinci,2,0,International,Clay,http://tennis.wettpoint.com/en/games/951206.html
+D. Cibulkova,A. Ivanovic,1,0,International,Clay,http://tennis.wettpoint.com/en/games/951160.html
+M. Klizan,T. Schoorel,1,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/949250.html
+I. Van der Merwe,R. De Voest,2,1,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/949296.html
+L. Dominguez Lino,P. Parmentier,2,0,International,Clay,http://tennis.wettpoint.com/en/games/951851.html
+S. Lisicki,C. McHale,2,0,International,Clay,http://tennis.wettpoint.com/en/games/951852.html
+Y. Wickmayer,P. Kvitova,1,2,International,Clay,http://tennis.wettpoint.com/en/games/951186.html
+A. Pavlyuchenkova,S. Errani,2,0,International,Clay,http://tennis.wettpoint.com/en/games/951863.html
+D. Hantuchova,J. Jankovic,1,2,International,Clay,http://tennis.wettpoint.com/en/games/951900.html
+R. Nadal,D. Ferrer,2,0,ATP,Clay,http://tennis.wettpoint.com/en/games/949366.html
+J.Goergers/A.Groenefeld,L.Huber/V.King,2,1,International,Clay,http://tennis.wettpoint.com/en/games/951924.html
+A.Medina Garrigues/N.Llagostera Vives,A.Cornet/V.Razzano,2,0,International,Clay,http://tennis.wettpoint.com/en/games/951925.html
+J. Acasuso,M. Demoliner,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/949538.html
+K. Flipkens,B. Zahlavova Strycova,2,0,International,Clay,http://tennis.wettpoint.com/en/games/951185.html
+E.Makarova/A.Pavlyuchenkova,A.Brianti/M.Camerin,2,0,International,Clay,http://tennis.wettpoint.com/en/games/951209.html
+D.Hantuchova/M.Rybarikova,J.Jankovic/A.Krunic,1,2,International,Clay,http://tennis.wettpoint.com/en/games/951162.html
+K.Flipkens/Y.Wickmayer,I.Benesova/B.Zahlavova Strycova,0,2,International,Clay,http://tennis.wettpoint.com/en/games/951956.html

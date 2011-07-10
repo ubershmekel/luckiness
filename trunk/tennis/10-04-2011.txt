@@ -1,0 +1,13 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+J. Chardy,I. Ljubicic,0,2,ATP,Clay,http://tennis.wettpoint.com/en/games/949304.html
+M. Llodra,M. Raonic,1,2,ATP,Clay,http://tennis.wettpoint.com/en/games/949320.html
+V. Azarenka,I. Begu,2,0,WTA,Clay,http://tennis.wettpoint.com/en/games/945248.html
+A. Dolgopolov,E. Gulbis,0,2,ATP,Clay,http://tennis.wettpoint.com/en/games/949319.html
+A. Di Mauro,J. Reister,1,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/945072.html
+G. Lapentti,T. Ito,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/945351.html
+T. Fernandes,J. Silva,2,1,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/945350.html
+P. Andujar,P. Starace,2,0,ATP,Clay,http://tennis.wettpoint.com/en/games/945109.html
+P. Lorenzi,R. Dutra Da Silva,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/945389.html
+A. Golubev,P. Kohlschreiber,1,2,ATP,Clay,http://tennis.wettpoint.com/en/games/949329.html
+C. Wozniacki,E. Vesnina,2,0,WTA,Clay,http://tennis.wettpoint.com/en/games/945317.html
+K. Nishikori,R. Sweeting,0,2,ATP,Clay,http://tennis.wettpoint.com/en/games/945210.html

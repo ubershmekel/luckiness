@@ -1,0 +1,11 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+J. Acasuso,G. Elias,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/916926.html
+N. Li,K. Clijsters,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912938.html
+B. Knittel,I. Bozoljac,2,1,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916597.html
+J. Huta Galung,D. Brands,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916598.html
+E. Prodon,R. El Amrani,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/916931.html
+F. Romboli,J. Acasuso,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/916930.html
+A. Kuznetsov,J. Witten,2,1,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916711.html
+M. Russell,R. Harrison,1,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916710.html
+A. Martin,D. Tursunov,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916673.html
+L. Rosol,G. Soeda,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/916674.html

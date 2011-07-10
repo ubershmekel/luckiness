@@ -1,0 +1,26 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+J. Ward,T. Ito,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/918891.html
+F. Cipolla,P. Cervenak,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/918890.html
+C. Guccione,P. Lorenzi,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/918893.html
+T. Robredo,R. Mello,2,0,ATP,Clay,http://tennis.wettpoint.com/en/games/918996.html
+B. Mitchell,B. Tomic,1,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/918892.html
+E. Donskoy,A. Beck,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/918922.html
+J. Zopp,A. Arnaboldi,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/918921.html
+K. Beck,G. Soeda,2,1,ATP,Hard,http://tennis.wettpoint.com/en/games/918677.html
+P. Petzschner,A. Bogomolov Jr,0,2,ATP,Carpet,http://tennis.wettpoint.com/en/games/918715.html
+M. Copil,A. Menendez-Maceiras,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/918919.html
+D. Meffert,U. Ignatik,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/918918.html
+K. Anderson,D. Sela,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/918676.html
+M. Klizan,S. Rieschick,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/918957.html
+N. Mahut,G. Naso,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/918955.html
+R. Bemelmans,R. Jouan,2,1,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/918956.html
+D. Brands,I. Ljubicic,0,2,ATP,Carpet,http://tennis.wettpoint.com/en/games/918718.html
+D. Gremelmayr,A. Mannarino,1,2,ATP,Hard,http://tennis.wettpoint.com/en/games/918675.html
+A. Stooppini,G. Muller,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/918958.html
+P. Andujar,P. Starace,0,2,ATP,Clay,http://tennis.wettpoint.com/en/games/918991.html
+I. Andreev,S. Giraldo,1,2,ATP,Clay,http://tennis.wettpoint.com/en/games/918993.html
+I. Dodig,I. Marchenko,2,0,ATP,Carpet,http://tennis.wettpoint.com/en/games/918717.html
+F. Dancevic,F. Wolmarans,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/918674.html
+J. Chela,C. Zampieri,2,0,ATP,Clay,http://tennis.wettpoint.com/en/games/918992.html
+D. Nalbandian,H. Zeballos,0,2,ATP,Clay,http://tennis.wettpoint.com/en/games/918990.html
+F. Cipolla,T. Ito,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/918895.html

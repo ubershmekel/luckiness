@@ -1,0 +1,19 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+S.Aspelin/P.Hanley,J.Cabal/E.Schwank,1,2,ATP Double,Clay,http://tennis.wettpoint.com/en/games/965716.html
+A.Fisher/S.Huss,D.Bracciali/P.Starace,0,2,ATP Double,Clay,http://tennis.wettpoint.com/en/games/965715.html
+V. Zvonareva,A. Pavlyuchenkova,1,2,WTA,Clay,http://tennis.wettpoint.com/en/games/964900.html
+F. Fognini,A. Montanes,3,2,ATP,Clay,http://tennis.wettpoint.com/en/games/965045.html
+C.Kas/A.Peya,M.Mirnyi/D.Nestor,0,2,ATP Double,Clay,http://tennis.wettpoint.com/en/games/965720.html
+Y.Chan/M.Niculescu,V.King/Y.Shvedova,1,2,WTA Double,Clay,http://tennis.wettpoint.com/en/games/965637.html
+S.Lipsky/R.Ram,D.Brown/M.Kohlmann,2,0,ATP Double,Clay,http://tennis.wettpoint.com/en/games/965717.html
+M.Martinez Sanchez/A.Medina Garrigues,S.Mirza/E.Vesnina,0,2,WTA Double,Clay,http://tennis.wettpoint.com/en/games/965633.html
+J.Goerges/A.Petkovic,N.Petrova/A.Rodionova,0,2,WTA Double,Clay,http://tennis.wettpoint.com/en/games/965636.html
+M.Krajicek/L.Safarova,V.Azarenka/M.Kirilenko,0,2,WTA Double,Clay,http://tennis.wettpoint.com/en/games/965635.html
+S. Wawrinka,R. Federer,0,3,ATP,Clay,http://tennis.wettpoint.com/en/games/965044.html
+F.Cermak/F.Polasek,M.Llodra/N.Zimonjic,0,2,ATP Double,Clay,http://tennis.wettpoint.com/en/games/965718.html
+J. Jankovic,F. Schiavone,1,2,WTA,Clay,http://tennis.wettpoint.com/en/games/964901.html
+J.Benneteau/N.Mahut,R.Lindstedt/H.Tecau,0,2,ATP Double,Clay,http://tennis.wettpoint.com/en/games/965719.html
+R. Gasquet,N. Djokovic,0,3,ATP,Clay,http://tennis.wettpoint.com/en/games/965046.html
+R. Bautista-Agut,P. Carreno-Busta,1,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/965528.html
+M. Bartoli,G. Dulko,1,0,WTA,Clay,http://tennis.wettpoint.com/en/games/964899.html
+D. Hantuchova,S. Kuznetsova,1,2,WTA,Clay,http://tennis.wettpoint.com/en/games/964898.html

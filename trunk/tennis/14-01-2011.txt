@@ -1,0 +1,9 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+D. Nalbandian,N. Almagro,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/909905.html
+D. Ferrer,S. Giraldo,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/909904.html
+S. Peng,B. Mattek-Sands,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/909831.html
+G. Simon,E. Gulbis,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/909867.html
+V. Troicki,F. Mayer,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/909868.html
+K. Clijsters,N. Li,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/909796.html
+K. Zakopalova,J. Groth,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/909830.html
+D. Ferrer,D. Nalbandian,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/909907.html

@@ -1,0 +1,42 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+G. Dulko,A. Wozniak,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/932950.html
+F. Skugor,H. Zeballos,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/931743.html
+R. Harrison,L. Cook,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/931693.html
+A. Bogomolov Jr,J. Witten,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/931700.html
+A. Cornet,A. Sevastova,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/932947.html
+J. Jankovic,S. Bammer,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/932946.html
+J. Dokic,B. Jovanovski,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/931565.html
+M. Krajicek,A. Kremer,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/931566.html
+A. Morita,J. Groth,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/931567.html
+L. Safarova,M. Bartoli,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/931568.html
+S. Robert,J. Millman,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/931606.html
+M. Cilic,F. Mayer,3,2,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/933949.html
+M. Semjan,K. Beck,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/931607.html
+J. Melzer,J. Chardy,0,3,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/933984.html
+V. Troicki,R. Bopanna,3,2,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/933966.html
+X. Malisse,F. Verdasco,0,3,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/934436.html
+R. Söderling,I. Andreev,3,0,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/933959.html
+D. Nalbandian,A. Ungur,3,1,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/933972.html
+N. Massu,A. Roddick,1,3,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/933979.html
+J. Hajek,A. Golubev,2,3,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/933944.html
+G. Dimitrov,S. Bohli,2,1,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/931605.html
+I. Dodig,P. Kohlschreiber,2,3,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/933950.html
+R. Bemelmans,R. Nadal,0,3,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/933955.html
+S. Koubek,G. Simon,0,3,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/933985.html
+R. Schuettler,S. Groth,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/931695.html
+J. Johansson,T. Gabashvili,3,0,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/933960.html
+R. Bautista-Agut,N. Mahut,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/931608.html
+J. Tipsarevic,S. Dev Varman,0,3,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/933968.html
+M. Ebden,J. Sock,2,1,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/931704.html
+J. Monaco,V. Hanescu,3,1,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/933973.html
+P. Capdeville,J. Isner,3,2,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/933980.html
+T. Berdych,M. Kukushkin,3,0,Davis Cup,Clay,http://tennis.wettpoint.com/en/games/933945.html
+R. Harrison,A. Kuznetsov,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/931702.html
+G. Jones,A. Bogomolov Jr,1,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/931705.html
+A. Molteni,R. Dutra Da Silva,2,1,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/931745.html
+D. Junqueira,H. Zeballos,1,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/931746.html
+O. Govortsova,P. Hercog,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/932956.html
+G. Dulko,K. Pervak,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/932957.html
+J. Jankovic,A. Sevastova,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/932955.html
+R. Schuettler,M. Matosevic,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/931703.html
+G. Arn,A. Pavlyuchenkova,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/932958.html

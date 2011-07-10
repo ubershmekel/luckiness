@@ -1,0 +1,23 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+R. Ramirez Hidalgo,T. Berdych,1,2,ATP,Hard,http://tennis.wettpoint.com/en/games/941123.html
+R. Nadal,K. Nishikori,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/941116.html
+C. Wozniacki,D. Hantuchova,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/941012.html
+G. Soeda,M. Bachinger,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/940514.html
+A. Haider-Maurer,M. Viola,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/940626.html
+A. Beck,D. Tursunov,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/940587.html
+M. Bartoli,E. Makarova,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/941022.html
+K. Anderson,P. Andujar,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/941162.html
+M. Fish,R. Gasquet,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/941159.html
+V. Razzano,A. Ivanovic,0,1,WTA,Hard,http://tennis.wettpoint.com/en/games/941026.html
+M. Kirilenko,A. Radwanska,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/941021.html
+D. Ferrer,S. Dev Varman,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/941157.html
+F. Schiavone,L. Dominguez Lino,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/941020.html
+M. Llodra,M. Granollers,1,2,ATP,Hard,http://tennis.wettpoint.com/en/games/941158.html
+A. Bogomolov Jr,J. Isner,0,2,ATP,Hard,http://tennis.wettpoint.com/en/games/941161.html
+M. Martinez Sanchez,K. Clijsters,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/941027.html
+J. Groth,V. Zvonareva,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/941023.html
+A. Pavlyuchenkova,P. Kvitova,2,1,WTA,Hard,http://tennis.wettpoint.com/en/games/941025.html
+J. Del Potro,R. Söderling,2,0,ATP,Hard,http://tennis.wettpoint.com/en/games/941160.html
+V. Troicki,S. Querrey,2,1,ATP,Hard,http://tennis.wettpoint.com/en/games/941163.html
+V. Azarenka,D. Cibulkova,2,1,WTA,Hard,http://tennis.wettpoint.com/en/games/941024.html
+J. Blake,N. Djokovic,0,2,ATP,Hard,http://tennis.wettpoint.com/en/games/941164.html

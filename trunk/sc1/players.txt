@@ -1,0 +1,101 @@
+pid,Name,Race,Team,rating,ELO Peak,href
+Bisu,김택용,P,SK Telecom T1,2346 pts,2375 pts,/tlpd/korean/players/125_Bisu
+Flash,이영호,T,KT Rolster,2322 pts,2443 pts,/tlpd/korean/players/424_Flash
+Jaedong,이제동,Z,Hwaseung OZ,2274 pts,2378 pts,/tlpd/korean/players/211_Jaedong
+Hydra,신동원,Z,CJ Entus,2263 pts,2288 pts,/tlpd/korean/players/610_Hydra
+ZerO,김명운,Z,Woongjin Stars,2238 pts,2238 pts,/tlpd/korean/players/174_ZerO
+Movie,진영화,P,CJ Entus,2230 pts,2230 pts,/tlpd/korean/players/564_Movie
+Light,이재호,T,Woongjin Stars,2207 pts,2250 pts,/tlpd/korean/players/109_Light
+Horang2,이경민,P,CJ Entus,2191 pts,2214 pts,/tlpd/korean/players/630_Horang2
+Neo.G_Soulkey,김민철,Z,Woongjin Stars,2174 pts,2216 pts,/tlpd/korean/players/647_Neo.G_Soulkey
+BaBy,전태양,T,WeMade FOX,2172 pts,2232 pts,/tlpd/korean/players/575_BaBy
+Sea,염보성,T,MBCGame HERO,2171 pts,2268 pts,/tlpd/korean/players/108_Sea
+Bogus,이신형,T,STX SouL,2171 pts,2186 pts,/tlpd/korean/players/663_Bogus
+Mind,박성균,T,WeMade FOX,2161 pts,2200 pts,/tlpd/korean/players/146_Mind
+n.Die_soO,어윤수,Z,SK Telecom T1,2159 pts,2159 pts,/tlpd/korean/players/634_n.Die_soO
+Fantasy,정명훈,T,SK Telecom T1,2159 pts,2310 pts,/tlpd/korean/players/6_Fantasy
+Killer,박준오,Z,Hwaseung OZ,2159 pts,2159 pts,/tlpd/korean/players/558_Killer
+Leta,신상문,T,CJ Entus,2138 pts,2263 pts,/tlpd/korean/players/185_Leta
+JangBi,허영무,P,Samsung KHAN,2137 pts,2306 pts,/tlpd/korean/players/63_JangBi
+HiyA,구성훈,T,Hwaseung OZ,2136 pts,2212 pts,/tlpd/korean/players/205_HiyA
+firebathero,이성은,T,Air Force ACE,2134 pts,2208 pts,/tlpd/korean/players/43_firebathero
+Stats,김대엽,P,KT Rolster,2134 pts,2238 pts,/tlpd/korean/players/611_Stats
+Stork,송병구,P,Samsung KHAN,2124 pts,2321 pts,/tlpd/korean/players/59_Stork
+BeSt,도재욱,P,SK Telecom T1,2120 pts,2283 pts,/tlpd/korean/players/16_BeSt
+Calm,김윤환,Z,STX SouL,2118 pts,2287 pts,/tlpd/korean/players/76_Calm
+Brave,임태규,P,Samsung KHAN,2112 pts,2126 pts,/tlpd/korean/players/549_Brave
+Shine,이영한,Z,WeMade FOX,2111 pts,2238 pts,/tlpd/korean/players/623_Shine
+Grape,유병준,P,Samsung KHAN,2111 pts,2111 pts,/tlpd/korean/players/692_Grape
+Snow,장윤철,P,CJ Entus,2108 pts,2183 pts,/tlpd/korean/players/652_Snow
+Action,김성대,Z,KT Rolster,2106 pts,2166 pts,/tlpd/korean/players/626_Action
+Shuttle,김윤중,P,STX SouL,2106 pts,2200 pts,/tlpd/korean/players/86_Shuttle
+Violet,우정호,P,KT Rolster,2104 pts,2197 pts,/tlpd/korean/players/539_Violet
+free,윤용태,P,Woongjin Stars,2102 pts,2255 pts,/tlpd/korean/players/175_free
+Reality,김기현,T,Samsung KHAN,2102 pts,2104 pts,/tlpd/korean/players/712_Reality
+Jaehoon,김재훈,P,MBCGame HERO,2100 pts,2123 pts,/tlpd/korean/players/124_Jaehoon
+Hyuk,박재혁,Z,SK Telecom T1,2099 pts,2156 pts,/tlpd/korean/players/7_Hyuk
+Modesty,김현우,Z,STX SouL,2098 pts,2124 pts,/tlpd/korean/players/556_Modesty
+RorO,신노열,Z,WeMade FOX,2097 pts,2213 pts,/tlpd/korean/players/622_RorO
+HoGiL,김상욱,Z,(Unknown/Retired),2097 pts,2125 pts,/tlpd/korean/players/192_HoGiL
+TurN,박대호,T,Samsung KHAN,2090 pts,2143 pts,/tlpd/korean/players/948_TurN
+Wooki,주성욱,P,WeMade FOX,2089 pts,-,/tlpd/korean/players/977_Wooki
+Iris,변형태,T,Air Force ACE,2087 pts,2237 pts,/tlpd/korean/players/129_Iris
+Really,박상우,T,Woongjin Stars,2087 pts,2216 pts,/tlpd/korean/players/444_Really
+Classic,김도우,T,STX SouL,2084 pts,2157 pts,/tlpd/korean/players/680_Classic
+great,차명환,Z,Samsung KHAN,2081 pts,2170 pts,/tlpd/korean/players/58_great
+Midas,전상욱,T,WeMade FOX,2077 pts,2284 pts,/tlpd/korean/players/4_Midas
+By.Sun,정윤종,P,SK Telecom T1,2076 pts,2076 pts,/tlpd/korean/players/697_By.Sun
+Tyson,박수범,P,MBCGame HERO,2074 pts,2138 pts,/tlpd/korean/players/128_Tyson
+s2,이승석,Z,SK Telecom T1,2073 pts,2152 pts,/tlpd/korean/players/12_s2
+Crazy-Hydra,임정현,Z,KT Rolster,2069 pts,2101 pts,/tlpd/korean/players/536_Crazy-Hydra
+hyvaa,신대근,Z,STX SouL,2068 pts,2145 pts,/tlpd/korean/players/583_hyvaa
+Kal,김구현,P,STX SouL,2064 pts,2267 pts,/tlpd/korean/players/84_Kal
+ggaemo,김경모,Z,Air Force ACE,2062 pts,2092 pts,/tlpd/korean/players/216_ggaemo
+Last,김성현,T,STX SouL,2044 pts,2085 pts,/tlpd/korean/players/664_Last
+HyuN,고석현,Z,MBCGame HERO,2041 pts,2153 pts,/tlpd/korean/players/120_HyuN
+M18M,손석희,P,Air Force ACE,2040 pts,2094 pts,/tlpd/korean/players/639_M18M
+BackHo,손찬웅,P,Hwaseung OZ,2032 pts,2139 pts,/tlpd/korean/players/221_BackHo
+LuCifer,이영호,P,WeMade FOX,2030 pts,2206 pts,/tlpd/korean/players/40_LuCifer
+PianO,임진묵,T,Air Force ACE,2029 pts,2089 pts,/tlpd/korean/players/92_PianO
+sKyHigh,조병세,T,CJ Entus,2029 pts,2232 pts,/tlpd/korean/players/554_sKyHigh
+HoeJJa,고강민,Z,KT Rolster,2027 pts,2140 pts,/tlpd/korean/players/32_HoeJJa
+Pure,박세정,P,WeMade FOX,2026 pts,2167 pts,/tlpd/korean/players/156_Pure
+XellOs,서지훈,T,CJ Entus,2025 pts,2275 pts,/tlpd/korean/players/130_XellOs
+Paralyze,정경두,P,SK Telecom T1,2023 pts,-,/tlpd/korean/players/704_Paralyze
+BByong,정우용,T,CJ Entus,2021 pts,2052 pts,/tlpd/korean/players/638_BByong
+PerfectMan,김태균,P,Hwaseung OZ,2020 pts,2040 pts,/tlpd/korean/players/599_PerfectMan
+GuemChi,김승현,P,Woongjin Stars,2019 pts,2154 pts,/tlpd/korean/players/544_GuemChi
+Much,박영민,P,Air Force ACE,2017 pts,2208 pts,/tlpd/korean/players/142_Much
+Anytime,오영종,P,Hwaseung OZ,2015 pts,2244 pts,/tlpd/korean/players/219_Anytime
+YellOw,홍진호,Z,(Unknown/Retired),2014 pts,2304 pts,/tlpd/korean/players/326_YellOw
+Saint,김동현,Z,MBCGame HERO,2011 pts,2150 pts,/tlpd/korean/players/116_Saint
+Dear,백동준,P,Hwaseung OZ,2010 pts,-,/tlpd/korean/players/958_Dear
+Where,한두열,Z,CJ Entus,2009 pts,2020 pts,/tlpd/korean/players/649_Where
+FrOzen,김동건,T,STX SouL,2009 pts,2126 pts,/tlpd/korean/players/44_FrOzen
+Ssak,최호선,T,SK Telecom T1,2009 pts,2100 pts,/tlpd/korean/players/636_Ssak
+Tempest,박재영,P,KT Rolster,2008 pts,2126 pts,/tlpd/korean/players/42_Tempest
+RuBy,민찬기,T,(Unknown/Retired),2008 pts,2155 pts,/tlpd/korean/players/112_RuBy
+Peace,김태훈,Z,Air Force ACE,2007 pts,2062 pts,/tlpd/korean/players/557_Peace
+Sharp,조기석,T,Samsung KHAN,2006 pts,-,/tlpd/korean/players/700_Sharp
+Flying,신재욱,P,Woongjin Stars,2005 pts,2069 pts,/tlpd/korean/players/643_Flying
+BarrackS,황병영,T,KT Rolster,2005 pts,2005 pts,/tlpd/korean/players/553_BarrackS
+herO[jOin],김준호,Z,WeMade FOX,2005 pts,2068 pts,/tlpd/korean/players/682_herO[jOin]
+Canata,고인규,T,Air Force ACE,2004 pts,2191 pts,/tlpd/korean/players/1_Canata
+Shark,서경종,Z,(Unknown/Retired),2004 pts,2085 pts,/tlpd/korean/players/118_Shark
+hero,조일장,Z,STX SouL,2004 pts,2141 pts,/tlpd/korean/players/82_hero
+GoRush,박태민,Z,(Unknown/Retired),2001 pts,2311 pts,/tlpd/korean/players/8_GoRush
+sHy,김유진,P,Hwaseung OZ,1999 pts,-,/tlpd/korean/players/1101_sHy
+Chavi,이정현,Z,Air Force ACE,1996 pts,2033 pts,/tlpd/korean/players/594_Chavi
+Juni,유준희,Z,Samsung KHAN,1993 pts,2131 pts,/tlpd/korean/players/54_Juni
+Perfective,최용주,Z,KT Rolster,1990 pts,-,/tlpd/korean/players/1098_Perfective
+oDin,주영달,Z,Samsung KHAN,1988 pts,2124 pts,/tlpd/korean/players/57_oDin
+Lomo,손주흥,T,Hwaseung OZ,1978 pts,2165 pts,/tlpd/korean/players/208_Lomo
+Major,강정우,T,WeMade FOX,1977 pts,2055 pts,/tlpd/korean/players/27_Major
+Trap,조성호,P,STX SouL,1972 pts,2033 pts,/tlpd/korean/players/618_Trap
+Alone,방태수,Z,Hwaseung OZ,1967 pts,2076 pts,/tlpd/korean/players/967_Alone
+Orion,권수현,Z,Air Force ACE,1966 pts,2086 pts,/tlpd/korean/players/137_Orion
+Rock,안기효,P,Air Force ACE,1965 pts,2151 pts,/tlpd/korean/players/155_Rock
+Sacsri,이예훈,Z,WeMade FOX,1959 pts,2043 pts,/tlpd/korean/players/654_Sacsri
+Sky,하늘,P,Hwaseung OZ,1944 pts,-,/tlpd/korean/players/713_Sky
+Reach,박정석,P,KT Rolster,1919 pts,2250 pts,/tlpd/korean/players/38_Reach
+Suny,남승현,T,KT Rolster,1910 pts,2026 pts,/tlpd/korean/players/91_Suny

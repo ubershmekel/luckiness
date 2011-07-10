@@ -1,0 +1,29 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+I. Klec,J. Blake,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/987710.html
+P. Riba,S. Robert,1,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/987739.html
+H. Zeballos,M. Zverev,2,1,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/987740.html
+T. Schoorel,T. Gabashvili,2,1,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/987743.html
+J. Reister,L. Rosol,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/987744.html
+R. Machado,J. Pospisil,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/987745.html
+F. Gil,J. Peralta,2,1,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/987741.html
+D. Munoz-De La Nava,S. Galvani,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/987778.html
+A. Ramos,S. Vagnozzi,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/987777.html
+D. Junqueira,U. Ignatik,2,1,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/987781.html
+E. Donskoy,M. Ilhan,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/987742.html
+B.Bryan/M.Bryan,J.Melzer/P.Petzschner,3,0,ATP Double,Grass,http://tennis.wettpoint.com/en/games/978750.html
+J. Silva,F. Cipolla,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/987776.html
+J.Cerretani/P.Marx,M.Llodra/N.Zimonjic,1,3,ATP Double,Grass,http://tennis.wettpoint.com/en/games/978751.html
+A. Ungur,C. Berlocq,1,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/987782.html
+R. Ramirez Hidalgo,S. Travaglia,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/987779.html
+V. Azarenka,P. Kvitova,1,2,WTA,Grass,http://tennis.wettpoint.com/en/games/978434.html
+S.Peng/J.Zheng,K.Peschke/K.Srebotnik,1,2,WTA Double,Grass,http://tennis.wettpoint.com/en/games/978883.html
+M. Klizan,F. Volandri,2,1,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/987780.html
+S.Lisicki/S.Stosur,N.Petrova/A.Rodionova,2,1,WTA Double,Grass,http://tennis.wettpoint.com/en/games/978880.html
+M. Sharapova,S. Lisicki,2,0,WTA,Grass,http://tennis.wettpoint.com/en/games/978433.html
+J. Hajek,T. Kamke,2,1,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/987746.html
+R.Lindstedt/H.Tecau,C.Kas/A.Peya,3,0,ATP Double,Grass,http://tennis.wettpoint.com/en/games/978756.html
+M. Russell,B. Reynolds,0,1,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/987712.html
+D. Gimeno-Traver,A. Giannessi,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/987775.html
+D. Young,R. Ginepri,2,1,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/987713.html
+R. De Voest,M. Venus,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/987714.html
+P. Capdeville,J. Blake,1,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/987715.html

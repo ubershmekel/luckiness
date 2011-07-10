@@ -1,0 +1,33 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+Y. Lim,G. Jones,1,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/960899.html
+T. Ito,K. Im,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/960900.html
+A. Weintraub,M. Ebden,2,1,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/960901.html
+Y. Sugita,S. Jeong,2,1,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/960902.html
+T. Matsui,D. Sela,1,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/960903.html
+D. Udomchoke,V. Pospisil,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/960904.html
+H. Kim,G. Soeda,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/960905.html
+Y. Lu,L. Walter,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/960898.html
+S. Robert,R. Machado,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/961084.html
+J. Gajdosova,N. Li,0,2,WTA,Clay,http://tennis.wettpoint.com/en/games/960864.html
+S. Stosur,P. Hercog,2,0,WTA,Clay,http://tennis.wettpoint.com/en/games/960865.html
+E. Vesnina,G. Arn,1,2,WTA,Clay,http://tennis.wettpoint.com/en/games/960863.html
+F. Serra,J. Eysseric,2,1,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/961083.html
+R. Nadal,F. Lopez,2,0,ATP,Clay,http://tennis.wettpoint.com/en/games/961003.html
+A. Medina Garrigues,J. Jankovic,1,2,WTA,Clay,http://tennis.wettpoint.com/en/games/960860.html
+M. Klizan,D. Brown,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/961114.html
+F. Mayer,J. Chela,2,0,ATP,Clay,http://tennis.wettpoint.com/en/games/961007.html
+M. Gicquel,M. Zverev,1,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/961078.html
+A. Arnaboldi,B. Puc,2,1,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/961118.html
+D. Hantuchova,F. Schiavone,1,2,WTA,Clay,http://tennis.wettpoint.com/en/games/960866.html
+J. Nieminen,T. Berdych,1,2,ATP,Clay,http://tennis.wettpoint.com/en/games/961006.html
+M. Fish,M. Cilic,0,2,ATP,Clay,http://tennis.wettpoint.com/en/games/961004.html
+I. Dodig,J. Janowicz,2,1,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/961113.html
+R. Federer,R. Gasquet,1,2,ATP,Clay,http://tennis.wettpoint.com/en/games/961005.html
+S. Peer,M. Sharapova,0,2,WTA,Clay,http://tennis.wettpoint.com/en/games/960862.html
+J. Chardy,J. Huta Galung,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/961077.html
+K. Mesaros,L. Mayer,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/961117.html
+P. Starace,A. Murray,0,2,ATP,Clay,http://tennis.wettpoint.com/en/games/961008.html
+C. Wozniacki,Y. Wickmayer,2,0,WTA,Clay,http://tennis.wettpoint.com/en/games/960859.html
+R. Söderling,N. Almagro,2,1,ATP,Clay,http://tennis.wettpoint.com/en/games/961009.html
+S. Wawrinka,N. Djokovic,0,2,ATP,Clay,http://tennis.wettpoint.com/en/games/961010.html
+V. Azarenka,A. Pavlyuchenkova,2,1,WTA,Clay,http://tennis.wettpoint.com/en/games/960861.html

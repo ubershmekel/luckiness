@@ -1,0 +1,10 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+R. De Voest,J. Blake,1,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/987718.html
+S. Robert,E. Donskoy,1,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/987753.html
+A. Giannessi,A. Ramos,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/987789.html
+R. Ramirez Hidalgo,C. Berlocq,1,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/987790.html
+L. Rosol,J. Hajek,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/987754.html
+M. Sharapova,P. Kvitova,0,2,WTA,Grass,http://tennis.wettpoint.com/en/games/978436.html
+B.Bryan/M.Bryan,R.Lindstedt/H.Tecau,3,0,ATP Double,Grass,http://tennis.wettpoint.com/en/games/978758.html
+S.Lisicki/S.Stosur,K.Peschke/K.Srebotnik,0,2,WTA Double,Grass,http://tennis.wettpoint.com/en/games/978888.html
+B. Reynolds,J. Blake,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/987720.html

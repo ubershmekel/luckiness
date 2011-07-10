@@ -1,0 +1,16 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+N. Almagro,A. Dolgopolov,2,0,ATP,Clay,http://tennis.wettpoint.com/en/games/920995.html
+G. Zemlja,B. Tomic,2,0,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/920793.html
+F. Verdasco,J. Del Potro,2,0,ATP,Indoor,http://tennis.wettpoint.com/en/games/920665.html
+D. Hantuchova,S. Errani,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/920866.html
+R. Söderling,J. Tsonga,2,1,ATP,Indoor,http://tennis.wettpoint.com/en/games/920631.html
+K. Clijsters,P. Kvitova,0,2,WTA,Indoor,http://tennis.wettpoint.com/en/games/920918.html
+K. De Schepper,D. Guez,1,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/920829.html
+A. Seppi,G. Muller,2,1,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/920756.html
+A. Kudryavtseva,S. Zahlavova,0,2,WTA,Indoor,http://tennis.wettpoint.com/en/games/923478.html
+H. Watson,A. Hlavackova,2,0,WTA,Indoor,http://tennis.wettpoint.com/en/games/923483.html
+A. Groenefeld,C. Vandeweghe,0,2,WTA,Indoor,http://tennis.wettpoint.com/en/games/923488.html
+M. Rybarikova,V. King,2,1,WTA,Indoor,http://tennis.wettpoint.com/en/games/923477.html
+A. Glatch,B. Capra,2,0,WTA,Indoor,http://tennis.wettpoint.com/en/games/923475.html
+C. McHale,R. Voracova,0,2,WTA,Indoor,http://tennis.wettpoint.com/en/games/923481.html
+F. Verdasco,M. Raonic,0,2,ATP,Indoor,http://tennis.wettpoint.com/en/games/920668.html

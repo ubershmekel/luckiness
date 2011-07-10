@@ -1,0 +1,25 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+V. Troicki,N. Djokovic,0,1,ATP,Hard,http://tennis.wettpoint.com/en/games/912781.html
+A. Sevastova,V. Manasieva,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/912905.html
+C. Wozniacki,D. Cibulkova,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/912904.html
+M. Niculescu,F. Schiavone,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912907.html
+N. Almagro,I. Ljubicic,3,0,ATP,Hard,http://tennis.wettpoint.com/en/games/912780.html
+A. Roddick,R. Haase,3,1,ATP,Hard,http://tennis.wettpoint.com/en/games/912782.html
+N. Li,B. Zahlavova Strycova,2,0,WTA,Hard,http://tennis.wettpoint.com/en/games/912910.html
+J. Henin,S. Kuznetsova,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912906.html
+C. Scheepers,V. Azarenka,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912911.html
+T. Robredo,S. Stakhovsky,3,1,ATP,Hard,http://tennis.wettpoint.com/en/games/912784.html
+T. Berdych,R. Gasquet,3,0,ATP,Hard,http://tennis.wettpoint.com/en/games/912778.html
+J. Goerges,M. Sharapova,1,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912909.html
+X. Malisse,R. Federer,0,3,ATP,Hard,http://tennis.wettpoint.com/en/games/912785.html
+K. Nishikori,F. Verdasco,0,3,ATP,Hard,http://tennis.wettpoint.com/en/games/912779.html
+S. Wawrinka,G. Monfils,3,0,ATP,Hard,http://tennis.wettpoint.com/en/games/912783.html
+V. Williams,A. Petkovic,0,1,WTA,Hard,http://tennis.wettpoint.com/en/games/912908.html
+S. Halep,A. Radwanska,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912913.html
+R. Söderling,J. Hernych,3,0,ATP,Hard,http://tennis.wettpoint.com/en/games/912774.html
+L. Safarova,V. Zvonareva,0,2,WTA,Hard,http://tennis.wettpoint.com/en/games/912919.html
+M. Youzhny,M. Raonic,1,3,ATP,Hard,http://tennis.wettpoint.com/en/games/912772.html
+A. Dolgopolov,J. Tsonga,3,2,ATP,Hard,http://tennis.wettpoint.com/en/games/912775.html
+R. Berankis,D. Ferrer,0,3,ATP,Hard,http://tennis.wettpoint.com/en/games/912773.html
+G. Garcia-Lopez,A. Murray,0,3,ATP,Hard,http://tennis.wettpoint.com/en/games/912777.html
+A. Pavlyuchenkova,I. Benesova,0,3,WTA,Hard,http://tennis.wettpoint.com/en/games/912918.html

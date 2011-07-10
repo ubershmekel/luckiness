@@ -1,0 +1,13 @@
+player_a, player_b, score_a, score_b, game_type, court, match_url
+D. Sela,G. Soeda,2,1,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/960913.html
+Y. Lu,T. Ito,0,2,Challenger Tour ATP,Hard,http://tennis.wettpoint.com/en/games/960912.html
+M.Fish/A.Roddick,C.Berlocq/J.Nieminen,2,0,ATP Double,Clay,http://tennis.wettpoint.com/en/games/964205.html
+J.Isner/S.Querrey,S.Bolelli/F.Fognini,2,0,ATP Double,Clay,http://tennis.wettpoint.com/en/games/964206.html
+N. Li,S. Stosur,0,2,WTA,Clay,http://tennis.wettpoint.com/en/games/960874.html
+H. Zeballos,S. Robert,2,0,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/961092.html
+M. Gicquel,J. Benneteau,2,1,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/961091.html
+R. Nadal,R. Gasquet,2,0,ATP,Clay,http://tennis.wettpoint.com/en/games/961017.html
+M. Klizan,D. Junqueira,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/961127.html
+A. Arnaboldi,J. Souza,0,2,Challenger Tour ATP,Clay,http://tennis.wettpoint.com/en/games/961128.html
+C. Wozniacki,M. Sharapova,0,2,WTA,Clay,http://tennis.wettpoint.com/en/games/960873.html
+A. Murray,N. Djokovic,1,2,ATP,Clay,http://tennis.wettpoint.com/en/games/961018.html
