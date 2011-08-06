@@ -1,5 +1,5 @@
 '''
-
+An API to save and load league and player info.
 
 
 '''

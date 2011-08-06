@@ -1,0 +1,101 @@
+rank,pid,title,country,rating,games,b-day
+ 1,carlsen magnus, g, nor, 2821, 10, 1990-11-30
+ 2,anand viswanathan, g, ind, 2817, 0, 1969-12-11
+ 3,aronian levon, g, arm, 2805, 4, 1982-10-06
+ 4,karjakin sergey, g, rus, 2788, 10, 1990-01-12
+ 5,kramnik vladimir, g, rus, 2781, 8, 1975-06-25
+ 6,nakamura hikaru, g, usa, 2770, 16, 1987-12-09
+ 7,ivanchuk vassily, g, ukr, 2768, 20, 1969-03-18
+ 8,topalov veselin, g, bul, 2768, 4, 1975-03-15
+ 9,mamedyarov shakhriyar, g, aze, 2765, 4, 1985-04-12
+ 10,ponomariov ruslan, g, ukr, 2764, 17, 1983-10-11
+ 11,gashimov vugar, g, aze, 2760, 0, 1986-07-24
+ 12,gelfand boris, g, isr, 2746, 14, 1968-06-24
+ 13,grischuk alexander, g, rus, 2746, 14, 1983-10-31
+ 14,radjabov teimour, g, aze, 2744, 14, 1987-03-12
+ 15,kamsky gata, g, usa, 2741, 12, 1974-06-02
+ 16,svidler peter, g, rus, 2739, 0, 1976-06-17
+ 17,jakovenko dmitry, g, rus, 2736, 6, 1983-06-28
+ 18,vitiugov nikita, g, rus, 2733, 0, 1987-02-04
+ 19,almasi zoltan, g, hun, 2726, 8, 1976-08-29
+ 20,vallejo pons francisco, g, esp, 2724, 18, 1982-08-21
+ 21,navara david, g, cze, 2722, 30, 1985-03-27
+ 22,vachier-lagrave maxime, g, fra, 2722, 13, 1990-10-21
+ 23,dominguez perez leinier, g, cub, 2719, 10, 1983-09-23
+ 24,wang hao, g, chn, 2718, 15, 1989-08-04
+ 25,leko peter, g, hun, 2717, 0, 1979-09-08
+ 26,moiseenko alexander, g, ukr, 2715, 24, 1980-05-17
+ 27,le quang liem, g, vie, 2715, 22, 1991-03-13
+ 28,adams michael, g, eng, 2715, 14, 1971-11-17
+ 29,shirov alexei, g, esp, 2714, 12, 1972-07-04
+ 30,jobava baadur, g, geo, 2713, 13, 1983-11-26
+ 31,dreev aleksey, g, rus, 2711, 12, 1969-01-30
+ 32,caruana fabiano, g, ita, 2711, 9, 1992-07-30
+ 33,nepomniachtchi ian, g, rus, 2711, 0, 1990-07-14
+ 34,bacrot etienne, g, fra, 2710, 11, 1983-01-22
+ 35,wang yue, g, chn, 2709, 24, 1987-03-31
+ 36,tomashevsky evgeny, g, rus, 2707, 0, 1987-07-01
+ 37,naiditsch arkadij, g, ger, 2706, 24, 1985-10-25
+ 38,efimenko zahar, g, ukr, 2706, 12, 1985-07-03
+ 39,malakhov vladimir, g, rus, 2706, 3, 1980-11-27
+ 40,giri anish, g, ned, 2701, 12, 1994-06-28
+ 41,sutovsky emil, g, isr, 2700, 15, 1977-09-19
+ 42,movsesian sergei, g, arm, 2700, 6, 1978-11-03
+ 43,polgar judit, g, hun, 2699, 0, 1976-07-23
+ 44,fressinet laurent, g, fra, 2698, 14, 1981-11-30
+ 45,eljanov pavel, g, ukr, 2697, 21, 1983-05-10
+ 46,berkes ferenc, g, hun, 2696, 20, 1985-08-08
+ 47,andreikin dmitry, g, rus, 2696, 10, 1990-02-05
+ 48,morozevich alexander, g, rus, 2694, 0, 1977-07-18
+ 49,zhigalko sergei, g, blr, 2689, 7, 1989-03-28
+ 50,riazantsev alexander, g, rus, 2688, 11, 1985-09-12
+ 51,short nigel d, g, eng, 2687, 9, 1965-06-01
+ 52,motylev alexander, g, rus, 2685, 3, 1979-06-17
+ 53,rublevsky sergei, g, rus, 2684, 2, 1974-10-15
+ 54,van wely loek, g, ned, 2683, 16, 1972-10-07
+ 55,wojtaszek radoslaw, g, pol, 2683, 16, 1987-01-13
+ 56,volokitin andrei, g, ukr, 2683, 11, 1986-06-18
+ 57,areshchenko alexander, g, ukr, 2682, 11, 1986-06-15
+ 58,potkin vladimir, g, rus, 2682, 0, 1982-06-28
+ 59,sasikiran krishnan, g, ind, 2681, 25, 1981-01-07
+ 60,laznicka viktor, g, cze, 2681, 0, 1988-01-09
+ 61,nielsen peter heine, g, den, 2681, 0, 1973-05-24
+ 62,grachev boris, g, rus, 2680, 7, 1986-03-27
+ 63,inarkiev ernesto, g, rus, 2679, 0, 1985-12-09
+ 64,kobalia mikhail, g, rus, 2679, 0, 1978-05-03
+ 65,mamedov rauf, g, aze, 2679, 0, 1988-04-26
+ 66,bologan viktor, g, mda, 2678, 0, 1971-12-14
+ 67,smirin ilia, g, isr, 2676, 20, 1968-01-21
+ 68,bu xiangzhi, g, chn, 2675, 24, 1985-12-10
+ 69,onischuk alexander, g, usa, 2675, 0, 1975-09-03
+ 70,bruzon batista lazaro, g, cub, 2673, 19, 1982-05-02
+ 71,yu yangyi, g, chn, 2672, 33, 1994-06-08
+ 72,sokolov ivan, g, ned, 2672, 14, 1968-06-13
+ 73,korobov anton, g, ukr, 2671, 25, 1985-06-25
+ 74,mcshane luke j, g, eng, 2671, 4, 1984-01-07
+ 75,gharamian tigran, g, fra, 2670, 10, 1984-07-24
+ 76,harikrishna p., g, ind, 2669, 25, 1986-05-10
+ 77,li chao b, g, chn, 2669, 24, 1989-04-21
+ 78,roiz michael, g, isr, 2669, 18, 1983-10-10
+ 79,kasimdzhanov rustam, g, uzb, 2669, 9, 1979-12-05
+ 80,cheparinov ivan, g, bul, 2669, 0, 1986-11-26
+ 81,akopian vladimir, g, arm, 2667, 9, 1971-12-07
+ 82,feller sebastien, g, fra, 2666, 6, 1991-03-11
+ 83,timofeev artyom, g, rus, 2665, 0, 1985-01-06
+ 84,sargissian gabriel, g, arm, 2663, 0, 1983-09-03
+ 85,ni hua, g, chn, 2662, 15, 1983-05-31
+ 86,fridman daniel, g, ger, 2659, 8, 1976-02-15
+ 87,alekseev evgeny, g, rus, 2659, 7, 1985-11-28
+ 88,zvjaginsev vadim, g, rus, 2659, 0, 1976-08-18
+ 89,so wesley, g, phi, 2658, 23, 1993-10-09
+ 90,meier georg, g, ger, 2656, 13, 1987-08-26
+ 91,khismatullin denis, g, rus, 2656, 9, 1984-12-28
+ 92,sandipan chanda, g, ind, 2656, 0, 1983-08-13
+ 93,georgiev kiril, g, bul, 2654, 21, 1965-11-28
+ 94,ding liren, g, chn, 2654, 15, 1992-10-24
+ 95,markus robert, g, srb, 2652, 25, 1983-10-07
+ 96,kryvoruchko yuriy, g, ukr, 2652, 20, 1986-12-19
+ 97,ragger markus, g, aut, 2651, 20, 1988-02-05
+ 98,milov vadim, g, sui, 2651, 16, 1972-08-01
+ 99,lupulescu constantin, g, rou, 2650, 10, 1984-03-25
+ 100,khairullin ildar, g, rus, 2649, 0, 1990-08-22
