@@ -12,9 +12,9 @@ from pylab import colorbar
 
 import league
 
-ONLY_TOP = 64
-MIN_DATE = datetime.datetime(year=2011, month=1, day=1)
-MIN_MATCHES_COUNT = 5
+ONLY_TOP = 32
+MIN_DATE = datetime.datetime(year=2010, month=1, day=1)
+MIN_MATCHES_COUNT = 4
 
 
 def average(sequence):
@@ -26,7 +26,7 @@ def plot(x, y, z, sizes=None):
     ax = fig.add_subplot(111, projection='3d')
     #ax.plot_surface(X, Y, Z, rstride=1, cstride=1, cmap=cm.jet)
     #ax.plot_wireframe(X, Y, Z, rstride=1, cstride=1, cmap=cm.jet)
-    ax.scatter(x,y,z, s=sizes)
+    ax.scatter(x,y,z, c=sizes)
     ax.set_zlim3d(0, 1)
     ax.set_ylim3d(0, 1)
     ax.set_xlim3d(0, 1)
@@ -38,7 +38,7 @@ def plot(x, y, z, sizes=None):
     plt.show()
 
 
-def calculate_luckiness(prob_p1_wins):
+def average_distance(prob_p1_wins):
     # (s1, s2, prob, len(rec))
     integral = 0
 
@@ -88,28 +88,25 @@ def rating_key(player):
     rating = re.findall(r'\d+', player.rating)[0]
     return -int(rating)
 
-def analyze(league_name):
-    target_league = league.League(league_name)
-    players_list = target_league.get_players()
-    players_list = players_list[:ONLY_TOP]
-
-    players_count = len(players_list)
+def build_skill_graph(ranking, raw_results):
+    '''
+    ranking = ['tom', 'john', 'luke']
+    raw_results = [<Match1>, <Match2>]
+    '''
+    players_count = len(ranking)
     skill_level = {}
 
-    players_list.sort(key=rating_key)
+    ranking.sort(key=rating_key)
     
-    for i, player in enumerate(players_list):
+    for i, player in enumerate(ranking):
         skill_level[player.pid] = 1.0 - (1.0 * i) / (players_count - 1)
 
-    players_dict = dict(zip([p.pid for p in players_list], players_list))
+    players_dict = dict(zip([p.pid for p in ranking], ranking))
 
     #records = get_old_records(league_name)
     records = {}
-
-    
     
     # gather all the s1 vs s2 matches
-    raw_results = target_league.get_results()
     for match in raw_results:
         date_str = match.date
         player_name = match.p1
@@ -136,6 +133,9 @@ def analyze(league_name):
         if match.result == 'Win':
             matches_log.append(1)
             matchesMirror.append(0)
+        elif match.result == 'Draw':
+            matches_log.append(0.5)
+            matchesMirror.append(0.5)
         else:
             matches_log.append(0)
             matchesMirror.append(1)
@@ -144,9 +144,10 @@ def analyze(league_name):
         records[(s2,s1)] = matchesMirror
 
     
-    # calculate P from known s1 v s2 records. P1 = (1win + 1win + 0(loss) + ... ) / total_matches
+    # calculate P(s1, s2) from known s1 v s2 records. P1 = (1win + 1win + 0(loss) + ... ) / total_matches
     prob_p1_wins = []
     matches_count_log = []
+    
     for (s1, s2), rec in records.items():
         matches_count = len(rec)
         if matches_count < MIN_MATCHES_COUNT:
@@ -155,11 +156,25 @@ def analyze(league_name):
         matches_count_log.append(matches_count)
         prob = average(rec)
         # account for s1, s2, probability of winning and the amount of data points
-        prob_p1_wins.append((s1, s2, prob, len(rec)))
-
+        #dot_size = len(rec)
+        expected = 1 if s1 > s2 else 0
+        badness = abs(prob - expected) ** 0.5
+        prob_p1_wins.append((s1, s2, prob, (badness, 0, 1 - badness)))
     
-    luckiness = calculate_luckiness(prob_p1_wins)
-    print('L for "%s" is %g   Info: top%d, avg matches#%g, num of points: %d' % (league_name, luckiness, players_count, average(matches_count_log), len(prob_p1_wins)))
+    return prob_p1_wins
+
+
+def analyze(league_name):
+    target_league = league.League(league_name)
+    players_list = target_league.get_players()
+    players_list = players_list[:ONLY_TOP]
+
+    raw_results = target_league.get_results()
+    prob_p1_wins = build_skill_graph(players_list, raw_results)
+    
+    luckiness = average_distance(prob_p1_wins)
+    print('L for "%s" is %g   Info: top%d, num of points: %d' % 
+            (league_name, luckiness, len(players_list), len(prob_p1_wins)))
     # x, y, z = vectors
     
     # limit the skill level shown
@@ -171,6 +186,7 @@ def analyze(league_name):
     plot(*vectors)
 
 print('min matches count: %d, min date: %s' % (MIN_MATCHES_COUNT, MIN_DATE))
+analyze('chess')
 analyze('coinflip')
 analyze('tennis')
 analyze('sc1')
